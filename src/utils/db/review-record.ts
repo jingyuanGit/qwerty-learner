@@ -1,4 +1,5 @@
 import { db } from '.'
+import { notifyLocalSqliteDataChanged } from './local-file-sync'
 import { ReviewRecord } from './record'
 import type { TErrorWordData } from '@/pages/Gallery-N/hooks/useErrorWords'
 import type { Word } from '@/typings'
@@ -60,9 +61,11 @@ export async function generateNewWordReviewRecord(dictID: string, errorData: TEr
   const record = new ReviewRecord(dictID, sortedWords)
 
   await db.reviewRecords.put(record)
+  notifyLocalSqliteDataChanged(db)
   return record
 }
 
 export async function putWordReviewRecord(record: ReviewRecord) {
-  db.reviewRecords.put(record)
+  await db.reviewRecords.put(record)
+  notifyLocalSqliteDataChanged(db)
 }

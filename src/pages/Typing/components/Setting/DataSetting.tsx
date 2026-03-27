@@ -1,9 +1,17 @@
 import styles from './index.module.css'
+import { db } from '@/utils/db'
 import type { ExportProgress, ImportProgress } from '@/utils/db/data-export'
 import { exportDatabase, importDatabase } from '@/utils/db/data-export'
+import {
+  bindLocalSqliteFile,
+  flushLocalSqliteNow,
+  getLocalSqliteSyncState,
+  subscribeLocalSqliteSyncState,
+  unbindLocalSqliteFile,
+} from '@/utils/db/local-file-sync'
 import * as Progress from '@radix-ui/react-progress'
 import * as ScrollArea from '@radix-ui/react-scroll-area'
-import { useCallback, useState } from 'react'
+import { useCallback, useEffect, useState } from 'react'
 
 export default function DataSetting() {
   const [isExporting, setIsExporting] = useState(false)
@@ -11,6 +19,13 @@ export default function DataSetting() {
 
   const [isImporting, setIsImporting] = useState(false)
   const [importProgress, setImportProgress] = useState(0)
+  const [localSyncState, setLocalSyncState] = useState(getLocalSqliteSyncState())
+  const [isBindingFile, setIsBindingFile] = useState(false)
+  const [isManualSyncing, setIsManualSyncing] = useState(false)
+
+  useEffect(() => {
+    return subscribeLocalSqliteSyncState(setLocalSyncState)
+  }, [])
 
   const exportProgressCallback = useCallback(({ totalRows, completedRows, done }: ExportProgress) => {
     if (done) {
@@ -53,10 +68,102 @@ export default function DataSetting() {
     importDatabase(onStartImport, importProgressCallback)
   }, [importProgressCallback, onStartImport])
 
+  const onBindSqlite = useCallback(async () => {
+    setIsBindingFile(true)
+    try {
+      await bindLocalSqliteFile(db)
+    } catch (error) {
+      console.error(error)
+      window.alert(error instanceof Error ? error.message : '绑定 SQLite 文件失败')
+    } finally {
+      setIsBindingFile(false)
+    }
+  }, [])
+
+  const onManualSync = useCallback(async () => {
+    setIsManualSyncing(true)
+    try {
+      await flushLocalSqliteNow(db)
+    } catch (error) {
+      console.error(error)
+      window.alert(error instanceof Error ? error.message : '手动同步失败')
+    } finally {
+      setIsManualSyncing(false)
+    }
+  }, [])
+
+  const onUnbindSqlite = useCallback(async () => {
+    try {
+      await unbindLocalSqliteFile()
+    } catch (error) {
+      console.error(error)
+      window.alert(error instanceof Error ? error.message : '解绑 SQLite 文件失败')
+    }
+  }, [])
+
   return (
     <ScrollArea.Root className="flex-1 select-none overflow-y-auto ">
       <ScrollArea.Viewport className="h-full w-full px-3">
         <div className={styles.tabContent}>
+          <div className={styles.section}>
+            <span className={styles.sectionLabel}>本地 SQLite 自动保存</span>
+            {!localSyncState.supported ? (
+              <span className={styles.sectionDescription}>
+                当前浏览器不支持本地文件自动写入。请使用最新版 Chrome/Edge 打开此页面后再绑定本地 SQLite 文件。
+              </span>
+            ) : (
+              <>
+                <span className={styles.sectionDescription}>
+                  绑定后，练习进度会自动保存到你选择的本地 SQLite 文件。首次绑定需要授权，后续将自动同步。
+                </span>
+                <span className="pl-4 text-left text-sm text-gray-700 dark:text-gray-300">
+                  当前状态：
+                  {localSyncState.bound
+                    ? `已绑定 ${localSyncState.fileName ?? 'sqlite 文件'}`
+                    : localSyncState.initialized
+                    ? '未绑定'
+                    : '初始化中...'}
+                </span>
+                {localSyncState.lastError && (
+                  <span className="pl-4 text-left text-sm text-red-500">错误信息：{localSyncState.lastError}</span>
+                )}
+                {localSyncState.lastSyncedAt && (
+                  <span className="pl-4 text-left text-sm text-gray-700 dark:text-gray-300">
+                    最近同步：{new Date(localSyncState.lastSyncedAt).toLocaleString()}
+                  </span>
+                )}
+                <div className="flex flex-wrap gap-3 pl-4">
+                  <button
+                    className="my-btn-primary disabled:bg-gray-300"
+                    type="button"
+                    onClick={onBindSqlite}
+                    disabled={isBindingFile || localSyncState.syncing}
+                    title={localSyncState.bound ? '重新绑定 SQLite 文件' : '绑定 SQLite 文件'}
+                  >
+                    {localSyncState.bound ? '重新绑定文件' : '绑定 SQLite 文件'}
+                  </button>
+                  <button
+                    className="my-btn-primary disabled:bg-gray-300"
+                    type="button"
+                    onClick={onManualSync}
+                    disabled={!localSyncState.bound || isManualSyncing || localSyncState.syncing}
+                    title="立即同步到本地文件"
+                  >
+                    立即同步
+                  </button>
+                  <button
+                    className="my-btn-primary bg-gray-200 text-gray-700 disabled:bg-gray-300"
+                    type="button"
+                    onClick={onUnbindSqlite}
+                    disabled={!localSyncState.bound || localSyncState.syncing}
+                    title="解绑本地文件"
+                  >
+                    解绑
+                  </button>
+                </div>
+              </>
+            )}
+          </div>
           <div className={styles.section}>
             <span className={styles.sectionLabel}>数据导出</span>
             <span className={styles.sectionDescription}>

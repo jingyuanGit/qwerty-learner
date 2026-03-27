@@ -1,3 +1,4 @@
+import { initializeLocalSqliteSync, notifyLocalSqliteDataChanged } from './local-file-sync'
 import type { IChapterRecord, IReviewRecord, IRevisionDictRecord, IWordRecord, LetterMistakes } from './record'
 import { ChapterRecord, ReviewRecord, WordRecord } from './record'
 import { TypingContext, TypingStateActionType } from '@/pages/Typing/store'
@@ -35,6 +36,7 @@ class RecordDB extends Dexie {
 }
 
 export const db = new RecordDB()
+void initializeLocalSqliteSync(db)
 
 db.wordRecords.mapToClass(WordRecord)
 db.chapterRecords.mapToClass(ChapterRecord)
@@ -64,7 +66,9 @@ export function useSaveChapterRecord() {
         words.length,
         wordRecordIds ?? [],
       )
-      db.chapterRecords.add(chapterRecord)
+      db.chapterRecords.add(chapterRecord).then(() => {
+        notifyLocalSqliteDataChanged(db)
+      })
     },
     [currentChapter, dictID, isRevision],
   )
@@ -107,6 +111,7 @@ export function useSaveWordRecord() {
       let dbID = -1
       try {
         dbID = await db.wordRecords.add(wordRecord)
+        notifyLocalSqliteDataChanged(db)
       } catch (e) {
         console.error(e)
       }
@@ -125,6 +130,9 @@ export function useDeleteWordRecord() {
   const deleteWordRecord = useCallback(async (word: string, dict: string) => {
     try {
       const deletedCount = await db.wordRecords.where({ word, dict }).delete()
+      if (deletedCount > 0) {
+        notifyLocalSqliteDataChanged(db)
+      }
       return deletedCount
     } catch (error) {
       console.error(`删除单词记录时出错：`, error)

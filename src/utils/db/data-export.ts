@@ -1,5 +1,6 @@
 import { db } from '.'
 import { getCurrentDate, recordDataAction } from '..'
+import { notifyLocalSqliteDataChanged } from './local-file-sync'
 
 export type ExportProgress = {
   totalRows?: number
@@ -60,6 +61,7 @@ export async function importDatabase(onStart: () => void, callback: (importProgr
     })
 
     const [wordCount, chapterCount] = await Promise.all([db.wordRecords.count(), db.chapterRecords.count()])
+    notifyLocalSqliteDataChanged(db)
     recordDataAction({ type: 'import', size: file.size, wordCount, chapterCount })
   })
 

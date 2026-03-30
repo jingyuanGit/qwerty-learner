@@ -2,13 +2,15 @@ import { track } from '@vercel/analytics'
 
 export const trackPromotionEvent = (event: string, properties: Record<string, string>) => {
   track(event, properties)
-
-  // @ts-expect-error gtag is not defined in the window object
-  if (typeof window !== 'undefined' && window?.gtag) {
+  if (typeof window !== 'undefined') {
+    const runtimeWindow = window as Window & {
+      gtag?: (...args: unknown[]) => void
+    }
+    if (!runtimeWindow.gtag) return
     try {
-      window.gtag('event', event, { ...properties })
+      runtimeWindow.gtag('event', event, { ...properties })
       if (properties.action_detail) {
-        window.gtag('event', properties.action_detail)
+        runtimeWindow.gtag('event', properties.action_detail)
       }
     } catch (error) {
       console.error(error)

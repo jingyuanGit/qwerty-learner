@@ -330,7 +330,7 @@
   {
     "name": "yard sale",
     "trans": [
-      "庭院旧货出售"
+      null
     ],
     "usphone": "ˈjɑːd seɪl",
     "ukphone": "ˈjɑːd seɪl"
@@ -1054,7 +1054,7 @@
   {
     "name": "barbecued",
     "trans": [
-      "户外烧烤（ barbecue的过去式和过去分词 ）"
+      null
     ]
   },
   {
@@ -1156,7 +1156,7 @@
   {
     "name": "national park",
     "trans": [
-      "（美）国家公园"
+      "n. （美）国家公园"
     ],
     "usphone": "ˌnæʃnəl ˈpɑːk",
     "ukphone": "ˌnæʃnəl ˈpɑːk"
@@ -1220,7 +1220,7 @@
   {
     "name": "take over",
     "trans": [
-      "接管；接收"
+      null
     ],
     "usphone": "tek ˈovɚ",
     "ukphone": "tek ˈovɚ"
@@ -1850,7 +1850,7 @@
   {
     "name": "leap year",
     "trans": [
-      "闰年"
+      "n. 闰年"
     ]
   },
   {
@@ -2624,7 +2624,7 @@
   {
     "name": "musher",
     "trans": [
-      "赶狗拉雪橇的人"
+      null
     ],
     "usphone": "ˈmʌʃər",
     "ukphone": "ˈmʌʃər"
@@ -3148,7 +3148,7 @@
   {
     "name": "natural gas",
     "trans": [
-      "[油气] 天然气"
+      "n. [油气] 天然气"
     ],
     "usphone": "ˈnætʃrəl ˈɡæs",
     "ukphone": "ˈnætʃrəl ˈɡæs"

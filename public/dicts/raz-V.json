@@ -474,7 +474,7 @@
   {
     "name": "app",
     "trans": [
-      "abbr. （计算机）应用程序 (application) n. (App) （美、德、巴）阿普（人名）"
+      "n. abbr. （计算机）应用程序 (application) n. (App) （美、德、巴）阿普（人名）"
     ],
     "usphone": "æp",
     "ukphone": "æp"
@@ -928,7 +928,7 @@
   {
     "name": "solar system",
     "trans": [
-      "[天] 太阳系"
+      "n. [天] 太阳系"
     ],
     "usphone": "ˈsəʊlə sɪstəm",
     "ukphone": "ˈsəʊlə sɪstəm"
@@ -1646,7 +1646,7 @@
   {
     "name": "musher",
     "trans": [
-      "赶狗拉雪橇的人"
+      null
     ],
     "usphone": "ˈmʌʃər",
     "ukphone": "ˈmʌʃər"
@@ -1726,7 +1726,7 @@
   {
     "name": "space station",
     "trans": [
-      "空间站，太空站"
+      null
     ],
     "usphone": "ˈspeɪs steɪʃn",
     "ukphone": "ˈspeɪs steɪʃn"
@@ -1790,7 +1790,7 @@
   {
     "name": "mesmerizing",
     "trans": [
-      "施催眠术 迷惑（mesmerize的现在分词） 有吸引力的，有魅力的"
+      null
     ],
     "usphone": "ˈmezməraɪzɪŋ",
     "ukphone": "ˈmezməraɪzɪŋ"
@@ -1830,7 +1830,7 @@
   {
     "name": "irrigated",
     "trans": [
-      "[农工] 灌溉的"
+      null
     ]
   },
   {
@@ -1916,7 +1916,7 @@
   {
     "name": "Nobel Prize",
     "trans": [
-      "诺贝尔奖"
+      null
     ],
     "usphone": "ˌnəʊbel ˈpraɪz",
     "ukphone": "ˌnəʊbel ˈpraɪz"
@@ -2036,7 +2036,7 @@
   {
     "name": "science fiction",
     "trans": [
-      "科幻小说"
+      "n. 科幻小说"
     ],
     "usphone": "ˌsaɪəns ˈfɪkʃən",
     "ukphone": "ˌsaɪəns ˈfɪkʃən"
@@ -2870,7 +2870,7 @@
   {
     "name": "World War II",
     "trans": [
-      "第二次世界大战"
+      null
     ],
     "usphone": "wɚld wɔr tu",
     "ukphone": "wɚld wɔr tu"

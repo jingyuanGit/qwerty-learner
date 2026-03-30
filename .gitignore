@@ -34,3 +34,6 @@ stats.html
 /blob-report/
 /playwright/.cache/
 playwright-report
+progress.sqlite
+progress.sqlite-shm
+progress.sqlite-wal

@@ -1234,7 +1234,7 @@
   {
     "name": "solar system",
     "trans": [
-      "[天] 太阳系"
+      "n. [天] 太阳系"
     ],
     "usphone": "ˈsəʊlə sɪstəm",
     "ukphone": "ˈsəʊlə sɪstəm"
@@ -1678,7 +1678,7 @@
   {
     "name": "search engine",
     "trans": [
-      "搜索引擎"
+      "n. 搜索引擎"
     ],
     "usphone": "ˈsɜːtʃ endʒɪn",
     "ukphone": "ˈsɜːtʃ endʒɪn"
@@ -1982,7 +1982,7 @@
   {
     "name": "space station",
     "trans": [
-      "空间站，太空站"
+      null
     ],
     "usphone": "ˈspeɪs steɪʃn",
     "ukphone": "ˈspeɪs steɪʃn"

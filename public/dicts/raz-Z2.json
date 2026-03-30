@@ -470,7 +470,7 @@
   {
     "name": "mass production",
     "trans": [
-      "[工经] 大量生产"
+      null
     ],
     "usphone": "ˌmæs prəˈdʌkʃən",
     "ukphone": "ˌmæs prəˈdʌkʃən"
@@ -1204,7 +1204,7 @@
   {
     "name": "quarreling",
     "trans": [
-      "争辩（quarrel的现在分词）"
+      null
     ]
   },
   {
@@ -1934,7 +1934,7 @@
   {
     "name": "DNA",
     "trans": [
-      "abbr. 脱氧核糖核酸（deoxyribonucleic acid）；（美国）国防部核子局（Defense Nuclear Agency）"
+      null
     ],
     "usphone": "ˌdiː en ˈeɪ",
     "ukphone": "ˌdiː en ˈeɪ"
@@ -2046,7 +2046,7 @@
   {
     "name": "revered",
     "trans": [
-      "敬"
+      "v. 敬"
     ]
   },
   {
@@ -2958,7 +2958,7 @@
   {
     "name": "sea level",
     "trans": [
-      "[海洋] 海平面"
+      "n. [海洋] 海平面"
     ],
     "usphone": "ˈsiː lev(ə)l",
     "ukphone": "ˈsiː lev(ə)l"

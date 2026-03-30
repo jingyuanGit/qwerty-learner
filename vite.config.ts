@@ -45,6 +45,14 @@ export default defineConfig(async ({ mode }) => {
         '@': path.resolve(__dirname, 'src'),
       },
     },
+    server: {
+      proxy: {
+        '/api': {
+          target: 'http://localhost:3001',
+          changeOrigin: true,
+        },
+      },
+    },
     css: {
       modules: {
         localsConvention: 'camelCaseOnly',

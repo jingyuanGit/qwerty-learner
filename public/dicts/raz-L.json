@@ -74,7 +74,7 @@
   {
     "name": "national park",
     "trans": [
-      "（美）国家公园"
+      "n. （美）国家公园"
     ],
     "usphone": "ˌnæʃnəl ˈpɑːk",
     "ukphone": "ˌnæʃnəl ˈpɑːk"
@@ -822,7 +822,7 @@
   {
     "name": "blood sugar",
     "trans": [
-      "[生化] 血糖"
+      null
     ],
     "usphone": "ˌblʌd ˈʃʊɡə(r)",
     "ukphone": "ˌblʌd ˈʃʊɡə(r)"
@@ -2166,7 +2166,7 @@
   {
     "name": "prime minister",
     "trans": [
-      "首相，总理"
+      null
     ],
     "usphone": "ˌpraɪm ˈmɪnɪstə(r)",
     "ukphone": "ˌpraɪm ˈmɪnɪstə(r)"

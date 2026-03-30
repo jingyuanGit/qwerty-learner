@@ -2,3343 +2,3343 @@
   {
     "name": "go out for dinner/dine out",
     "trans": [
-      "出去吃饭"
+      null
     ]
   },
   {
     "name": "go Dutch/Let's go fifty fifty",
     "trans": [
-      "AA制"
+      null
     ]
   },
   {
     "name": "buffet",
     "trans": [
-      "自助餐，小卖部"
+      "n. 自助餐，小卖部"
     ]
   },
   {
     "name": "dining hall",
     "trans": [
-      "餐厅"
+      null
     ]
   },
   {
     "name": "coffee shop/cafe",
     "trans": [
-      "咖啡店/厅"
+      null
     ]
   },
   {
     "name": "cafeteria",
     "trans": [
-      "自助餐厅"
+      "n. 自助餐厅"
     ]
   },
   {
     "name": "restaurant",
     "trans": [
-      "餐馆"
+      "n. 餐馆"
     ]
   },
   {
     "name": "canteen",
     "trans": [
-      "食堂，小卖部"
+      "n. 食堂，小卖部"
     ]
   },
   {
     "name": "snack bar",
     "trans": [
-      "小吃街；大排挡"
+      "n. 小吃街；大排挡"
     ]
   },
   {
     "name": "appetizer",
     "trans": [
-      "开胃品"
+      "n. 开胃品"
     ]
   },
   {
     "name": "steak",
     "trans": [
-      "牛排"
+      "n. 牛排"
     ]
   },
   {
     "name": "cheese",
     "trans": [
-      "奶酪"
+      "n. 奶酪"
     ]
   },
   {
     "name": "sandwich",
     "trans": [
-      "三明治"
+      "n. 三明治"
     ]
   },
   {
     "name": "bacon",
     "trans": [
-      "腌肉"
+      "n. 腌肉"
     ]
   },
   {
     "name": "soup",
     "trans": [
-      "汤"
+      "n. 汤"
     ]
   },
   {
     "name": "plain water",
     "trans": [
-      "自来水(西餐中洗手用的)"
+      null
     ]
   },
   {
     "name": "hamburger",
     "trans": [
-      "汉堡包"
+      "n. 汉堡包"
     ]
   },
   {
     "name": "doughnut",
     "trans": [
-      "油炸圈饼"
+      "n. 油炸圈饼"
     ]
   },
   {
     "name": "dessert",
     "trans": [
-      "甜品，水果(作为正餐的最后一道)"
+      "n. 甜品，水果(作为正餐的最后一道)"
     ]
   },
   {
     "name": "coke",
     "trans": [
-      "可口可乐"
+      "n. 可口可乐"
     ]
   },
   {
     "name": "French fries",
     "trans": [
-      "炸薯条"
+      "n. 炸薯条"
     ]
   },
   {
     "name": "order",
     "trans": [
-      "点菜"
+      "n. 点菜"
     ]
   },
   {
     "name": "serve",
     "trans": [
-      "上菜"
+      "vt. 上菜"
     ]
   },
   {
     "name": "change",
     "trans": [
-      "零钱"
+      "n. 零钱"
     ]
   },
   {
     "name": "tip",
     "trans": [
-      "小费"
+      "n. 小费"
     ]
   },
   {
     "name": "treat/This is my treat",
     "trans": [
-      "请客(我请客!)"
+      null
     ]
   },
   {
     "name": "Keep the change",
     "trans": [
-      "不用找零钱了!"
+      null
     ]
   },
   {
     "name": "waiter/waitress",
     "trans": [
-      "男/女侍者"
+      null
     ]
   },
   {
     "name": "menu",
     "trans": [
-      "菜单"
+      "n. 菜单"
     ]
   },
   {
     "name": "knife",
     "trans": [
-      "小刀"
+      "n. 小刀"
     ]
   },
   {
     "name": "fork",
     "trans": [
-      "叉子"
+      "n. 叉子"
     ]
   },
   {
     "name": "spoon",
     "trans": [
-      "调羹"
+      "n. 调羹"
     ]
   },
   {
     "name": "chopsticks",
     "trans": [
-      "筷子"
+      "n. 筷子"
     ]
   },
   {
     "name": "plate",
     "trans": [
-      "碟子"
+      "n. 碟子"
     ]
   },
   {
     "name": "tray",
     "trans": [
-      "托盘"
+      "n. 托盘"
     ]
   },
   {
     "name": "French fries",
     "trans": [
-      "炸薯条"
+      "n. 炸薯条"
     ]
   },
   {
     "name": "pizza",
     "trans": [
-      "比萨饼"
+      "n. 比萨饼"
     ]
   },
   {
     "name": "ressing",
     "trans": [
-      "调味酱"
+      null
     ]
   },
   {
     "name": "rare",
     "trans": [
-      "半熟的"
+      "adj. 半熟的"
     ]
   },
   {
     "name": "drink",
     "trans": [
-      "饮料"
+      "n. 饮料"
     ]
   },
   {
     "name": "wine",
     "trans": [
-      "葡萄酒"
+      "n. 葡萄酒"
     ]
   },
   {
     "name": "Coca-Cola",
     "trans": [
-      "可口可乐"
+      null
     ]
   },
   {
     "name": "pay the bill",
     "trans": [
-      "付账"
+      null
     ]
   },
   {
     "name": "stamp",
     "trans": [
-      "邮票"
+      "n. 邮票"
     ]
   },
   {
     "name": "envelope",
     "trans": [
-      "信封"
+      "n. 信封"
     ]
   },
   {
     "name": "package/parcel",
     "trans": [
-      "包裹"
+      null
     ]
   },
   {
     "name": "parcel form",
     "trans": [
-      "包裹单"
+      null
     ]
   },
   {
     "name": "overweight",
     "trans": [
-      "超重"
+      "adj. 超重"
     ]
   },
   {
     "name": "postage",
     "trans": [
-      "邮资"
+      "n. 邮资"
     ]
   },
   {
     "name": "extra postage",
     "trans": [
-      "额外邮资"
+      null
     ]
   },
   {
     "name": "send/post/deliver a letter/mail",
     "trans": [
-      "寄/发信"
+      null
     ]
   },
   {
     "name": "express mail",
     "trans": [
-      "快件"
+      null
     ]
   },
   {
     "name": "airmail",
     "trans": [
-      "航空信件"
+      "n. 航空信件"
     ]
   },
   {
     "name": "surface mail",
     "trans": [
-      "平邮，陆地邮寄"
+      null
     ]
   },
   {
     "name": "registered letter",
     "trans": [
-      "挂号信"
+      null
     ]
   },
   {
     "name": "ordinary letter",
     "trans": [
-      "平信"
+      null
     ]
   },
   {
     "name": "open an account",
     "trans": [
-      "开一个帐户"
+      null
     ]
   },
   {
     "name": "insurance",
     "trans": [
-      "保险"
+      "n. 保险"
     ]
   },
   {
     "name": "claim",
     "trans": [
-      "领取"
+      "n. 领取"
     ]
   },
   {
     "name": "weight",
     "trans": [
-      "重量"
+      "n. 重量"
     ]
   },
   {
     "name": "zip/post code",
     "trans": [
-      "邮编"
+      null
     ]
   },
   {
     "name": "international airmail",
     "trans": [
-      "国际航空邮件"
+      null
     ]
   },
   {
     "name": "open an account",
     "trans": [
-      "开一个帐户"
+      null
     ]
   },
   {
     "name": "library card",
     "trans": [
-      "借书证"
+      "n. 借书证"
     ]
   },
   {
     "name": "borrow",
     "trans": [
-      "借进"
+      "vt. 借进"
     ]
   },
   {
     "name": "lend",
     "trans": [
-      "借出"
+      "vt. 借出"
     ]
   },
   {
     "name": "keep",
     "trans": [
-      "保管"
+      "vt. 保管"
     ]
   },
   {
     "name": "renew",
     "trans": [
-      "续借"
+      "vt. 续借"
     ]
   },
   {
     "name": "overdue",
     "trans": [
-      "借书逾期"
+      "adj. 借书逾期"
     ]
   },
   {
     "name": "bookshelf",
     "trans": [
-      "书架"
+      "n. 书架"
     ]
   },
   {
     "name": "novel",
     "trans": [
-      "小说/新颖的"
+      "n. 小说/新颖的"
     ]
   },
   {
     "name": "science fiction",
     "trans": [
-      "科幻小说"
+      "n. 科幻小说"
     ]
   },
   {
     "name": "magazine/newspaper",
     "trans": [
-      "杂志"
+      null
     ]
   },
   {
     "name": "periodical",
     "trans": [
-      "期刊"
+      "n. 期刊"
     ]
   },
   {
     "name": "reference book",
     "trans": [
-      "参考书"
+      "n. 参考书"
     ]
   },
   {
     "name": "librarian",
     "trans": [
-      "图书管理员"
+      "n. 图书管理员"
     ]
   },
   {
     "name": "pay a fine",
     "trans": [
-      "交罚款"
+      null
     ]
   },
   {
     "name": "tuition",
     "trans": [
-      "学费"
+      "n. 学费"
     ]
   },
   {
     "name": "scholarship",
     "trans": [
-      "奖学金"
+      "n. 奖学金"
     ]
   },
   {
     "name": "term/semester",
     "trans": [
-      "学期"
+      null
     ]
   },
   {
     "name": "register",
     "trans": [
-      "注册"
+      "n. 注册"
     ]
   },
   {
     "name": "be absent",
     "trans": [
-      "缺课"
+      null
     ]
   },
   {
     "name": "seminar",
     "trans": [
-      "讨论班，研讨会"
+      "n. 讨论班，研讨会"
     ]
   },
   {
     "name": "assignment",
     "trans": [
-      "作业"
+      "n. 作业"
     ]
   },
   {
     "name": "presentation",
     "trans": [
-      "课堂发言"
+      "n. 课堂发言"
     ]
   },
   {
     "name": "final exam",
     "trans": [
-      "期末考试"
+      null
     ]
   },
   {
     "name": "go over",
     "trans": [
-      "复习"
+      "vi. 复习"
     ]
   },
   {
     "name": "fail",
     "trans": [
-      "不及格"
+      "vi. 不及格"
     ]
   },
   {
     "name": "cut a class",
     "trans": [
-      "逃课"
+      null
     ]
   },
   {
     "name": "graduate",
     "trans": [
-      "毕业"
+      "n. 毕业"
     ]
   },
   {
     "name": "stationery",
     "trans": [
-      "文具用品"
+      "n. 文具用品"
     ]
   },
   {
     "name": "skip class",
     "trans": [
-      "翘课，旷课"
+      null
     ]
   },
   {
     "name": "pay a fine",
     "trans": [
-      "交罚款"
+      null
     ]
   },
   {
     "name": "hospital",
     "trans": [
-      "医院"
+      "n. 医院"
     ]
   },
   {
     "name": "emergence department/room",
     "trans": [
-      "急诊室"
+      null
     ]
   },
   {
     "name": "clinic",
     "trans": [
-      "诊所"
+      "n. 诊所"
     ]
   },
   {
     "name": "ICU /intensive care unit",
     "trans": [
-      "特护病房"
+      null
     ]
   },
   {
     "name": "treatment",
     "trans": [
-      "治疗手段"
+      "n. 治疗手段"
     ]
   },
   {
     "name": "take one's temperature/blood pressure",
     "trans": [
-      "测量体温/血压"
+      null
     ]
   },
   {
     "name": "medicine:pills/tablets",
     "trans": [
-      "药丸/药片"
+      null
     ]
   },
   {
     "name": "aspirin",
     "trans": [
-      "阿司匹林"
+      "n. 阿司匹林"
     ]
   },
   {
     "name": "heart attack",
     "trans": [
-      "心脏病"
+      "n. 心脏病"
     ]
   },
   {
     "name": "cold/flu",
     "trans": [
-      "流感"
+      null
     ]
   },
   {
     "name": "have/catch a cold",
     "trans": [
-      "感冒"
+      null
     ]
   },
   {
     "name": "pain",
     "trans": [
-      "疼痛"
+      "n. 疼痛"
     ]
   },
   {
     "name": "headache",
     "trans": [
-      "头痛"
+      "n. 头痛"
     ]
   },
   {
     "name": "stomachache",
     "trans": [
-      "腹痛"
+      "n. 腹痛"
     ]
   },
   {
     "name": "backache",
     "trans": [
-      "背痛"
+      "n. 背痛"
     ]
   },
   {
     "name": "have a sore throat",
     "trans": [
-      "喉咙痛"
+      null
     ]
   },
   {
     "name": "cough",
     "trans": [
-      "咳嗽"
+      "n. 咳嗽"
     ]
   },
   {
     "name": "fever",
     "trans": [
-      "发烧"
+      "n. 发烧"
     ]
   },
   {
     "name": "doctor",
     "trans": [
-      "医生"
+      "n. 医生"
     ]
   },
   {
     "name": "regular doctor",
     "trans": [
-      "私人医生"
+      null
     ]
   },
   {
     "name": "dentist",
     "trans": [
-      "牙医"
+      "n. 牙医"
     ]
   },
   {
     "name": "surgeon",
     "trans": [
-      "外科医生"
+      "n. 外科医生"
     ]
   },
   {
     "name": "physician",
     "trans": [
-      "内科医生"
+      "n. 内科医生"
     ]
   },
   {
     "name": "nurse",
     "trans": [
-      "护士"
+      "n. 护士"
     ]
   },
   {
     "name": "show one's tongue",
     "trans": [
-      "伸出舌头"
+      null
     ]
   },
   {
     "name": "write a prescription",
     "trans": [
-      "开处方"
+      null
     ]
   },
   {
     "name": "give an injection",
     "trans": [
-      "打针"
+      null
     ]
   },
   {
     "name": "Health Center",
     "trans": [
-      "医疗中心"
+      "n. 医疗中心"
     ]
   },
   {
     "name": "check-up",
     "trans": [
-      "检查"
+      "n. 检查"
     ]
   },
   {
     "name": "physical examination",
     "trans": [
-      "体检"
+      null
     ]
   },
   {
     "name": "treatment",
     "trans": [
-      "治疗手段"
+      "n. 治疗手段"
     ]
   },
   {
     "name": "treat",
     "trans": [
-      "治疗"
+      "vt. 治疗"
     ]
   },
   {
     "name": "cure",
     "trans": [
-      "治愈"
+      "n. 治愈"
     ]
   },
   {
     "name": "dizzy",
     "trans": [
-      "晕眩的"
+      "adj. 晕眩的"
     ]
   },
   {
     "name": "operator",
     "trans": [
-      "接线员"
+      "n. 接线员"
     ]
   },
   {
     "name": "call/telephone/ring/phone sb",
     "trans": [
-      "给某人打电话"
+      null
     ]
   },
   {
     "name": "a call/ring",
     "trans": [
-      "给某人打电话"
+      null
     ]
   },
   {
     "name": "long-distance call",
     "trans": [
-      "长途电话"
+      null
     ]
   },
   {
     "name": "collect call",
     "trans": [
-      "对方付费电话"
+      null
     ]
   },
   {
     "name": "personal phone call",
     "trans": [
-      "私人电话"
+      null
     ]
   },
   {
     "name": "busy line",
     "trans": [
-      "电话占线"
+      null
     ]
   },
   {
     "name": "put through",
     "trans": [
-      "接通电话"
+      null
     ]
   },
   {
     "name": "leave a message",
     "trans": [
-      "留口信"
+      null
     ]
   },
   {
     "name": "dial the wrong number",
     "trans": [
-      "拨错号码"
+      null
     ]
   },
   {
     "name": " ",
     "trans": [
-      "电话占线。"
+      null
     ]
   },
   {
     "name": "It kept a busy line",
     "trans": [
-      "电话占线。"
+      null
     ]
   },
   {
     "name": "Hold on",
     "trans": [
-      "请稍候。"
+      "vi. 请稍候。"
     ]
   },
   {
     "name": "I couldn't get through",
     "trans": [
-      "我打不通。"
+      null
     ]
   },
   {
     "name": "make a reservation",
     "trans": [
-      "预定房间"
+      null
     ]
   },
   {
     "name": "reception/front desk",
     "trans": [
-      "接待处，前台"
+      null
     ]
   },
   {
     "name": "front clerk/reception clerk",
     "trans": [
-      "总台接待员"
+      null
     ]
   },
   {
     "name": "check in",
     "trans": [
-      "登记入住"
+      "v. 登记入住"
     ]
   },
   {
     "name": "check out",
     "trans": [
-      "结账退房"
+      "v. 结账退房"
     ]
   },
   {
     "name": "fill out/in a form",
     "trans": [
-      "填表"
+      null
     ]
   },
   {
     "name": "single room",
     "trans": [
-      "单人间"
+      "n. 单人间"
     ]
   },
   {
     "name": "double room",
     "trans": [
-      "双人间"
+      "n. 双人间"
     ]
   },
   {
     "name": "standard room",
     "trans": [
-      "标准房"
+      null
     ]
   },
   {
     "name": "twin room",
     "trans": [
-      "双床房"
+      null
     ]
   },
   {
     "name": "superior room",
     "trans": [
-      "高级房"
+      null
     ]
   },
   {
     "name": "executive room",
     "trans": [
-      "商务房"
+      null
     ]
   },
   {
     "name": "suite",
     "trans": [
-      "套间"
+      "n. 套间"
     ]
   },
   {
     "name": "room service",
     "trans": [
-      "客户服务"
+      "n. 客户服务"
     ]
   },
   {
     "name": "wake-up call",
     "trans": [
-      "叫醒电话"
+      null
     ]
   },
   {
     "name": "accommodation",
     "trans": [
-      "住宿"
+      "n. 住宿"
     ]
   },
   {
     "name": "registration",
     "trans": [
-      "登记"
+      "n. 登记"
     ]
   },
   {
     "name": "receptionist",
     "trans": [
-      "前台接待员"
+      "n. 前台接待员"
     ]
   },
   {
     "name": "housekeeping staff",
     "trans": [
-      "客房清洁人员"
+      null
     ]
   },
   {
     "name": "tip",
     "trans": [
-      "小费"
+      "n. 小费"
     ]
   },
   {
     "name": "service charge",
     "trans": [
-      "服务费"
+      null
     ]
   },
   {
     "name": "lobby",
     "trans": [
-      "大堂"
+      "n. 大堂"
     ]
   },
   {
     "name": "cook/chef",
     "trans": [
-      "厨师"
+      null
     ]
   },
   {
     "name": "head chef",
     "trans": [
-      "厨师长"
+      null
     ]
   },
   {
     "name": "cook",
     "trans": [
-      "炊事员"
+      "n. 炊事员"
     ]
   },
   {
     "name": "assistant manager",
     "trans": [
-      "大堂副理"
+      null
     ]
   },
   {
     "name": "lobby manager",
     "trans": [
-      "大堂经理"
+      null
     ]
   },
   {
     "name": "tourist guide",
     "trans": [
-      "导游"
+      null
     ]
   },
   {
     "name": "restaurant manager",
     "trans": [
-      "饭店经理"
+      null
     ]
   },
   {
     "name": "rooms division manager",
     "trans": [
-      "房务部经理"
+      null
     ]
   },
   {
     "name": "book/reserve",
     "trans": [
-      "预定"
+      null
     ]
   },
   {
     "name": "fully booked",
     "trans": [
-      "客满"
+      null
     ]
   },
   {
     "name": "extra charge",
     "trans": [
-      "额外费用"
+      "n. 额外费用"
     ]
   },
   {
     "name": "shuttle bus",
     "trans": [
-      "班车"
+      null
     ]
   },
   {
     "name": "full price",
     "trans": [
-      "全价"
+      null
     ]
   },
   {
     "name": "discounted price",
     "trans": [
-      "折扣价"
+      null
     ]
   },
   {
     "name": "special price",
     "trans": [
-      "优惠价"
+      null
     ]
   },
   {
     "name": "All the room are occupied",
     "trans": [
-      "房间已满。"
+      null
     ]
   },
   {
     "name": "Meals included",
     "trans": [
-      "包括饮食。"
+      null
     ]
   },
   {
     "name": "speeding",
     "trans": [
-      "超速行驶"
+      "n. 超速行驶"
     ]
   },
   {
     "name": "booking office/ticket office",
     "trans": [
-      "售票处"
+      null
     ]
   },
   {
     "name": "waiting room",
     "trans": [
-      "候车室"
+      "n. 候车室"
     ]
   },
   {
     "name": "platform",
     "trans": [
-      "月台"
+      "n. 月台"
     ]
   },
   {
     "name": "coach/carriage",
     "trans": [
-      "车厢"
+      null
     ]
   },
   {
     "name": "sidewalk/pavement",
     "trans": [
-      "人行道"
+      null
     ]
   },
   {
     "name": "one-way street",
     "trans": [
-      "单行道"
+      null
     ]
   },
   {
     "name": "rush hour",
     "trans": [
-      "交通高峰时间"
+      null
     ]
   },
   {
     "name": "heavy traffic",
     "trans": [
-      "拥挤的交通"
+      null
     ]
   },
   {
     "name": "traffic jam",
     "trans": [
-      "交通阻塞"
+      "n. 交通阻塞"
     ]
   },
   {
     "name": "traffic lights",
     "trans": [
-      "交通灯"
+      "n. 交通灯"
     ]
   },
   {
     "name": "traffic rules",
     "trans": [
-      "交通规则"
+      null
     ]
   },
   {
     "name": "driving license",
     "trans": [
-      "驾照"
+      "n. 驾照"
     ]
   },
   {
     "name": "crowded",
     "trans": [
-      "拥挤的"
+      "adj. 拥挤的"
     ]
   },
   {
     "name": "by air/plane/airplane/aeroplane",
     "trans": [
-      "乘飞机"
+      null
     ]
   },
   {
     "name": "by bus",
     "trans": [
-      "坐公交"
+      null
     ]
   },
   {
     "name": "by coach",
     "trans": [
-      "乘长途汽车"
+      null
     ]
   },
   {
     "name": "by boat",
     "trans": [
-      "坐船"
+      null
     ]
   },
   {
     "name": "by land",
     "trans": [
-      "由陆路"
+      null
     ]
   },
   {
     "name": "by sea",
     "trans": [
-      "由海路"
+      null
     ]
   },
   {
     "name": "transfer",
     "trans": [
-      "换乘/转机"
+      "n. 换乘/转机"
     ]
   },
   {
     "name": "express train",
     "trans": [
-      "特快列车"
+      null
     ]
   },
   {
     "name": "dining car",
     "trans": [
-      "餐车"
+      null
     ]
   },
   {
     "name": "garage",
     "trans": [
-      "修车场/车库"
+      "n. 修车场/车库"
     ]
   },
   {
     "name": "driver",
     "trans": [
-      "司机"
+      "n. 司机"
     ]
   },
   {
     "name": "conductor",
     "trans": [
-      "售票员"
+      "n. 售票员"
     ]
   },
   {
     "name": "car/traffic accident",
     "trans": [
-      "交通事故"
+      null
     ]
   },
   {
     "name": "run the red lights",
     "trans": [
-      "闯红灯"
+      null
     ]
   },
   {
     "name": "flat tire/tyre",
     "trans": [
-      "爆胎"
+      null
     ]
   },
   {
     "name": "scratches",
     "trans": [
-      "刮蹭"
+      null
     ]
   },
   {
     "name": "fix/repair",
     "trans": [
-      "修理"
+      null
     ]
   },
   {
     "name": "survive",
     "trans": [
-      "活下来"
+      "vt. 活下来"
     ]
   },
   {
     "name": "flight",
     "trans": [
-      "航班"
+      "n. 航班"
     ]
   },
   {
     "name": "Welcome on board",
     "trans": [
-      "欢迎登机!"
+      null
     ]
   },
   {
     "name": "bound for",
     "trans": [
-      "飞往…方向去的"
+      null
     ]
   },
   {
     "name": "check in",
     "trans": [
-      "办理登机手续"
+      "v. 办理登机手续"
     ]
   },
   {
     "name": "airway",
     "trans": [
-      "航线"
+      "n. 航线"
     ]
   },
   {
     "name": "flight",
     "trans": [
-      "航班"
+      "n. 航班"
     ]
   },
   {
     "name": "(Flight Number)",
     "trans": [
-      "航班号"
+      null
     ]
   },
   {
     "name": "non-stop/direct flight",
     "trans": [
-      "直航"
+      null
     ]
   },
   {
     "name": "confirm the flight",
     "trans": [
-      "确认航班"
+      null
     ]
   },
   {
     "name": "departure time",
     "trans": [
-      "起飞时间"
+      null
     ]
   },
   {
     "name": "cancel",
     "trans": [
-      "取消"
+      "vi. 取消"
     ]
   },
   {
     "name": "one-way ticket",
     "trans": [
-      "单程票"
+      null
     ]
   },
   {
     "name": "round-trip ticket",
     "trans": [
-      "往返票"
+      null
     ]
   },
   {
     "name": "departure lounge",
     "trans": [
-      "候机室"
+      null
     ]
   },
   {
     "name": "book/reserve",
     "trans": [
-      "预订"
+      null
     ]
   },
   {
     "name": "first/business/economy cabin",
     "trans": [
-      "头等/商务/经济舱"
+      null
     ]
   },
   {
     "name": "a window seat",
     "trans": [
-      "靠窗的座位"
+      null
     ]
   },
   {
     "name": "an aisle seat",
     "trans": [
-      "靠走廊的座位"
+      null
     ]
   },
   {
     "name": "safety/safe belt",
     "trans": [
-      "安全带"
+      null
     ]
   },
   {
     "name": "fasten",
     "trans": [
-      "系紧"
+      "vt. 系紧"
     ]
   },
   {
     "name": "airsick",
     "trans": [
-      "晕机的"
+      "adj. 晕机的"
     ]
   },
   {
     "name": "jet lag",
     "trans": [
-      "飞行时差反应"
+      "n. 飞行时差反应"
     ]
   },
   {
     "name": "captain",
     "trans": [
-      "机长"
+      "n. 机长"
     ]
   },
   {
     "name": "pilot",
     "trans": [
-      "飞行员"
+      "n. 飞行员"
     ]
   },
   {
     "name": "airhostess/stewardess",
     "trans": [
-      "空姐"
+      null
     ]
   },
   {
     "name": "customs",
     "trans": [
-      "海关"
+      "n. 海关"
     ]
   },
   {
     "name": "security check",
     "trans": [
-      "安检"
+      null
     ]
   },
   {
     "name": "departure to",
     "trans": [
-      "前往……"
+      null
     ]
   },
   {
     "name": "destination",
     "trans": [
-      "目的地"
+      "n. 目的地"
     ]
   },
   {
     "name": "boarding pass/card",
     "trans": [
-      "登机牌"
+      null
     ]
   },
   {
     "name": "passport",
     "trans": [
-      "护照"
+      "n. 护照"
     ]
   },
   {
     "name": "board",
     "trans": [
-      "登机"
+      "n. 登机"
     ]
   },
   {
     "name": "departure gate",
     "trans": [
-      "登机口"
+      null
     ]
   },
   {
     "name": "luggage/baggage",
     "trans": [
-      "行李"
+      null
     ]
   },
   {
     "name": "suitcase",
     "trans": [
-      "行李箱"
+      "n. 行李箱"
     ]
   },
   {
     "name": "land",
     "trans": [
-      "着陆"
+      "n. 着陆"
     ]
   },
   {
     "name": "safe landing",
     "trans": [
-      "安全着陆"
+      null
     ]
   },
   {
     "name": "off",
     "trans": [
-      "为某人送行"
+      "prep. 为某人送行"
     ]
   },
   {
     "name": "pick up",
     "trans": [
-      "接机"
+      "vt. 接机"
     ]
   },
   {
     "name": "behind schedule",
     "trans": [
-      "晚点"
+      null
     ]
   },
   {
     "name": "take off",
     "trans": [
-      "起飞"
+      "v. 起飞"
     ]
   },
   {
     "name": "land",
     "trans": [
-      "降落"
+      "n. 降落"
     ]
   },
   {
     "name": "You will be fined",
     "trans": [
-      "你将被罚款20美元。"
+      null
     ]
   },
   {
     "name": "store/shop",
     "trans": [
-      "商店，杂货店"
+      null
     ]
   },
   {
     "name": "department store",
     "trans": [
-      "百货商场"
+      "n. 百货商场"
     ]
   },
   {
     "name": "drugstore",
     "trans": [
-      "药店，杂货店"
+      "n. 药店，杂货店"
     ]
   },
   {
     "name": "grocery store",
     "trans": [
-      "杂货店，食杂店，食品杂货店"
+      "n. 杂货店，食杂店，食品杂货店"
     ]
   },
   {
     "name": "grocer",
     "trans": [
-      "食品杂货店，食品杂货商"
+      "n. 食品杂货店，食品杂货商"
     ]
   },
   {
     "name": "green grocer",
     "trans": [
-      "蔬菜店"
+      null
     ]
   },
   {
     "name": "convenience store",
     "trans": [
-      "便利店"
+      null
     ]
   },
   {
     "name": "shopping center",
     "trans": [
-      "购物中心"
+      null
     ]
   },
   {
     "name": "supermarket",
     "trans": [
-      "超市"
+      "n. 超市"
     ]
   },
   {
     "name": "mall",
     "trans": [
-      "商场"
+      "n. 商场"
     ]
   },
   {
     "name": "shop assistant",
     "trans": [
-      "店员"
+      "n. 店员"
     ]
   },
   {
     "name": "counter",
     "trans": [
-      "柜台"
+      "n. 柜台"
     ]
   },
   {
     "name": "receipt",
     "trans": [
-      "收据"
+      "n. 收据"
     ]
   },
   {
     "name": "invoice",
     "trans": [
-      "发票"
+      "n. 发票"
     ]
   },
   {
     "name": "catalogue",
     "trans": [
-      "产品目录"
+      "n. 产品目录"
     ]
   },
   {
     "name": "deliver",
     "trans": [
-      "送货"
+      "vt. 送货"
     ]
   },
   {
     "name": "refund",
     "trans": [
-      "退款"
+      "n. 退款"
     ]
   },
   {
     "name": "brand",
     "trans": [
-      "品牌"
+      "n. 品牌"
     ]
   },
   {
     "name": "bargain",
     "trans": [
-      "便宜货"
+      "n. 便宜货"
     ]
   },
   {
     "name": "size",
     "trans": [
-      "尺寸大小"
+      "n. 尺寸大小"
     ]
   },
   {
     "name": "color",
     "trans": [
-      "颜色"
+      "n. 颜色"
     ]
   },
   {
     "name": "style",
     "trans": [
-      "式样"
+      "n. 式样"
     ]
   },
   {
     "name": "price",
     "trans": [
-      "价格"
+      "n. 价格"
     ]
   },
   {
     "name": "expensive/dear",
     "trans": [
-      "昂贵的"
+      null
     ]
   },
   {
     "name": "cheap",
     "trans": [
-      "便宜的"
+      "adj. 便宜的"
     ]
   },
   {
     "name": "popular/fashionable",
     "trans": [
-      "流行的，时尚的"
+      null
     ]
   },
   {
     "name": "in fashion",
     "trans": [
-      "流行的，时尚的"
+      null
     ]
   },
   {
     "name": "high",
     "trans": [
-      "价格高的"
+      "adj. 价格高的"
     ]
   },
   {
     "name": "low",
     "trans": [
-      "价格低的"
+      "adj. 价格低的"
     ]
   },
   {
     "name": "second-hand/used",
     "trans": [
-      "二手的，旧的"
+      null
     ]
   },
   {
     "name": "out of fashion",
     "trans": [
-      "过时的"
+      null
     ]
   },
   {
     "name": "fair",
     "trans": [
-      "公平的，集市，交易会"
+      "adj. 公平的，集市，交易会"
     ]
   },
   {
     "name": "cashier",
     "trans": [
-      "收银员，出纳员"
+      "n. 收银员，出纳员"
     ]
   },
   {
     "name": "window-shopping",
     "trans": [
-      "逛商店"
+      null
     ]
   },
   {
     "name": "price tag",
     "trans": [
-      "价格标签"
+      null
     ]
   },
   {
     "name": "purchase",
     "trans": [
-      "购买"
+      "n. 购买"
     ]
   },
   {
     "name": "customer",
     "trans": [
-      "顾客"
+      "n. 顾客"
     ]
   },
   {
     "name": "annual fee",
     "trans": [
-      "年费"
+      null
     ]
   },
   {
     "name": "budget",
     "trans": [
-      "预算"
+      "n. 预算"
     ]
   },
   {
     "name": "retail",
     "trans": [
-      "零售"
+      "n. 零售"
     ]
   },
   {
     "name": "wholesale",
     "trans": [
-      "批发"
+      "n. 批发"
     ]
   },
   {
     "name": "bargain vi",
     "trans": [
-      "讨价还价"
+      null
     ]
   },
   {
     "name": "pay in cash",
     "trans": [
-      "用现金支付"
+      null
     ]
   },
   {
     "name": "pay in check",
     "trans": [
-      "用支票支付"
+      null
     ]
   },
   {
     "name": "credit card",
     "trans": [
-      "信用卡"
+      "n. 信用卡"
     ]
   },
   {
     "name": "out of stock",
     "trans": [
-      "脱销/缺货"
+      null
     ]
   },
   {
     "name": "in stock",
     "trans": [
-      "有货"
+      null
     ]
   },
   {
     "name": "pay by installment",
     "trans": [
-      "分期付款"
+      null
     ]
   },
   {
     "name": "selling season",
     "trans": [
-      "销售旺季"
+      null
     ]
   },
   {
     "name": "on sale",
     "trans": [
-      "廉价出售"
+      null
     ]
   },
   {
     "name": "50%off",
     "trans": [
-      "打五折"
+      null
     ]
   },
   {
     "name": "a 30%discount",
     "trans": [
-      "打七折"
+      null
     ]
   },
   {
     "name": "a real bargain",
     "trans": [
-      "真正的便宜货"
+      null
     ]
   },
   {
     "name": "cloudy",
     "trans": [
-      "阴天的"
+      "adj. 阴天的"
     ]
   },
   {
     "name": "overcast",
     "trans": [
-      "多云的"
+      "adj. 多云的"
     ]
   },
   {
     "name": "fine",
     "trans": [
-      "晴朗的"
+      "adj. 晴朗的"
     ]
   },
   {
     "name": "sunny/bright/clear",
     "trans": [
-      "阳光充足的"
+      null
     ]
   },
   {
     "name": "rainy",
     "trans": [
-      "有雨的"
+      "adj. 有雨的"
     ]
   },
   {
     "name": "wet",
     "trans": [
-      "潮湿的"
+      "adj. 潮湿的"
     ]
   },
   {
     "name": "humid",
     "trans": [
-      "湿润的"
+      "adj. 湿润的"
     ]
   },
   {
     "name": "damp",
     "trans": [
-      "潮湿的"
+      "adj. 潮湿的"
     ]
   },
   {
     "name": "freezing-cold",
     "trans": [
-      "冰冷的"
+      null
     ]
   },
   {
     "name": "cool",
     "trans": [
-      "凉爽的"
+      "adj. 凉爽的"
     ]
   },
   {
     "name": "mild/agreeable",
     "trans": [
-      "温和的"
+      null
     ]
   },
   {
     "name": "warm",
     "trans": [
-      "暖和的"
+      "adj. 暖和的"
     ]
   },
   {
     "name": "hot",
     "trans": [
-      "炎热的"
+      "adj. 炎热的"
     ]
   },
   {
     "name": "windy",
     "trans": [
-      "有风的"
+      "adj. 有风的"
     ]
   },
   {
     "name": "calm",
     "trans": [
-      "无风的"
+      "adj. 无风的"
     ]
   },
   {
     "name": "moderate",
     "trans": [
-      "风力不大的"
+      "adj. 风力不大的"
     ]
   },
   {
     "name": "thunder",
     "trans": [
-      "打雷"
+      "n. 打雷"
     ]
   },
   {
     "name": "lightening",
     "trans": [
-      "闪电"
+      null
     ]
   },
   {
     "name": "strong/high wind",
     "trans": [
-      "大风"
+      null
     ]
   },
   {
     "name": "breeze /light wind",
     "trans": [
-      "微风"
+      null
     ]
   },
   {
     "name": "tornado",
     "trans": [
-      "龙卷风"
+      "n. 龙卷风"
     ]
   },
   {
     "name": "typhoon",
     "trans": [
-      "台风"
+      "n. 台风"
     ]
   },
   {
     "name": "snow",
     "trans": [
-      "雪"
+      "n. 雪"
     ]
   },
   {
     "name": "blizzard",
     "trans": [
-      "暴风雪"
+      "n. 暴风雪"
     ]
   },
   {
     "name": "snowstorm",
     "trans": [
-      "暴风雪"
+      "n. 暴风雪"
     ]
   },
   {
     "name": "drizzle",
     "trans": [
-      "毛毛雨"
+      "vi. 毛毛雨"
     ]
   },
   {
     "name": "light rain",
     "trans": [
-      "小雨"
+      null
     ]
   },
   {
     "name": "downpour",
     "trans": [
-      "倾盆大雨"
+      "n. 倾盆大雨"
     ]
   },
   {
     "name": "storm",
     "trans": [
-      "暴风雨"
+      "n. 暴风雨"
     ]
   },
   {
     "name": "shower",
     "trans": [
-      "阵雨"
+      "n. 阵雨"
     ]
   },
   {
     "name": "fog",
     "trans": [
-      "雾"
+      "n. 雾"
     ]
   },
   {
     "name": "mist",
     "trans": [
-      "薄雾"
+      "n. 薄雾"
     ]
   },
   {
     "name": "smog",
     "trans": [
-      "烟雾"
+      "n. 烟雾"
     ]
   },
   {
     "name": "foggy",
     "trans": [
-      "有雾的"
+      "adj. 有雾的"
     ]
   },
   {
     "name": "misty",
     "trans": [
-      "有薄雾的"
+      "adj. 有薄雾的"
     ]
   },
   {
     "name": "lift vi",
     "trans": [
-      "云、雾等的)消散；(雨等)暂停"
+      null
     ]
   },
   {
     "name": "climate",
     "trans": [
-      "气候"
+      "n. 气候"
     ]
   },
   {
     "name": "weather forecast",
     "trans": [
-      "天气预报"
+      null
     ]
   },
   {
     "name": "warm up",
     "trans": [
-      "转暖"
+      null
     ]
   },
   {
     "name": "By afternoon the smog had lifted",
     "trans": [
-      "到下午雾气散尽。"
+      null
     ]
   },
   {
     "name": "The rain lifted by morning",
     "trans": [
-      "到清晨大雨暂停。"
+      null
     ]
   },
   {
     "name": "It rains cats and dogs/The rain is pouring",
     "trans": [
-      "下着倾盆大雨。"
+      null
     ]
   },
   {
     "name": "clear up",
     "trans": [
-      "天空放晴"
+      null
     ]
   },
   {
     "name": "put away clothes",
     "trans": [
-      "下雨收衣服"
+      null
     ]
   },
   {
     "name": "weather in London/Seattle",
     "trans": [
-      "意指不好的天气"
+      null
     ]
   },
   {
     "name": "weather in California",
     "trans": [
-      "意指好天气"
+      null
     ]
   },
   {
     "name": "vacation",
     "trans": [
-      "经常和天气相联系的情况：(度假)和(航班)"
+      "n. 经常和天气相联系的情况：(度假)和(航班)"
     ]
   },
   {
     "name": "vacation/holiday",
     "trans": [
-      "假日"
+      null
     ]
   },
   {
     "name": "historic spot",
     "trans": [
-      "古迹"
+      null
     ]
   },
   {
     "name": "scenery",
     "trans": [
-      "风景"
+      "n. 风景"
     ]
   },
   {
     "name": "museum",
     "trans": [
-      "博物馆"
+      "n. 博物馆"
     ]
   },
   {
     "name": "mountain",
     "trans": [
-      "山脉"
+      "n. 山脉"
     ]
   },
   {
     "name": "river",
     "trans": [
-      "河流"
+      "n. 河流"
     ]
   },
   {
     "name": "lake",
     "trans": [
-      "湖泊"
+      "n. 湖泊"
     ]
   },
   {
     "name": "waterfall",
     "trans": [
-      "瀑布"
+      "n. 瀑布"
     ]
   },
   {
     "name": "beach",
     "trans": [
-      "沙滩"
+      "n. 沙滩"
     ]
   },
   {
     "name": "island",
     "trans": [
-      "岛屿"
+      "n. 岛屿"
     ]
   },
   {
     "name": "lawn",
     "trans": [
-      "草地"
+      "n. 草地"
     ]
   },
   {
     "name": "temple",
     "trans": [
-      "寺庙"
+      "n. 寺庙"
     ]
   },
   {
     "name": "zoo",
     "trans": [
-      "动物园"
+      "n. 动物园"
     ]
   },
   {
     "name": "a guided tour",
     "trans": [
-      "有导游的旅行"
+      null
     ]
   },
   {
     "name": "travel agency",
     "trans": [
-      "旅行社"
+      "n. 旅行社"
     ]
   },
   {
     "name": "go sightseeing",
     "trans": [
-      "观光"
+      null
     ]
   },
   {
     "name": "hotel",
     "trans": [
-      "宾馆"
+      "n. 宾馆"
     ]
   },
   {
     "name": "souvenir",
     "trans": [
-      "纪念品"
+      "n. 纪念品"
     ]
   },
   {
     "name": "ticket",
     "trans": [
-      "票"
+      "n. 票"
     ]
   },
   {
     "name": "travel/trip/tour/voyage",
     "trans": [
-      "旅行"
+      null
     ]
   },
   {
     "name": "plane/airplane/aeroplane",
     "trans": [
-      "飞机"
+      null
     ]
   },
   {
     "name": "ship",
     "trans": [
-      "轮船"
+      "n. 轮船"
     ]
   },
   {
     "name": "taxi",
     "trans": [
-      "出租车"
+      "n. 出租车"
     ]
   },
   {
     "name": "subway/underground",
     "trans": [
-      "地铁"
+      null
     ]
   },
   {
     "name": "railway",
     "trans": [
-      "铁路"
+      "n. 铁路"
     ]
   },
   {
     "name": "highway",
     "trans": [
-      "公路"
+      "n. 公路"
     ]
   },
   {
     "name": "freeway/expressway",
     "trans": [
-      "高速公路"
+      null
     ]
   },
   {
     "name": "fascinating",
     "trans": [
-      "迷人的"
+      "adj. 迷人的"
     ]
   },
   {
     "name": "thrilling",
     "trans": [
-      "刺激的"
+      "adj. 刺激的"
     ]
   },
   {
     "name": "unforgettable",
     "trans": [
-      "难忘的"
+      "adj. 难忘的"
     ]
   },
   {
     "name": "terrific",
     "trans": [
-      "好极了"
+      "adj. 好极了"
     ]
   },
   {
     "name": "fantastic",
     "trans": [
-      "难忘的"
+      "adj. 难忘的"
     ]
   },
   {
     "name": "part-time job",
     "trans": [
-      "兼职工作"
+      null
     ]
   },
   {
     "name": "full-time job",
     "trans": [
-      "全职工作"
+      null
     ]
   },
   {
     "name": "psychologist",
     "trans": [
-      "心理学家"
+      "n. 心理学家"
     ]
   },
   {
     "name": "principal",
     "trans": [
-      "校长"
+      "adj. 校长"
     ]
   },
   {
     "name": "professor",
     "trans": [
-      "教授"
+      "n. 教授"
     ]
   },
   {
     "name": "teacher",
     "trans": [
-      "教师"
+      "n. 教师"
     ]
   },
   {
     "name": "policeman",
     "trans": [
-      "警率"
+      "n. 警率"
     ]
   },
   {
     "name": "firefighter",
     "trans": [
-      "消防员"
+      "n. 消防员"
     ]
   },
   {
     "name": "secretary",
     "trans": [
-      "秘书"
+      "n. 秘书"
     ]
   },
   {
     "name": "assistant",
     "trans": [
-      "助理"
+      "n. 助理"
     ]
   },
   {
     "name": "receptionist",
     "trans": [
-      "接待员"
+      "n. 接待员"
     ]
   },
   {
     "name": "typist",
     "trans": [
-      "打字员"
+      "n. 打字员"
     ]
   },
   {
     "name": "clerk",
     "trans": [
-      "职员"
+      "n. 职员"
     ]
   },
   {
     "name": "cashier",
     "trans": [
-      "出纳员"
+      "n. 出纳员"
     ]
   },
   {
     "name": "lawyer",
     "trans": [
-      "律炕"
+      "n. 律炕"
     ]
   },
   {
     "name": "editor",
     "trans": [
-      "编辑"
+      "n. 编辑"
     ]
   },
   {
     "name": "reporter/journalist",
     "trans": [
-      "记者"
+      null
     ]
   },
   {
     "name": "author",
     "trans": [
-      "作家"
+      "n. 作家"
     ]
   },
   {
     "name": "writer",
     "trans": [
-      "作者"
+      "n. 作者"
     ]
   },
   {
     "name": "artist",
     "trans": [
-      "艺术家"
+      "n. 艺术家"
     ]
   },
   {
     "name": "pianist",
     "trans": [
-      "钢琴家"
+      "n. 钢琴家"
     ]
   },
   {
     "name": "photographer",
     "trans": [
-      "摄影师"
+      "n. 摄影师"
     ]
   },
   {
     "name": "painter",
     "trans": [
-      "画家"
+      "n. 画家"
     ]
   },
   {
     "name": "musician",
     "trans": [
-      "音乐家"
+      "n. 音乐家"
     ]
   },
   {
     "name": "singer",
     "trans": [
-      "歌唱家"
+      "n. 歌唱家"
     ]
   },
   {
     "name": "designer",
     "trans": [
-      "设计师"
+      "n. 设计师"
     ]
   },
   {
     "name": "scientist",
     "trans": [
-      "科学家"
+      "n. 科学家"
     ]
   },
   {
     "name": "actor/actress",
     "trans": [
-      "男/女演员"
+      null
     ]
   },
   {
     "name": "architect",
     "trans": [
-      "建筑师"
+      "n. 建筑师"
     ]
   },
   {
     "name": "engineer",
     "trans": [
-      "工程师"
+      "n. 工程师"
     ]
   },
   {
     "name": "chef/cook",
     "trans": [
-      "厨师"
+      null
     ]
   },
   {
     "name": "mailman",
     "trans": [
-      "邮差"
+      "n. 邮差"
     ]
   },
   {
     "name": "guide",
     "trans": [
-      "导游"
+      "n. 导游"
     ]
   },
   {
     "name": "competition",
     "trans": [
-      "竞赛"
+      "n. 竞赛"
     ]
   },
   {
     "name": "the sports field",
     "trans": [
-      "运动场"
+      null
     ]
   },
   {
     "name": "club",
     "trans": [
-      "俱乐部"
+      "n. 俱乐部"
     ]
   },
   {
     "name": "sportsman/athlete/player",
     "trans": [
-      "运动员"
+      null
     ]
   },
   {
     "name": "coach",
     "trans": [
-      "教练"
+      "n. 教练"
     ]
   },
   {
     "name": "champion",
     "trans": [
-      "冠军"
+      "n. 冠军"
     ]
   },
   {
     "name": "gold medal",
     "trans": [
-      "金牌"
+      null
     ]
   },
   {
     "name": "silver medal",
     "trans": [
-      "银牌"
+      null
     ]
   },
   {
     "name": "bronze medal",
     "trans": [
-      "铜牌"
+      null
     ]
   },
   {
     "name": "basketball",
     "trans": [
-      "篮球"
+      "n. 篮球"
     ]
   },
   {
     "name": "football",
     "trans": [
-      "美式足球"
+      "n. 美式足球"
     ]
   },
   {
     "name": "soccer",
     "trans": [
-      "英式足球"
+      "n. 英式足球"
     ]
   },
   {
     "name": "volleyball",
     "trans": [
-      "排球"
+      "n. 排球"
     ]
   },
   {
     "name": "baseball",
     "trans": [
-      "棒球"
+      "n. 棒球"
     ]
   },
   {
     "name": "tennis",
     "trans": [
-      "网球"
+      "n. 网球"
     ]
   },
   {
     "name": "table tennis/ping-pong",
     "trans": [
-      "乒乓球"
+      null
     ]
   },
   {
     "name": "golf",
     "trans": [
-      "高尔夫球"
+      "n. 高尔夫球"
     ]
   },
   {
     "name": "jogging",
     "trans": [
-      "慢跑"
+      "n. 慢跑"
     ]
   },
   {
     "name": "swimming",
     "trans": [
-      "游泳"
+      "n. 游泳"
     ]
   },
   {
     "name": "wrestling",
     "trans": [
-      "摔跤"
+      "n. 摔跤"
     ]
   },
   {
     "name": "shooting",
     "trans": [
-      "射击"
+      "n. 射击"
     ]
   },
   {
     "name": "boxing",
     "trans": [
-      "拳击"
+      "n. 拳击"
     ]
   },
   {
     "name": "weightlifting",
     "trans": [
-      "举重"
+      null
     ]
   },
   {
     "name": "relay race",
     "trans": [
-      "接力赛"
+      null
     ]
   },
   {
     "name": "break the world record",
     "trans": [
-      "打破世界纪录"
+      null
     ]
   },
   {
     "name": "hold the world record",
     "trans": [
-      "保持世界纪录"
+      null
     ]
   },
   {
     "name": "job opportunity",
     "trans": [
-      "求职机会"
+      null
     ]
   },
   {
     "name": "interview",
     "trans": [
-      "面试"
+      "n. 面试"
     ]
   },
   {
     "name": "resume",
     "trans": [
-      "简历"
+      "n. 简历"
     ]
   },
   {
     "name": "educational background",
     "trans": [
-      "教育背景"
+      null
     ]
   },
   {
     "name": "application letter",
     "trans": [
-      "求职信"
+      null
     ]
   },
   {
     "name": "recommendation",
     "trans": [
-      "推荐信"
+      "n. 推荐信"
     ]
   },
   {
     "name": "certificate",
     "trans": [
-      "证书"
+      "n. 证书"
     ]
   },
   {
     "name": "qualification",
     "trans": [
-      "资历"
+      "n. 资历"
     ]
   },
   {
     "name": "experience",
     "trans": [
-      "经验/经历"
+      "n. 经验/经历"
     ]
   },
   {
     "name": "position/post",
     "trans": [
-      "职位"
+      null
     ]
   },
   {
     "name": "salary",
     "trans": [
-      "薪水"
+      "n. 薪水"
     ]
   },
   {
     "name": "allowance",
     "trans": [
-      "津贴"
+      "n. 津贴"
     ]
   },
   {
     "name": "promotion",
     "trans": [
-      "晋升"
+      "n. 晋升"
     ]
   },
   {
     "name": "vacation",
     "trans": [
-      "休假"
+      "n. 休假"
     ]
   },
   {
     "name": "break",
     "trans": [
-      "喝杯茶或咖啡的)休息"
+      "vi. 喝杯茶或咖啡的)休息"
     ]
   },
   {
     "name": "retire",
     "trans": [
-      "退休"
+      "vi. 退休"
     ]
   },
   {
     "name": "shift work",
     "trans": [
-      "换班工作"
+      "n. 换班工作"
     ]
   },
   {
     "name": "work overtime",
     "trans": [
-      "加班"
+      null
     ]
   },
   {
     "name": "pay raise",
     "trans": [
-      "加薪"
+      null
     ]
   },
   {
     "name": "ask for leave",
     "trans": [
-      "请假"
+      null
     ]
   },
   {
     "name": "sick leave",
     "trans": [
-      "病假"
+      null
     ]
   },
   {
     "name": "employee",
     "trans": [
-      "雇员"
+      "n. 雇员"
     ]
   },
   {
     "name": "employer",
     "trans": [
-      "雇主"
+      "n. 雇主"
     ]
   },
   {
     "name": "clerk",
     "trans": [
-      "职员"
+      "n. 职员"
     ]
   },
   {
     "name": "secretary",
     "trans": [
-      "秘书"
+      "n. 秘书"
     ]
   },
   {
     "name": "manager",
     "trans": [
-      "经理"
+      "n. 经理"
     ]
   },
   {
     "name": "HR manager",
     "trans": [
-      "人事经理"
+      null
     ]
   },
   {
     "name": "general manager",
     "trans": [
-      "总经理"
+      null
     ]
   },
   {
     "name": "client",
     "trans": [
-      "客户"
+      "n. 客户"
     ]
   },
   {
     "name": "hobby",
     "trans": [
-      "兴趣"
+      "n. 兴趣"
     ]
   },
   {
     "name": "entertainment",
     "trans": [
-      "娱乐"
+      "n. 娱乐"
     ]
   },
   {
     "name": "go to the theater/movies/cinema",
     "trans": [
-      "去看电影"
+      null
     ]
   },
   {
     "name": "documentary/film",
     "trans": [
-      "记录片/文献片"
+      null
     ]
   },
   {
     "name": "detective film",
     "trans": [
-      "侦探片"
+      null
     ]
   },
   {
     "name": "action movie",
     "trans": [
-      "动作片"
+      "n. 动作片"
     ]
   },
   {
     "name": "cartoon",
     "trans": [
-      "漫画/动画片"
+      "n. 漫画/动画片"
     ]
   },
   {
     "name": "comedy",
     "trans": [
-      "喜剧"
+      "n. 喜剧"
     ]
   },
   {
     "name": "horror film",
     "trans": [
-      "恐怖片"
+      null
     ]
   },
   {
     "name": "western film",
     "trans": [
-      "西部片"
+      null
     ]
   },
   {
     "name": "hiking",
     "trans": [
-      "徒步旅行"
+      "n. 徒步旅行"
     ]
   },
   {
     "name": "camping",
     "trans": [
-      "野营"
+      "n. 野营"
     ]
   },
   {
     "name": "diving",
     "trans": [
-      "潜水"
+      "n. 潜水"
     ]
   },
   {
     "name": "surfing",
     "trans": [
-      "冲浪"
+      "n. 冲浪"
     ]
   },
   {
     "name": "skiing",
     "trans": [
-      "滑雪"
+      "n. 滑雪"
     ]
   },
   {
     "name": "seashore",
     "trans": [
-      "海岸"
+      "n. 海岸"
     ]
   },
   {
     "name": "beach",
     "trans": [
-      "海滩"
+      "n. 海滩"
     ]
   },
   {
     "name": "sunburned",
     "trans": [
-      "晒黑的"
+      "adj. 晒黑的"
     ]
   },
   {
     "name": "palace",
     "trans": [
-      "宫殿"
+      "n. 宫殿"
     ]
   },
   {
     "name": "castle",
     "trans": [
-      "城堡"
+      "n. 城堡"
     ]
   },
   {
     "name": "spare time",
     "trans": [
-      "业余时间"
+      "n. 业余时间"
     ]
   },
   {
     "name": "favorite",
     "trans": [
-      "最喜欢的"
+      "adj. 最喜欢的"
     ]
   },
   {
     "name": "interest",
     "trans": [
-      "兴趣"
+      "n. 兴趣"
     ]
   },
   {
     "name": "hobby",
     "trans": [
-      "爱好"
+      "n. 爱好"
     ]
   },
   {
     "name": "appetite",
     "trans": [
-      "嗜好"
+      "n. 嗜好"
     ]
   },
   {
     "name": "taste",
     "trans": [
-      "口味"
+      "n. 口味"
     ]
   },
   {
     "name": "read novels",
     "trans": [
-      "读小说"
+      null
     ]
   },
   {
     "name": "play football/basketball",
     "trans": [
-      "打足球/篮球"
+      null
     ]
   },
   {
     "name": "surf the Internet",
     "trans": [
-      "上网"
+      null
     ]
   },
   {
     "name": "chat online",
     "trans": [
-      "在线聊天"
+      null
     ]
   },
   {
     "name": "play games",
     "trans": [
-      "玩游戏"
+      null
     ]
   },
   {
     "name": "collect stamps",
     "trans": [
-      "集邮"
+      null
     ]
   },
   {
     "name": "make e-friends",
     "trans": [
-      "交网友"
+      null
     ]
   },
   {
     "name": "climb mountains",
     "trans": [
-      "爬山"
+      null
     ]
   },
   {
     "name": "watch TV",
     "trans": [
-      "看电视"
+      "v. 看电视"
     ]
   },
   {
     "name": "be keen on",
     "trans": [
-      "喜欢…"
+      null
     ]
   },
   {
     "name": "enjoy popular music",
     "trans": [
-      "喜欢流行音乐"
+      null
     ]
   },
   {
     "name": "be interested in",
     "trans": [
-      "对……感兴趣"
+      "v. 对……感兴趣"
     ]
   },
   {
     "name": "develop an interest in",
     "trans": [
-      "在……方面发展兴趣"
+      null
     ]
   },
   {
     "name": "be fond of",
     "trans": [
-      "喜欢……"
+      null
     ]
   },
   {
     "name": "have love for",
     "trans": [
-      "喜爱……"
+      null
     ]
   },
   {
     "name": "have a taste in",
     "trans": [
-      "对……有兴趣"
+      null
     ]
   },
   {
     "name": "landlady",
     "trans": [
-      "女房东"
+      "n. 女房东"
     ]
   },
   {
     "name": "landlord",
     "trans": [
-      "房东"
+      "n. 房东"
     ]
   },
   {
     "name": "rent",
     "trans": [
-      "租，租金"
+      "n. 租，租金"
     ]
   },
   {
     "name": "deposit",
     "trans": [
-      "押金"
+      "n. 押金"
     ]
   },
   {
     "name": "contract",
     "trans": [
-      "合同"
+      "n. 合同"
     ]
   },
   {
     "name": "furnished",
     "trans": [
-      "有家具电器的"
+      "adj. 有家具电器的"
     ]
   },
   {
     "name": "heat",
     "trans": [
-      "暖气"
+      "n. 暖气"
     ]
   },
   {
     "name": "gas",
     "trans": [
-      "煤气"
+      "n. 煤气"
     ]
   },
   {
     "name": "electricity",
     "trans": [
-      "电"
+      "n. 电"
     ]
   },
   {
     "name": "lift/elevator",
     "trans": [
-      "电梯"
+      null
     ]
   },
   {
     "name": "stairs",
     "trans": [
-      "楼梯"
+      "n. 楼梯"
     ]
   },
   {
     "name": "balcony",
     "trans": [
-      "阳台"
+      "n. 阳台"
     ]
   },
   {
     "name": "living room",
     "trans": [
-      "起居室"
+      "n. 起居室"
     ]
   },
   {
     "name": "guest room",
     "trans": [
-      "客厅"
+      null
     ]
   },
   {
     "name": "dining room",
     "trans": [
-      "餐厅"
+      "n. 餐厅"
     ]
   },
   {
     "name": "kitchen",
     "trans": [
-      "厨房"
+      "n. 厨房"
     ]
   },
   {
     "name": "bathroom",
     "trans": [
-      "浴室"
+      "n. 浴室"
     ]
   },
   {
     "name": "toilet",
     "trans": [
-      "卫生间"
+      "n. 卫生间"
     ]
   },
   {
     "name": "basement",
     "trans": [
-      "地下室"
+      "n. 地下室"
     ]
   },
   {
     "name": "housework",
     "trans": [
-      "家务"
+      "n. 家务"
     ]
   },
   {
     "name": "channel",
     "trans": [
-      "频道"
+      "n. 频道"
     ]
   },
   {
     "name": "cook",
     "trans": [
-      "烹饪"
+      "n. 烹饪"
     ]
   },
   {
     "name": "furniture",
     "trans": [
-      "家具"
+      "n. 家具"
     ]
   },
   {
     "name": "dining table",
     "trans": [
-      "餐桌"
+      null
     ]
   },
   {
     "name": "fridge",
     "trans": [
-      "冰箱"
+      "n. 冰箱"
     ]
   },
   {
     "name": "television",
     "trans": [
-      "电视"
+      "n. 电视"
     ]
   },
   {
     "name": "oven",
     "trans": [
-      "烤箱"
+      "n. 烤箱"
     ]
   },
   {
     "name": "cabinet",
     "trans": [
-      "橱柜"
+      "n. 橱柜"
     ]
   },
   {
     "name": "dishwasher",
     "trans": [
-      "洗碗机"
+      "n. 洗碗机"
     ]
   },
   {
     "name": "sheet",
     "trans": [
-      "床单"
+      "n. 床单"
     ]
   },
   {
     "name": "blanket",
     "trans": [
-      "毯子"
+      "n. 毯子"
     ]
   },
   {
     "name": "carpet",
     "trans": [
-      "地毯"
+      "n. 地毯"
     ]
   },
   {
     "name": "curtain",
     "trans": [
-      "窗帘"
+      "n. 窗帘"
     ]
   },
   {
     "name": "towel",
     "trans": [
-      "毛巾"
+      "n. 毛巾"
     ]
   },
   {
     "name": "shampoo",
     "trans": [
-      "洗发水"
+      "n. 洗发水"
     ]
   },
   {
     "name": "soap",
     "trans": [
-      "香皂"
+      "n. 香皂"
     ]
   },
   {
     "name": "haircut",
     "trans": [
-      "理发"
+      "n. 理发"
     ]
   },
   {
     "name": "barber",
     "trans": [
-      "理发师"
+      "n. 理发师"
     ]
   },
   {
     "name": "shaver",
     "trans": [
-      "剃须刀"
+      "n. 剃须刀"
     ]
   },
   {
     "name": "shave",
     "trans": [
-      "剃须"
+      "vi. 剃须"
     ]
   }
 ]

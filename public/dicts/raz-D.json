@@ -368,7 +368,7 @@
   {
     "name": "sleeping bag",
     "trans": [
-      "睡袋"
+      "n. 睡袋"
     ],
     "usphone": "ˈsliːpɪŋ bæɡ",
     "ukphone": "ˈsliːpɪŋ bæɡ"
@@ -632,7 +632,7 @@
   {
     "name": "fall apart",
     "trans": [
-      "崩溃；土崩瓦解；破碎"
+      null
     ],
     "usphone": "fɔl əˈpɑrt",
     "ukphone": "fɔl əˈpɑrt"
@@ -1312,7 +1312,7 @@
   {
     "name": "collecting",
     "trans": [
-      "聚集 收集（collect的现在分词）"
+      "v. 聚集 收集（collect的现在分词）"
     ]
   },
   {
@@ -1434,7 +1434,7 @@
   {
     "name": "give up",
     "trans": [
-      "放弃；交出"
+      "vt. 放弃；交出"
     ],
     "usphone": "ɡɪv ʌp",
     "ukphone": "ɡɪv ʌp"
@@ -1736,7 +1736,7 @@
   {
     "name": "both",
     "trans": [
-      "det. 双方，两者 pron. 双方，两者 adv. 双方都，两者都；不仅……而且…… conj. 既……且……；并；两者皆 n. (Both) 博特（人名）"
+      "adj. det. 双方，两者 pron. 双方，两者 adv. 双方都，两者都；不仅……而且…… conj. 既……且……；并；两者皆 n. (Both) 博特（人名）"
     ],
     "usphone": "bəʊθ",
     "ukphone": "bəʊθ"
@@ -1792,7 +1792,7 @@
   {
     "name": "less than",
     "trans": [
-      "小于；少于；不到"
+      "adj. 小于；少于；不到"
     ],
     "usphone": "les ðæn",
     "ukphone": "les ðæn"
@@ -2072,7 +2072,7 @@
   {
     "name": "fire station",
     "trans": [
-      "消防站"
+      null
     ],
     "usphone": "ˈfaɪə steɪʃ(ə)n",
     "ukphone": "ˈfaɪə steɪʃ(ə)n"
@@ -2846,7 +2846,7 @@
   {
     "name": "bus stop",
     "trans": [
-      "公共汽车站"
+      "n. 公共汽车站"
     ],
     "usphone": "ˈbʌs stɒp",
     "ukphone": "ˈbʌs stɒp"

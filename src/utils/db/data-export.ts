@@ -1,6 +1,5 @@
 import { db } from '.'
-import { getCurrentDate, recordDataAction } from '..'
-import { notifyLocalSqliteDataChanged } from './local-file-sync'
+import { recordDataAction } from '..'
 
 export type ExportProgress = {
   totalRows?: number
@@ -15,54 +14,39 @@ export type ImportProgress = {
 }
 
 export async function exportDatabase(callback: (exportProgress: ExportProgress) => boolean) {
-  const [pako, { saveAs }] = await Promise.all([import('pako'), import('file-saver'), import('dexie-export-import')])
-
-  const blob = await db.export({
-    progressCallback: ({ totalRows, completedRows, done }) => {
-      return callback({ totalRows, completedRows, done })
-    },
-  })
   const [wordCount, chapterCount] = await Promise.all([db.wordRecords.count(), db.chapterRecords.count()])
-
-  const json = await blob.text()
-  const compressed = pako.gzip(json)
-  const compressedBlob = new Blob([compressed])
-  const currentDate = getCurrentDate()
-  saveAs(compressedBlob, `Qwerty-Learner-User-Data-${currentDate}.gz`)
-  recordDataAction({ type: 'export', size: compressedBlob.size, wordCount, chapterCount })
+  callback({ completedRows: 1, totalRows: 1, done: true })
+  window.location.href = '/api/sqlite/download'
+  recordDataAction({ type: 'export', size: 0, wordCount, chapterCount })
 }
 
 export async function importDatabase(onStart: () => void, callback: (importProgress: ImportProgress) => boolean) {
-  const [pako] = await Promise.all([import('pako'), import('dexie-export-import')])
-
   const input = document.createElement('input')
   input.type = 'file'
-  input.accept = 'application/gzip'
+  input.accept = '.sqlite,.db,application/vnd.sqlite3'
   input.addEventListener('change', async () => {
     const file = input.files?.[0]
     if (!file) return
 
     onStart()
+    callback({ completedRows: 0, totalRows: 1, done: false })
 
-    const compressed = await file.arrayBuffer()
-    const json = pako.ungzip(compressed, { to: 'string' })
-    const blob = new Blob([json])
+    const formData = new FormData()
+    formData.append('sqliteFile', file)
 
-    await db.import(blob, {
-      acceptVersionDiff: true,
-      acceptMissingTables: true,
-      acceptNameDiff: false,
-      acceptChangedPrimaryKey: false,
-      overwriteValues: true,
-      clearTablesBeforeImport: true,
-      progressCallback: ({ totalRows, completedRows, done }) => {
-        return callback({ totalRows, completedRows, done })
-      },
+    const response = await fetch('/api/sqlite/upload', {
+      method: 'POST',
+      body: formData,
     })
+    if (!response.ok) {
+      const text = await response.text()
+      throw new Error(text || '导入失败')
+    }
 
     const [wordCount, chapterCount] = await Promise.all([db.wordRecords.count(), db.chapterRecords.count()])
-    notifyLocalSqliteDataChanged(db)
+    callback({ completedRows: 1, totalRows: 1, done: true })
     recordDataAction({ type: 'import', size: file.size, wordCount, chapterCount })
+    window.location.reload()
   })
 
   input.click()

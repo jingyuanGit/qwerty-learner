@@ -1,134 +1,206 @@
 [
-    {
-        "name": "mammal",
-        "trans": ["哺乳动物"]
-    },
-    {
-        "name": "postpone",
-        "trans": ["推迟"]
-    },
-    {
-        "name": "woodland",
-        "trans": ["林地", "森林"]
-    },
-    {
-        "name": "cave",
-        "trans": ["山洞"]
-    },
-    {
-        "name": "order",
-        "trans": ["订购", "秩序", "命令"]
-    },
-    {
-        "name": "lawyer",
-        "trans": ["律师"]
-    },
-    {
-        "name": "acid",
-        "trans": ["酸的"]
-    },
-    {
-        "name": "beat",
-        "trans": ["（心脏）跳动"]
-    },
-    {
-        "name": "fitness",
-        "trans": ["健康"]
-    },
-    {
-        "name": "necessity",
-        "trans": ["必需品"]
-    },
-    {
-        "name": "church",
-        "trans": ["教堂"]
-    },
-    {
-        "name": "flood",
-        "trans": ["洪水"]
-    },
-    {
-        "name": "publication",
-        "trans": ["出版"]
-    },
-    {
-        "name": "critical",
-        "trans": ["批评的", "关键的"]
-    },
-    {
-        "name": "behavior",
-        "trans": ["行为"]
-    },
-    {
-        "name": "vote",
-        "trans": ["投票"]
-    },
-    {
-        "name": "session",
-        "trans": ["会议", "学期"]
-    },
-    {
-        "name": "crop",
-        "trans": ["农作物"]
-    },
-    {
-        "name": "technique",
-        "trans": ["技巧"]
-    },
-    {
-        "name": "entrant",
-        "trans": ["参与者"]
-    },
-    {
-        "name": "overload",
-        "trans": ["使超载", "超负荷"]
-    },
-    {
-        "name": "council",
-        "trans": ["委员会"]
-    },
-    {
-        "name": "chairman",
-        "trans": ["主席"]
-    },
-    {
-        "name": "railway",
-        "trans": ["铁路"]
-    },
-    {
-        "name": "contract",
-        "trans": ["合同"]
-    },
-    {
-        "name": "rare",
-        "trans": ["稀少的"]
-    },
-    {
-        "name": "common room",
-        "trans": ["公共休息室"]
-    },
-    {
-        "name": "enquiry",
-        "trans": ["咨询"]
-    },
-    {
-        "name": "thick",
-        "trans": ["厚的"]
-    },
-    {
-        "name": "liquid",
-        "trans": ["液体"]
-    },
-    {
-        "name": "dye",
-        "trans": ["染"]
-    },
-    {
-        "name": "rat",
-        "trans": ["老鼠"]
-    },
-    {
-        "name": "measure",
-        "trans": ["测量"]
-    }
+  {
+    "name": "mammal",
+    "trans": [
+      "n. 哺乳动物"
+    ]
+  },
+  {
+    "name": "postpone",
+    "trans": [
+      "vt. 推迟"
+    ]
+  },
+  {
+    "name": "woodland",
+    "trans": [
+      "n. 林地",
+      "n. 森林"
+    ]
+  },
+  {
+    "name": "cave",
+    "trans": [
+      "n. 山洞"
+    ]
+  },
+  {
+    "name": "order",
+    "trans": [
+      "n. 订购",
+      "n. 秩序",
+      "n. 命令"
+    ]
+  },
+  {
+    "name": "lawyer",
+    "trans": [
+      "n. 律师"
+    ]
+  },
+  {
+    "name": "acid",
+    "trans": [
+      "n. 酸的"
+    ]
+  },
+  {
+    "name": "beat",
+    "trans": [
+      "n. （心脏）跳动"
+    ]
+  },
+  {
+    "name": "fitness",
+    "trans": [
+      "n. 健康"
+    ]
+  },
+  {
+    "name": "necessity",
+    "trans": [
+      "n. 必需品"
+    ]
+  },
+  {
+    "name": "church",
+    "trans": [
+      "n. 教堂"
+    ]
+  },
+  {
+    "name": "flood",
+    "trans": [
+      "n. 洪水"
+    ]
+  },
+  {
+    "name": "publication",
+    "trans": [
+      "n. 出版"
+    ]
+  },
+  {
+    "name": "critical",
+    "trans": [
+      "adj. 批评的",
+      "adj. 关键的"
+    ]
+  },
+  {
+    "name": "behavior",
+    "trans": [
+      "n. 行为"
+    ]
+  },
+  {
+    "name": "vote",
+    "trans": [
+      "n. 投票"
+    ]
+  },
+  {
+    "name": "session",
+    "trans": [
+      "n. 会议",
+      "n. 学期"
+    ]
+  },
+  {
+    "name": "crop",
+    "trans": [
+      "n. 农作物"
+    ]
+  },
+  {
+    "name": "technique",
+    "trans": [
+      "n. 技巧"
+    ]
+  },
+  {
+    "name": "entrant",
+    "trans": [
+      "n. 参与者"
+    ]
+  },
+  {
+    "name": "overload",
+    "trans": [
+      "vt. 使超载",
+      "vt. 超负荷"
+    ]
+  },
+  {
+    "name": "council",
+    "trans": [
+      "n. 委员会"
+    ]
+  },
+  {
+    "name": "chairman",
+    "trans": [
+      "n. 主席"
+    ]
+  },
+  {
+    "name": "railway",
+    "trans": [
+      "n. 铁路"
+    ]
+  },
+  {
+    "name": "contract",
+    "trans": [
+      "n. 合同"
+    ]
+  },
+  {
+    "name": "rare",
+    "trans": [
+      "adj. 稀少的"
+    ]
+  },
+  {
+    "name": "common room",
+    "trans": [
+      "n. 公共休息室"
+    ]
+  },
+  {
+    "name": "enquiry",
+    "trans": [
+      "n. 咨询"
+    ]
+  },
+  {
+    "name": "thick",
+    "trans": [
+      "adj. 厚的"
+    ]
+  },
+  {
+    "name": "liquid",
+    "trans": [
+      "n. 液体"
+    ]
+  },
+  {
+    "name": "dye",
+    "trans": [
+      "n. 染"
+    ]
+  },
+  {
+    "name": "rat",
+    "trans": [
+      "n. 老鼠"
+    ]
+  },
+  {
+    "name": "measure",
+    "trans": [
+      "n. 测量"
+    ]
+  }
 ]

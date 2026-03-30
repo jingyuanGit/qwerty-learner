@@ -66,7 +66,7 @@
   {
     "name": "national park",
     "trans": [
-      "（美）国家公园"
+      "n. （美）国家公园"
     ],
     "usphone": "ˌnæʃnəl ˈpɑːk",
     "ukphone": "ˌnæʃnəl ˈpɑːk"
@@ -1834,7 +1834,7 @@
   {
     "name": "spiciest",
     "trans": [
-      "辛辣的 香的（ spicy的最高级 ）"
+      null
     ]
   },
   {
@@ -2152,7 +2152,7 @@
   {
     "name": "solar system",
     "trans": [
-      "[天] 太阳系"
+      "n. [天] 太阳系"
     ],
     "usphone": "ˈsəʊlə sɪstəm",
     "ukphone": "ˈsəʊlə sɪstəm"
@@ -2950,7 +2950,7 @@
   {
     "name": "operator",
     "trans": [
-      "经营者；操作员；运营商；话务员；行家"
+      "n. 经营者；操作员；运营商；话务员；行家"
     ],
     "usphone": "ˈɒpəreɪtə(r)",
     "ukphone": "ˈɒpəreɪtə(r)"
@@ -3190,7 +3190,7 @@
   {
     "name": "bred",
     "trans": [
-      "breed的过去式和过去分词"
+      null
     ],
     "usphone": "bred",
     "ukphone": "bred"

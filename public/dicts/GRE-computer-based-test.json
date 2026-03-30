@@ -742,13 +742,13 @@
   {
     "name": "at a premium",
     "trans": [
-      "phrase. 非常珍贵的"
+      null
     ]
   },
   {
     "name": "at odds with",
     "trans": [
-      "phrase. 与...矛盾"
+      null
     ]
   },
   {
@@ -864,7 +864,7 @@
   {
     "name": "balk at",
     "trans": [
-      "phrase. 回避"
+      null
     ]
   },
   {
@@ -901,7 +901,7 @@
     "name": "bargain",
     "trans": [
       "v. to discuss an agreement or price in order to make it more appealing",
-      "讨价还价"
+      "n. 讨价还价"
     ]
   },
   {
@@ -1238,7 +1238,7 @@
   {
     "name": "cede to",
     "trans": [
-      "phrase. 让与"
+      null
     ]
   },
   {
@@ -1641,7 +1641,7 @@
     "name": "conducive",
     "trans": [
       "adj. making it easy, possible, or likely for something to happen or exist",
-      "有助于...的"
+      "adj. 有助于...的"
     ]
   },
   {
@@ -1794,7 +1794,7 @@
     "name": "contradictory",
     "trans": [
       "adj. involving or having information that disagrees with other information",
-      "矛盾的"
+      "adj. 矛盾的"
     ]
   },
   {
@@ -1807,7 +1807,7 @@
     "name": "controversial",
     "trans": [
       "adj. relating to or causing much discussion, disagreement, or argument",
-      "有争议的"
+      "adj. 有争议的"
     ]
   },
   {
@@ -1863,7 +1863,7 @@
     "name": "counterpart",
     "trans": [
       "n. someone or something that has the same job or purpose as another",
-      "对应的人或物"
+      "n. 对应的人或物"
     ]
   },
   {
@@ -2036,7 +2036,7 @@
     "name": "decay",
     "trans": [
       "n. the process or result of being slowly destroyed by natural precesses",
-      "腐朽"
+      "n. 腐朽"
     ]
   },
   {
@@ -2088,7 +2088,7 @@
     "trans": [
       "v. to drive danger or attack away from 保护",
       "v. to maintain or support in the face of argument or hostile criticism",
-      "为…争辩"
+      "vt. 为…争辩"
     ]
   },
   {
@@ -2263,7 +2263,7 @@
   {
     "name": "derive from",
     "trans": [
-      "phrase. to take, receive, or obtain especially from a specific source 源于"
+      null
     ]
   },
   {
@@ -2271,7 +2271,7 @@
     "trans": [
       "n. deliberate purposive planning 故意",
       "n. the process of planning how something will look, happen, be made",
-      "设计"
+      "n. 设计"
     ]
   },
   {
@@ -2659,7 +2659,7 @@
     "name": "diversity",
     "trans": [
       "n. the quality or state of having many different forms, types, ideas, etc.",
-      "多样性，差异化"
+      "n. 多样性，差异化"
     ]
   },
   {
@@ -3105,7 +3105,7 @@
     "name": "entailed by",
     "trans": [
       "v. to impose, involve, or imply as a necessary accompaniment or result",
-      "使需要，导致"
+      "v. 使需要，导致"
     ]
   },
   {
@@ -3118,7 +3118,7 @@
     "name": "enterprising",
     "trans": [
       "adj. having or showing the ability or desire to do new and difficult things",
-      "有进取心的"
+      "adj. 有进取心的"
     ]
   },
   {
@@ -3186,7 +3186,7 @@
     "name": "erratic",
     "trans": [
       "adj. acting, moving, or changing in ways that are not expected or usual",
-      "难以预测的"
+      "adj. 难以预测的"
     ]
   },
   {
@@ -3314,7 +3314,7 @@
     "name": "exaggerate",
     "trans": [
       "v. to think of or describe something as larger or greater than it really is",
-      "夸大"
+      "vt. 夸大"
     ]
   },
   {
@@ -4108,7 +4108,7 @@
   {
     "name": "hew to",
     "trans": [
-      "phrase. 遵守"
+      null
     ]
   },
   {
@@ -4151,7 +4151,7 @@
     "name": "homogeneity",
     "trans": [
       "n. the state of having identical cumulative distribution function or values",
-      "同质"
+      "n. 同质"
     ]
   },
   {
@@ -4195,7 +4195,7 @@
     "name": "hyperbole",
     "trans": [
       "n. language that describes something as better or worse than it really is",
-      "夸大"
+      "n. 夸大"
     ]
   },
   {
@@ -4505,7 +4505,7 @@
     "name": "indecorous",
     "trans": [
       "adj. conflicting with accepted standards of good conduct or good taste",
-      "不合礼节的"
+      "adj. 不合礼节的"
     ]
   },
   {
@@ -4536,8 +4536,8 @@
   {
     "name": "indiscriminate",
     "trans": [
-      "affecting or harming many people or things in a careless or unfair way 肆意的",
-      "not careful in making choices 盲目的"
+      "adj. affecting or harming many people or things in a careless or unfair way 肆意的",
+      "adj. not careful in making choices 盲目的"
     ]
   },
   {
@@ -4605,7 +4605,7 @@
   {
     "name": "inferable from",
     "trans": [
-      "phrase. 能从...推断的"
+      null
     ]
   },
   {
@@ -4872,7 +4872,7 @@
     "name": "irresistible",
     "trans": [
       "adj. impossible to resist especially because of strength or attractiveness",
-      "不可抵抗的"
+      "adj. 不可抵抗的"
     ]
   },
   {
@@ -4939,7 +4939,7 @@
   {
     "name": "keep abreast of",
     "trans": [
-      "phrase. 了解...的最新情况"
+      null
     ]
   },
   {
@@ -5051,7 +5051,7 @@
   {
     "name": "live up to",
     "trans": [
-      "phrase. 达到，不辜负"
+      null
     ]
   },
   {
@@ -5300,7 +5300,7 @@
     "trans": [
       "n. a figure of speech in which a word or phrase literally denoting one kind of object or idea is used in place of another to suggest a likeness or analogy between them 隐喻",
       "n. an object, activity, or idea that is used as a symbol of something",
-      "else 象征"
+      "n. else 象征"
     ]
   },
   {
@@ -5345,7 +5345,7 @@
     "name": "misgiving",
     "trans": [
       "n. a feeling of doubt or suspicion especially concerning a future event",
-      "疑虑，担忧"
+      "n. 疑虑，担忧"
     ]
   },
   {
@@ -5886,7 +5886,7 @@
     "name": "oust",
     "trans": [
       "v. to cause or force to leave a position of power, a competition, etc.",
-      "罢黜，驱逐",
+      "vt. 罢黜，驱逐",
       "v. to take the place of 取代"
     ]
   },
@@ -6401,7 +6401,7 @@
     "name": "preclude",
     "trans": [
       "v. to make impossible by necessary consequence: rule out in advance",
-      "排除，防止"
+      "vt. 排除，防止"
     ]
   },
   {
@@ -6511,7 +6511,7 @@
     "name": "pretext",
     "trans": [
       "n. a reason that you give to hide your real reason for doing something",
-      "借口"
+      "n. 借口"
     ]
   },
   {
@@ -6551,7 +6551,7 @@
     "name": "privilege",
     "trans": [
       "n. a right or immunity granted as a peculiar benefit, advantage, or favor",
-      "特权"
+      "n. 特权"
     ]
   },
   {
@@ -6705,7 +6705,7 @@
     "name": "provincial",
     "trans": [
       "adj. not knowing or caring about people and events in other places",
-      "狭隘的",
+      "adj. 狭隘的",
       "adj. of, relating to, or coming from a province 省的"
     ]
   },
@@ -6781,7 +6781,7 @@
   {
     "name": "put to rest",
     "trans": [
-      "phrase. 排除"
+      null
     ]
   },
   {
@@ -6901,7 +6901,7 @@
     "name": "reactivate",
     "trans": [
       "v. to make it work again after a period in which it has not been working",
-      "恢复"
+      "v. 恢复"
     ]
   },
   {
@@ -7238,7 +7238,7 @@
   {
     "name": "ring true",
     "trans": [
-      "phrase. 听来真实"
+      null
     ]
   },
   {
@@ -7282,7 +7282,7 @@
   {
     "name": "rule out",
     "trans": [
-      "phrase. 排除"
+      null
     ]
   },
   {
@@ -7430,7 +7430,7 @@
     "name": "self-effacing",
     "trans": [
       "adj. not like talking about themselves or drawing attention to themselves",
-      "谦逊的，不出风头的"
+      "adj. 谦逊的，不出风头的"
     ]
   },
   {
@@ -7546,7 +7546,7 @@
   {
     "name": "shy away",
     "trans": [
-      "phrase. 回避"
+      null
     ]
   },
   {
@@ -7578,7 +7578,7 @@
   {
     "name": "simmer with",
     "trans": [
-      "phrase. 内心充满"
+      null
     ]
   },
   {
@@ -7831,7 +7831,7 @@
   {
     "name": "square with",
     "trans": [
-      "phrase. 与...一致"
+      null
     ]
   },
   {
@@ -7862,7 +7862,7 @@
     "name": "stalwart",
     "trans": [
       "adj. marked by outstanding strength and vigor of body, mind, or spirit",
-      "健壮的",
+      "adj. 健壮的",
       "adj. very loyal and dedicated 忠实的，坚定的"
     ]
   },
@@ -7894,7 +7894,7 @@
     "name": "stasis",
     "trans": [
       "n. a slowing or stoppage of the normal flow of a bodily fluid or semifluid",
-      "停滞"
+      "n. 停滞"
     ]
   },
   {
@@ -7906,7 +7906,7 @@
   {
     "name": "stave off",
     "trans": [
-      "phrase. 延缓"
+      null
     ]
   },
   {
@@ -7956,7 +7956,7 @@
   {
     "name": "strip away",
     "trans": [
-      "phrase. to remove it completely 除去"
+      null
     ]
   },
   {
@@ -8200,7 +8200,7 @@
   {
     "name": "teem with",
     "trans": [
-      "phrase. 充满"
+      null
     ]
   },
   {
@@ -8288,7 +8288,7 @@
     "trans": [
       "v. to cause to feel very excited or happy 使激动",
       "n. a quivering or trembling caused by sudden excitement or emotion",
-      "激动，紧张"
+      "n. 激动，紧张"
     ]
   },
   {
@@ -8717,7 +8717,7 @@
     "name": "unsurpassed",
     "trans": [
       "adj. emphasizing that it is better or greater than anything else of its kind",
-      "无可比拟的"
+      "adj. 无可比拟的"
     ]
   },
   {
@@ -8834,7 +8834,7 @@
     "name": "vainglorious",
     "trans": [
       "adj. having or showing too much pride in your abilities or achievements",
-      "自负的"
+      "adj. 自负的"
     ]
   },
   {
@@ -9023,7 +9023,7 @@
     "name": "wherewithal",
     "trans": [
       "n. the money, skill, etc., that is needed to get or do something 必要手段",
-      "（钱或技能）"
+      "n. （钱或技能）"
     ]
   },
   {

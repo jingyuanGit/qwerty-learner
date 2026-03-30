@@ -4428,7 +4428,7 @@
     "trans": [
       "adj. 快的，迅速的；敏捷的，灵活的；急躁的，性急的",
       "adv. 快速地，迅速地",
-      "undefined 敏感的部位，痛处"
+      "adj. undefined 敏感的部位，痛处"
     ],
     "usphone": "kwɪk",
     "ukphone": "kwɪk"
@@ -8186,7 +8186,7 @@
     "name": "indeed",
     "trans": [
       "adv. 确实，的确，实在；事实上，实际上",
-      "interj. 真的吗？，是吗？（表示惊讶或询问）"
+      "adv. interj. 真的吗？，是吗？（表示惊讶或询问）"
     ],
     "usphone": "ɪnˈdiːd",
     "ukphone": "ɪnˈdiːd"
@@ -23571,7 +23571,7 @@
   {
     "name": "any",
     "trans": [
-      "det. 任何的，任一的",
+      "adj. det. 任何的，任一的",
       "pron. 任何人，任何东西",
       "adv. 丝毫，一点儿"
     ],
@@ -23883,7 +23883,7 @@
   {
     "name": "whatever",
     "trans": [
-      "det. 无论什么，不管什么",
+      "pron. det. 无论什么，不管什么",
       "pron. 无论什么，不管什么",
       "adj. 无论什么的，不管什么的",
       "adv. 无论如何，不管怎样"
@@ -23928,7 +23928,7 @@
   {
     "name": "whichever",
     "trans": [
-      "det. 无论哪个，不管哪个",
+      "pron. det. 无论哪个，不管哪个",
       "pron. 无论哪个，不管哪个"
     ],
     "usphone": "wɪtʃˈevər",
@@ -25540,7 +25540,7 @@
     "trans": [
       "n. 爆炸；冲击波；一阵（强风）；猛烈抨击；痛骂",
       "v. 炸毁；爆破；严厉批评；抨击；用高音播放；大声播放",
-      "interj. 该死！；见鬼！"
+      "n. interj. 该死！；见鬼！"
     ],
     "usphone": "blæst",
     "ukphone": "blɑːst"
@@ -28851,7 +28851,7 @@
     "trans": [
       "n. 原谅，宽恕；赦免",
       "v. 原谅，宽恕；请再说一遍（用于礼貌地请求重复）",
-      "interj. 对不起，抱歉（用于礼貌地请求重复或引起注意）"
+      "n. interj. 对不起，抱歉（用于礼貌地请求重复或引起注意）"
     ],
     "usphone": "ˈpɑːrdn",
     "ukphone": "ˈpɑːdn"
@@ -32583,7 +32583,7 @@
     "name": "drain",
     "trans": [
       "v. 排空，放干；耗尽，用尽",
-      "undefined 排水管，下水道",
+      "n. undefined 排水管，下水道",
       "n. 消耗，负担"
     ],
     "usphone": "dreɪn",
@@ -38208,7 +38208,7 @@
   {
     "name": "another",
     "trans": [
-      "det. 另一个，再一个",
+      "adj. det. 另一个，再一个",
       "pron. 另一个，再一个",
       "adj. 另外的，再一个的"
     ],
@@ -40541,7 +40541,7 @@
       "adj. 很少的，不多的",
       "pron. 少数，少量",
       "n. 少数人，少量",
-      "det. 很少的，少数的"
+      "n. det. 很少的，少数的"
     ],
     "usphone": "fjuː",
     "ukphone": "fjuː"
@@ -41064,7 +41064,7 @@
   {
     "name": "hey",
     "trans": [
-      "interj. 嘿，喂（用于打招呼、引起注意、表示惊讶或抗议）"
+      "int. interj. 嘿，喂（用于打招呼、引起注意、表示惊讶或抗议）"
     ],
     "usphone": "heɪ",
     "ukphone": "heɪ"
@@ -43613,7 +43613,7 @@
     "trans": [
       "adj. 确定的，肯定的；有把握的，自信的",
       "adv. 当然，确实",
-      "interj. 当然，好的"
+      "adj. interj. 当然，好的"
     ],
     "usphone": "ʃʊr",
     "ukphone": "ʃʊə(r)"
@@ -44689,7 +44689,7 @@
   {
     "name": "each",
     "trans": [
-      "det. 每个的，各自的",
+      "adj. det. 每个的，各自的",
       "pron. 每个人，每件事物",
       "adv. 每个，每一个"
     ],
@@ -44823,7 +44823,7 @@
   {
     "name": "every",
     "trans": [
-      "det. 每一个，每个；所有的"
+      "adj. det. 每一个，每个；所有的"
     ],
     "usphone": "ˈevri",
     "ukphone": "ˈevri"
@@ -45137,7 +45137,7 @@
     "name": "goodbye",
     "trans": [
       "n. 再见，告别",
-      "interj. 再见"
+      "int. interj. 再见"
     ],
     "usphone": "ˌɡʊdˈbaɪ",
     "ukphone": "ˌɡʊdˈbaɪ"
@@ -45240,7 +45240,7 @@
   {
     "name": "hello",
     "trans": [
-      "interj. 你好，喂",
+      "int. interj. 你好，喂",
       "n. 问候，打招呼"
     ],
     "usphone": "həˈloʊ",
@@ -46279,7 +46279,7 @@
   {
     "name": "no",
     "trans": [
-      "det. 没有，无",
+      "adv. det. 没有，无",
       "adv. 不，不是",
       "n. 否定，拒绝"
     ],
@@ -47167,7 +47167,7 @@
   {
     "name": "should",
     "trans": [
-      "modal v. 应该，应当；可能，大概；虚拟语气中表示假设；用于表示惊讶、愤怒等情感"
+      "aux. modal v. 应该，应当；可能，大概；虚拟语气中表示假设；用于表示惊讶、愤怒等情感"
     ],
     "usphone": "ʃʊd",
     "ukphone": "ʃʊd"
@@ -47295,7 +47295,7 @@
       "conj. 因此，所以；为了…的目的",
       "adj. 如此的",
       "pron. 如此",
-      "intj. 真的吗？是这样吗？"
+      "adv. intj. 真的吗？是这样吗？"
     ],
     "usphone": "soʊ",
     "ukphone": "səʊ"
@@ -47312,7 +47312,7 @@
   {
     "name": "some",
     "trans": [
-      "det. 一些，若干",
+      "adj. det. 一些，若干",
       "pron. 一些，若干",
       "adj. 某个的，某些的",
       "adv. 大约，左右"
@@ -47552,7 +47552,7 @@
       "adj. 这样的，如此的",
       "pron. 这样的人/事物",
       "adv. 如此，这么",
-      "det. 如此的，这样的"
+      "adj. det. 如此的，这样的"
     ],
     "usphone": "sʌtʃ",
     "ukphone": "sʌtʃ"
@@ -47776,7 +47776,7 @@
   {
     "name": "these",
     "trans": [
-      "det. 这些",
+      "pron. det. 这些",
       "pron. 这些"
     ],
     "usphone": "ðiz",
@@ -47856,7 +47856,7 @@
   {
     "name": "this",
     "trans": [
-      "det. 这个，这",
+      "pron. det. 这个，这",
       "pron. 这，这个",
       "adv. 这么，这样"
     ],
@@ -47866,7 +47866,7 @@
   {
     "name": "those",
     "trans": [
-      "det. 那些；那些的",
+      "pron. det. 那些；那些的",
       "pron. 那些人，那些东西"
     ],
     "usphone": "ðoʊz",
@@ -48232,7 +48232,7 @@
     "trans": [
       "adv. 好，令人满意地；充分地，彻底地；很，非常",
       "adj. 健康的，身体好的",
-      "interj. 好吧，那么",
+      "adv. interj. 好吧，那么",
       "n. 井，水井"
     ],
     "usphone": "wel",
@@ -48479,7 +48479,7 @@
     "trans": [
       "adv. 是的，是",
       "n. 赞同，同意",
-      "interj. 是，对"
+      "adv. interj. 是，对"
     ],
     "usphone": "jes",
     "ukphone": "jes"

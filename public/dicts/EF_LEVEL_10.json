@@ -4,7 +4,7 @@
     "usphone": "ˈmɜːrdʒər",
     "ukphone": "ˈmɜːdʒə(r)",
     "trans": [
-      "合并,兼并"
+      "n. 合并,兼并"
     ]
   },
   {
@@ -12,7 +12,7 @@
     "usphone": "məˈræl",
     "ukphone": "məˈrɑːl",
     "trans": [
-      "士气, 精神状态"
+      "n. 士气, 精神状态"
     ]
   },
   {
@@ -20,7 +20,7 @@
     "usphone": "ˈpreʃər",
     "ukphone": "ˈpreʃə(r)",
     "trans": [
-      "迫使, 施压"
+      "n. 迫使, 施压"
     ]
   },
   {
@@ -28,7 +28,7 @@
     "usphone": "prəˈpoʊz",
     "ukphone": "prəˈpəʊz",
     "trans": [
-      "建议, 提议"
+      "vt. 建议, 提议"
     ]
   },
   {
@@ -36,7 +36,7 @@
     "usphone": "rɪˈzaɪn",
     "ukphone": "rɪˈzaɪn",
     "trans": [
-      "辞职"
+      "n. 辞职"
     ]
   },
   {
@@ -44,7 +44,7 @@
     "usphone": "ˈruːmər",
     "ukphone": "ˈruːmə(r)",
     "trans": [
-      "谣言"
+      "n. 谣言"
     ]
   },
   {
@@ -52,7 +52,7 @@
     "usphone": "ˈsmuːðli",
     "ukphone": "ˈsmuːðli",
     "trans": [
-      "平滑地, 平稳地, 流畅地, 顺利地"
+      "adv. 平滑地, 平稳地, 流畅地, 顺利地"
     ]
   },
   {
@@ -60,7 +60,7 @@
     "usphone": "tæsk",
     "ukphone": "tɑːsk",
     "trans": [
-      "任务"
+      "n. 任务"
     ]
   },
   {
@@ -68,7 +68,7 @@
     "usphone": "ˈoʊ",
     "ukphone": "ˌsiːiːˈəʊ",
     "trans": [
-      "(缩写)首席执行官"
+      null
     ]
   },
   {
@@ -76,7 +76,7 @@
     "usphone": "dɪˈskʌs",
     "ukphone": "dɪˈskʌs",
     "trans": [
-      "讨论, 探讨"
+      "vt. 讨论, 探讨"
     ]
   },
   {
@@ -84,7 +84,7 @@
     "usphone": "əˈtenʃn",
     "ukphone": "əˈtenʃn",
     "trans": [
-      "关心, 关注"
+      "n. 关心, 关注"
     ]
   },
   {
@@ -92,7 +92,7 @@
     "usphone": "ˈpɜːrpəs",
     "ukphone": "ˈpɜːpəs",
     "trans": [
-      "目的"
+      "n. 目的"
     ]
   },
   {
@@ -100,7 +100,7 @@
     "usphone": "ˈaɪtəm",
     "ukphone": "ˈaɪtəm",
     "trans": [
-      "条, 条款, 项, 项目, 条目"
+      "n. 条, 条款, 项, 项目, 条目"
     ]
   },
   {
@@ -108,7 +108,7 @@
     "usphone": "nɪˈɡoʊʃieɪt",
     "ukphone": "nɪˈɡəʊʃieɪt",
     "trans": [
-      "商议; 谈判; 协商"
+      "vt. 商议; 谈判; 协商"
     ]
   },
   {
@@ -116,7 +116,7 @@
     "usphone": "sɑːlv",
     "ukphone": "sɒlv",
     "trans": [
-      "解决, 解答"
+      "vt. 解决, 解答"
     ]
   },
   {
@@ -124,7 +124,7 @@
     "usphone": "rɪˈɡret",
     "ukphone": "rɪˈɡret",
     "trans": [
-      "后悔"
+      "n. 后悔"
     ]
   },
   {
@@ -132,7 +132,7 @@
     "usphone": "kənˈɡrætʃuleɪt",
     "ukphone": "kənˈɡrætʃuleɪt",
     "trans": [
-      "向(某人)祝贺;道贺"
+      "vt. 向(某人)祝贺;道贺"
     ]
   },
   {
@@ -140,7 +140,7 @@
     "usphone": "rɪˈpleɪs",
     "ukphone": "rɪˈpleɪs",
     "trans": [
-      "取代, 替代"
+      "vt. 取代, 替代"
     ]
   },
   {
@@ -148,7 +148,7 @@
     "usphone": "ˈækjərət",
     "ukphone": "ˈækjərət",
     "trans": [
-      "精确的, 准确的"
+      "adj. 精确的, 准确的"
     ]
   },
   {
@@ -156,7 +156,7 @@
     "usphone": "əˈdʒendə",
     "ukphone": "əˈdʒendə",
     "trans": [
-      "议程,讨论事项"
+      "n. 议程,讨论事项"
     ]
   },
   {
@@ -164,7 +164,7 @@
     "usphone": "əˈwer",
     "ukphone": "əˈweə(r)",
     "trans": [
-      "知道的, 意识到的"
+      "adj. 知道的, 意识到的"
     ]
   },
   {
@@ -172,7 +172,7 @@
     "usphone": "ˈbʌdʒɪt",
     "ukphone": "ˈbʌdʒɪt",
     "trans": [
-      "预算"
+      "n. 预算"
     ]
   },
   {
@@ -180,7 +180,7 @@
     "usphone": "ˈbʌdʒɪt",
     "ukphone": "ˈbʌdʒɪt",
     "trans": [
-      "做预算, 规划, 按预算来计划"
+      "n. 做预算, 规划, 按预算来计划"
     ]
   },
   {
@@ -188,7 +188,7 @@
     "usphone": "ˈtʃælɪndʒ",
     "ukphone": "ˈtʃælɪndʒ",
     "trans": [
-      "挑战"
+      "n. 挑战"
     ]
   },
   {
@@ -196,7 +196,7 @@
     "usphone": "kənˈkluːd",
     "ukphone": "kənˈkluːd",
     "trans": [
-      "下结论, 总结"
+      "vi. 下结论, 总结"
     ]
   },
   {
@@ -204,7 +204,7 @@
     "usphone": "ɪˈvæljueɪt",
     "ukphone": "ɪˈvæljueɪt",
     "trans": [
-      "评价"
+      "vt. 评价"
     ]
   },
   {
@@ -212,7 +212,7 @@
     "usphone": "ɪɡˈzekjətɪv",
     "ukphone": "ɪɡˈzekjətɪv",
     "trans": [
-      "管理者, 经理, 社长, 董事"
+      "n. 管理者, 经理, 社长, 董事"
     ]
   },
   {
@@ -220,7 +220,7 @@
     "usphone": "ˈfaɪər",
     "ukphone": "ˈfaɪə(r)",
     "trans": [
-      "解雇"
+      "n. 解雇"
     ]
   },
   {
@@ -228,7 +228,7 @@
     "usphone": "ˈfɜːrðər",
     "ukphone": "ˈfɜːðə(r)",
     "trans": [
-      "更远地"
+      "adj. 更远地"
     ]
   },
   {
@@ -236,7 +236,7 @@
     "usphone": "ˈɪntɪɡreɪt",
     "ukphone": "ˈɪntɪɡreɪt",
     "trans": [
-      "使)成为一体,(使)合并"
+      "vt. 使)成为一体,(使)合并"
     ]
   },
   {
@@ -244,13 +244,13 @@
     "usphone": "ɪnˈvɑːlv",
     "ukphone": "ɪnˈvɒlv",
     "trans": [
-      "包含, 涉及"
+      "vt. 包含, 涉及"
     ]
   },
   {
     "name": "old-fashioned",
     "trans": [
-      "旧式的, 过时的"
+      "adj. 旧式的, 过时的"
     ]
   },
   {
@@ -258,7 +258,7 @@
     "usphone": "ˈkɜːrtiəs",
     "ukphone": "ˈkɜːtiəs",
     "trans": [
-      "彬彬有礼的, 谦恭的"
+      "adj. 彬彬有礼的, 谦恭的"
     ]
   },
   {
@@ -266,7 +266,7 @@
     "usphone": "ˌdʒenəˈreɪʃənl",
     "ukphone": "ˌdʒenəˈreɪʃənl",
     "trans": [
-      "代"
+      "adj. 代"
     ]
   },
   {
@@ -274,7 +274,7 @@
     "usphone": "ˈdʒendər",
     "ukphone": "ˈdʒendə(r)",
     "trans": [
-      "性别"
+      "n. 性别"
     ]
   },
   {
@@ -282,7 +282,7 @@
     "usphone": "iˈkwɑːləti",
     "ukphone": "iˈkwɒləti",
     "trans": [
-      "平等"
+      "n. 平等"
     ]
   },
   {
@@ -290,7 +290,7 @@
     "usphone": "ˈsɪmpəθaɪz",
     "ukphone": "ˈsɪmpəθaɪz",
     "trans": [
-      "同情;"
+      "v. 同情;"
     ]
   },
   {
@@ -298,7 +298,7 @@
     "usphone": "ˈɪmplɪment",
     "ukphone": "ˈɪmplɪment",
     "trans": [
-      "使(某事物)生效; 履行; 实施; 贯彻"
+      "n. 使(某事物)生效; 履行; 实施; 贯彻"
     ]
   },
   {
@@ -306,7 +306,7 @@
     "usphone": "ˈstrʌktʃər",
     "ukphone": "ˈstrʌktʃə(r)",
     "trans": [
-      "结构"
+      "n. 结构"
     ]
   },
   {
@@ -314,7 +314,7 @@
     "usphone": "ˈprɑːses",
     "ukphone": "ˈprəʊses",
     "trans": [
-      "过程, 程序, 步骤, 工序"
+      "n. 过程, 程序, 步骤, 工序"
     ]
   },
   {
@@ -322,7 +322,7 @@
     "usphone": "ˈsɪstəm",
     "ukphone": "ˈsɪstəm",
     "trans": [
-      "系统, 体系"
+      "n. 系统, 体系"
     ]
   },
   {
@@ -330,7 +330,7 @@
     "usphone": "ˈmɪʃn",
     "ukphone": "ˈmɪʃn",
     "trans": [
-      "艰巨的任务,艰辛的历程"
+      "n. 艰巨的任务,艰辛的历程"
     ]
   },
   {
@@ -338,7 +338,7 @@
     "usphone": "ˈsteɪtmənt",
     "ukphone": "ˈsteɪtmənt",
     "trans": [
-      "陈述, 声明, 说法"
+      "n. 陈述, 声明, 说法"
     ]
   },
   {
@@ -346,7 +346,7 @@
     "usphone": "rɪˈvjuː",
     "ukphone": "rɪˈvjuː",
     "trans": [
-      "检查, 评审"
+      "n. 检查, 评审"
     ]
   },
   {
@@ -354,7 +354,7 @@
     "usphone": "rɪˈvaɪz",
     "ukphone": "rɪˈvaɪz",
     "trans": [
-      "修订, 修改, 修正, 校订"
+      "n. 修订, 修改, 修正, 校订"
     ]
   },
   {
@@ -362,7 +362,7 @@
     "usphone": "ˌriːˈstrʌktʃər",
     "ukphone": "ˌriːˈstrʌktʃə(r)",
     "trans": [
-      "重组, 改组"
+      "vt. 重组, 改组"
     ]
   },
   {
@@ -370,7 +370,7 @@
     "usphone": "ˌriːˈvæmp",
     "ukphone": "ˌriːˈvæmp",
     "trans": [
-      "将(某物)更新(尤指外观); 翻新"
+      "vt. 将(某物)更新(尤指外观); 翻新"
     ]
   },
   {
@@ -378,7 +378,7 @@
     "usphone": "trænsˈfɔːrm",
     "ukphone": "trænsˈfɔːm",
     "trans": [
-      "转换, 改造, 改变, 改变, 变换, 转化"
+      "vt. 转换, 改造, 改变, 改变, 变换, 转化"
     ]
   },
   {
@@ -386,7 +386,7 @@
     "usphone": "tʃeɪndʒ",
     "ukphone": "tʃeɪndʒ",
     "trans": [
-      "改变, 变化"
+      "n. 改变, 变化"
     ]
   },
   {
@@ -394,7 +394,7 @@
     "usphone": "ˈstɔːrɪdʒ",
     "ukphone": "ˈstɔːrɪdʒ",
     "trans": [
-      "贮存, 贮藏"
+      "n. 贮存, 贮藏"
     ]
   },
   {
@@ -402,7 +402,7 @@
     "usphone": "ˈpɑːrkɪŋ",
     "ukphone": "ˈpɑːkɪŋ",
     "trans": [
-      "停车,泊车"
+      "n. 停车,泊车"
     ]
   },
   {
@@ -410,7 +410,7 @@
     "usphone": "ˈjoʊɡə",
     "ukphone": "ˈjəʊɡə",
     "trans": [
-      "瑜伽"
+      "n. 瑜伽"
     ]
   },
   {
@@ -418,7 +418,7 @@
     "usphone": "ˌrekriˈeɪʃn",
     "ukphone": "ˌrekriˈeɪʃn",
     "trans": [
-      "消遣;"
+      "n. 消遣;"
     ]
   },
   {
@@ -426,7 +426,7 @@
     "usphone": "speɪs",
     "ukphone": "speɪs",
     "trans": [
-      "空地, 空地方, 空处"
+      "n. 空地, 空地方, 空处"
     ]
   },
   {
@@ -434,7 +434,7 @@
     "usphone": "stæf",
     "ukphone": "stɑːf",
     "trans": [
-      "员工, 雇员"
+      "n. 员工, 雇员"
     ]
   },
   {
@@ -442,7 +442,7 @@
     "usphone": "ʌnˈsɜːrtnti",
     "ukphone": "ʌnˈsɜːtnti",
     "trans": [
-      "不确定,不确实"
+      "n. 不确定,不确实"
     ]
   },
   {
@@ -450,7 +450,7 @@
     "usphone": "ˈætɪtuːd",
     "ukphone": "ˈætɪtjuːd",
     "trans": [
-      "态度, 看法"
+      "n. 态度, 看法"
     ]
   },
   {
@@ -458,7 +458,7 @@
     "usphone": "rɪˈzɪstənt",
     "ukphone": "rɪˈzɪstənt",
     "trans": [
-      "抵抗的; 对抗的; 抗拒的; 有阻力的"
+      "adj. 抵抗的; 对抗的; 抗拒的; 有阻力的"
     ]
   },
   {
@@ -466,7 +466,7 @@
     "usphone": "ˈpɑːzətɪv",
     "ukphone": "ˈpɒzətɪv",
     "trans": [
-      "积极的, 有助益的, 建设性的"
+      "adj. 积极的, 有助益的, 建设性的"
     ]
   },
   {
@@ -474,7 +474,7 @@
     "usphone": "trəˈdɪʃənl",
     "ukphone": "trəˈdɪʃənl",
     "trans": [
-      "传统的, 因袭的, 惯例的"
+      "adj. 传统的, 因袭的, 惯例的"
     ]
   },
   {
@@ -482,7 +482,7 @@
     "usphone": "ˈbenɪfɪt",
     "ukphone": "ˈbenɪfɪt",
     "trans": [
-      "利益, 好处, 有利的影响"
+      "n. 利益, 好处, 有利的影响"
     ]
   },
   {
@@ -490,7 +490,7 @@
     "usphone": "ˈbɑːroʊ",
     "ukphone": "ˈbɒrəʊ",
     "trans": [
-      "借"
+      "vt. 借"
     ]
   },
   {
@@ -498,7 +498,7 @@
     "usphone": "det",
     "ukphone": "det",
     "trans": [
-      "债务"
+      "n. 债务"
     ]
   },
   {
@@ -506,7 +506,7 @@
     "usphone": "dɪˈdʌkʃn",
     "ukphone": "dɪˈdʌkʃn",
     "trans": [
-      "扣除"
+      "n. 扣除"
     ]
   },
   {
@@ -514,7 +514,7 @@
     "usphone": "ˈɪnkʌm",
     "ukphone": "ˈɪnkʌm",
     "trans": [
-      "进款, 收入"
+      "n. 进款, 收入"
     ]
   },
   {
@@ -522,7 +522,7 @@
     "usphone": "ˈɡrædʒuəli",
     "ukphone": "ˈɡrædʒuəli",
     "trans": [
-      "渐渐地"
+      "adv. 渐渐地"
     ]
   },
   {
@@ -530,7 +530,7 @@
     "usphone": "oʊ",
     "ukphone": "əʊ",
     "trans": [
-      "欠(人情), 欠钱"
+      "vt. 欠(人情), 欠钱"
     ]
   },
   {
@@ -538,7 +538,7 @@
     "usphone": "ˈsteɪbl",
     "ukphone": "ˈsteɪbl",
     "trans": [
-      "固定的, 稳定的"
+      "adj. 固定的, 稳定的"
     ]
   },
   {
@@ -546,7 +546,7 @@
     "usphone": "ɪkˈspens",
     "ukphone": "ɪkˈspens",
     "trans": [
-      "费用, 支出"
+      "n. 费用, 支出"
     ]
   },
   {
@@ -554,7 +554,7 @@
     "usphone": "ˈseɪvɪŋ",
     "ukphone": "ˈseɪvɪŋ",
     "trans": [
-      "存款"
+      "n. 存款"
     ]
   },
   {
@@ -562,7 +562,7 @@
     "usphone": "loʊn",
     "ukphone": "ləʊn",
     "trans": [
-      "借出, 贷与"
+      "n. 借出, 贷与"
     ]
   },
   {
@@ -570,7 +570,7 @@
     "usphone": "ˈævərɪdʒ",
     "ukphone": "ˈævərɪdʒ",
     "trans": [
-      "平均数"
+      "n. 平均数"
     ]
   },
   {
@@ -578,7 +578,7 @@
     "usphone": "bɪl",
     "ukphone": "bɪl",
     "trans": [
-      "账单"
+      "n. 账单"
     ]
   },
   {
@@ -586,7 +586,7 @@
     "usphone": "ˈriːznəbli",
     "ukphone": "ˈriːznəbli",
     "trans": [
-      "适度地, 尚可, 过得去"
+      "adv. 适度地, 尚可, 过得去"
     ]
   },
   {
@@ -594,7 +594,7 @@
     "usphone": "drɑːp",
     "ukphone": "drɒp",
     "trans": [
-      "下降"
+      "n. 下降"
     ]
   },
   {
@@ -602,7 +602,7 @@
     "usphone": "rʌn",
     "ukphone": "rʌn",
     "trans": [
-      "变得"
+      "n. 变得"
     ]
   },
   {
@@ -610,7 +610,7 @@
     "usphone": "ˈdʒenrəli",
     "ukphone": "ˈdʒenrəli",
     "trans": [
-      "总体地, 总的来说"
+      "adv. 总体地, 总的来说"
     ]
   },
   {
@@ -618,7 +618,7 @@
     "usphone": "sɪɡˈnɪfɪkəntli",
     "ukphone": "sɪɡˈnɪfɪkəntli",
     "trans": [
-      "意味深长地, 意义深远地, 重要地, 较大地"
+      "adv. 意味深长地, 意义深远地, 重要地, 较大地"
     ]
   },
   {
@@ -626,7 +626,7 @@
     "usphone": "ˈhaʊzɪŋ",
     "ukphone": "ˈhaʊzɪŋ",
     "trans": [
-      "房屋"
+      "n. 房屋"
     ]
   },
   {
@@ -634,7 +634,7 @@
     "usphone": "ˈɑːpʃn",
     "ukphone": "ˈɒpʃn",
     "trans": [
-      "选择, 选择权, 选择自由"
+      "n. 选择, 选择权, 选择自由"
     ]
   },
   {
@@ -642,7 +642,7 @@
     "usphone": "ɔːlˈtɜːrnətɪv",
     "ukphone": "ɔːlˈtɜːnətɪv",
     "trans": [
-      "可供选择的事物, 替换物, 替代品"
+      "n. 可供选择的事物, 替换物, 替代品"
     ]
   },
   {
@@ -650,7 +650,7 @@
     "usphone": "ˌpɑːsəˈbɪləti",
     "ukphone": "ˌpɒsəˈbɪləti",
     "trans": [
-      "可能性, 可能的事"
+      "n. 可能性, 可能的事"
     ]
   },
   {
@@ -658,7 +658,7 @@
     "usphone": "ˈdræstɪk",
     "ukphone": "ˈdræstɪk",
     "trans": [
-      "激烈"
+      "adj. 激烈"
     ]
   },
   {
@@ -666,7 +666,7 @@
     "usphone": "praɪˈɔːrəti",
     "ukphone": "praɪˈɒrəti",
     "trans": [
-      "优先权, 优先, 优先顺序"
+      "n. 优先权, 优先, 优先顺序"
     ]
   },
   {
@@ -674,7 +674,7 @@
     "usphone": "pʊʃ",
     "ukphone": "pʊʃ",
     "trans": [
-      "劝说"
+      "n. 劝说"
     ]
   },
   {
@@ -682,7 +682,7 @@
     "usphone": "ˌkɑːmpenˈseɪʃn",
     "ukphone": "ˌkɒmpenˈseɪʃn",
     "trans": [
-      "补偿金,赔偿金,弥补"
+      "n. 补偿金,赔偿金,弥补"
     ]
   },
   {
@@ -690,7 +690,7 @@
     "usphone": "kənˈtrɪbjuːt",
     "ukphone": "kənˈtrɪbjuːt",
     "trans": [
-      "贡献, 捐献, 捐助"
+      "vt. 贡献, 捐献, 捐助"
     ]
   },
   {
@@ -698,7 +698,7 @@
     "usphone": "ˈpækɪdʒ",
     "ukphone": "ˈpækɪdʒ",
     "trans": [
-      "包裹"
+      "n. 包裹"
     ]
   },
   {
@@ -706,7 +706,7 @@
     "usphone": "ɪnˈkluːd",
     "ukphone": "ɪnˈkluːd",
     "trans": [
-      "包括, 包含"
+      "vt. 包括, 包含"
     ]
   },
   {
@@ -714,7 +714,7 @@
     "usphone": "səbˈsɪdieri",
     "ukphone": "səbˈsɪdiəri",
     "trans": [
-      "辅助的,附属的"
+      "n. 辅助的,附属的"
     ]
   },
   {
@@ -722,7 +722,7 @@
     "usphone": "ˈvɪʒn",
     "ukphone": "ˈvɪʒn",
     "trans": [
-      "视力, 视觉"
+      "n. 视力, 视觉"
     ]
   },
   {
@@ -730,7 +730,7 @@
     "usphone": "ˌʌpˈdeɪt",
     "ukphone": "ˌʌpˈdeɪt",
     "trans": [
-      "更新(某事物), 升级"
+      "n. 更新(某事物), 升级"
     ]
   },
   {
@@ -738,7 +738,7 @@
     "usphone": "mɜːrdʒ",
     "ukphone": "mɜːdʒ",
     "trans": [
-      "合并,使融合"
+      "vt. 合并,使融合"
     ]
   },
   {
@@ -746,7 +746,7 @@
     "usphone": "ˈhaɪər",
     "ukphone": "ˈhaɪə(r)",
     "trans": [
-      "出租"
+      "n. 出租"
     ]
   },
   {
@@ -754,7 +754,7 @@
     "usphone": "ˈmɑːrkɪt",
     "ukphone": "ˈmɑːkɪt",
     "trans": [
-      "市场, 集市"
+      "n. 市场, 集市"
     ]
   },
   {
@@ -762,7 +762,7 @@
     "usphone": "ˈperənt",
     "ukphone": "ˈpeərənt",
     "trans": [
-      "父母"
+      "n. 父母"
     ]
   },
   {
@@ -770,7 +770,7 @@
     "usphone": "kənˈtroʊlər",
     "ukphone": "kənˈtrəʊlə(r)",
     "trans": [
-      "(尤指大型机构或部门的)控制者,管理者,指挥者"
+      "n. (尤指大型机构或部门的)控制者,管理者,指挥者"
     ]
   },
   {
@@ -778,7 +778,7 @@
     "usphone": "ˈkændɪdət",
     "ukphone": "ˈkændɪdət",
     "trans": [
-      "候选人"
+      "n. 候选人"
     ]
   },
   {
@@ -786,7 +786,7 @@
     "usphone": "ɪnˈkriːs",
     "ukphone": "ɪnˈkriːs",
     "trans": [
-      "增加, 增多"
+      "n. 增加, 增多"
     ]
   },
   {
@@ -794,7 +794,7 @@
     "usphone": "nuːz",
     "ukphone": "njuːz",
     "trans": [
-      "新闻, 消息, 报导"
+      "n. 新闻, 消息, 报导"
     ]
   },
   {
@@ -802,7 +802,7 @@
     "usphone": "hoʊld",
     "ukphone": "həʊld",
     "trans": [
-      "吸引(注意力)"
+      "n. 吸引(注意力)"
     ]
   },
   {
@@ -810,7 +810,7 @@
     "usphone": "friː",
     "ukphone": "friː",
     "trans": [
-      "自由的, 无拘束的"
+      "adj. 自由的, 无拘束的"
     ]
   },
   {
@@ -818,7 +818,7 @@
     "usphone": "dɪˈkriːs",
     "ukphone": "dɪˈkriːs",
     "trans": [
-      "减少, 下降"
+      "n. 减少, 下降"
     ]
   },
   {
@@ -826,7 +826,7 @@
     "usphone": "fɔːl",
     "ukphone": "fɔːl",
     "trans": [
-      "减少"
+      "v. 减少"
     ]
   },
   {
@@ -834,7 +834,7 @@
     "usphone": "rɪˈmeɪn",
     "ukphone": "rɪˈmeɪn",
     "trans": [
-      "剩下, 余留, 留下"
+      "n. 剩下, 余留, 留下"
     ]
   },
   {
@@ -842,7 +842,7 @@
     "usphone": "step",
     "ukphone": "step",
     "trans": [
-      "步"
+      "n. 步"
     ]
   },
   {
@@ -850,7 +850,7 @@
     "usphone": "rɪˈmaɪnd",
     "ukphone": "rɪˈmaɪnd",
     "trans": [
-      "提醒"
+      "vt. 提醒"
     ]
   },
   {
@@ -858,7 +858,7 @@
     "usphone": "ˈaʊtlaɪn",
     "ukphone": "ˈaʊtlaɪn",
     "trans": [
-      "大纲, 轮廓"
+      "n. 大纲, 轮廓"
     ]
   },
   {
@@ -866,7 +866,7 @@
     "usphone": "ˈsʌməri",
     "ukphone": "ˈsʌməri",
     "trans": [
-      "概括, 概要, 摘要"
+      "n. 概括, 概要, 摘要"
     ]
   },
   {
@@ -874,7 +874,7 @@
     "usphone": "pɔɪnt",
     "ukphone": "pɔɪnt",
     "trans": [
-      "细节"
+      "n. 细节"
     ]
   },
   {
@@ -882,7 +882,7 @@
     "usphone": "meɪn",
     "ukphone": "meɪn",
     "trans": [
-      "最重要的, 主要的"
+      "adj. 最重要的, 主要的"
     ]
   },
   {
@@ -890,7 +890,7 @@
     "usphone": "haʊˈevər",
     "ukphone": "haʊˈevə(r)",
     "trans": [
-      "无论怎样"
+      "adv. 无论怎样"
     ]
   },
   {
@@ -898,7 +898,7 @@
     "usphone": "ˌækwɪˈzɪʃn",
     "ukphone": "ˌækwɪˈzɪʃn",
     "trans": [
-      "(知识、技能的)习得"
+      "n. (知识、技能的)习得"
     ]
   },
   {
@@ -906,7 +906,7 @@
     "usphone": "kənˈkluːʒn",
     "ukphone": "kənˈkluːʒn",
     "trans": [
-      "结论"
+      "n. 结论"
     ]
   },
   {
@@ -914,7 +914,7 @@
     "usphone": "ˈkɑːntɪnənt",
     "ukphone": "ˈkɒntɪnənt",
     "trans": [
-      "洲, 大陆"
+      "n. 洲, 大陆"
     ]
   },
   {
@@ -922,7 +922,7 @@
     "usphone": "ˈhedkwɔːrtərz",
     "ukphone": "ˌhedˈkwɔːtəz",
     "trans": [
-      "司令部"
+      "n. 司令部"
     ]
   },
   {
@@ -930,7 +930,7 @@
     "usphone": "pərˈtɪkjələrli",
     "ukphone": "pəˈtɪkjələli",
     "trans": [
-      "特别地, 尤其"
+      "adv. 特别地, 尤其"
     ]
   },
   {
@@ -938,7 +938,7 @@
     "usphone": "ˈstedi",
     "ukphone": "ˈstedi",
     "trans": [
-      "稳固的, 稳定的, 平稳的, 持续的"
+      "adj. 稳固的, 稳定的, 平稳的, 持续的"
     ]
   },
   {
@@ -946,7 +946,7 @@
     "usphone": "ˈsetbæk",
     "ukphone": "ˈsetbæk",
     "trans": [
-      "顿挫, 挫折, 退步, 逆流"
+      "n. 顿挫, 挫折, 退步, 逆流"
     ]
   },
   {
@@ -954,7 +954,7 @@
     "usphone": "dɪˈlemə",
     "ukphone": "dɪˈlemə",
     "trans": [
-      "困境"
+      "n. 困境"
     ]
   },
   {
@@ -962,7 +962,7 @@
     "usphone": "ˈtʃælɪndʒ",
     "ukphone": "ˈtʃælɪndʒ",
     "trans": [
-      "挑战"
+      "n. 挑战"
     ]
   },
   {
@@ -970,7 +970,7 @@
     "usphone": "prɪˈdɪkəmənt",
     "ukphone": "prɪˈdɪkəmənt",
     "trans": [
-      "处境,窘况,困局"
+      "n. 处境,窘况,困局"
     ]
   },
   {
@@ -978,7 +978,7 @@
     "usphone": "ˈɑːbstəkl",
     "ukphone": "ˈɒbstəkl",
     "trans": [
-      "障碍, 阻碍"
+      "n. 障碍, 阻碍"
     ]
   },
   {
@@ -986,7 +986,7 @@
     "usphone": "kɔːz",
     "ukphone": "kɔːz",
     "trans": [
-      "原因, 起因"
+      "n. 原因, 起因"
     ]
   },
   {
@@ -994,7 +994,7 @@
     "usphone": "rɪˈzʌlt",
     "ukphone": "rɪˈzʌlt",
     "trans": [
-      "结果, 后果"
+      "n. 结果, 后果"
     ]
   },
   {
@@ -1002,7 +1002,7 @@
     "usphone": "ɪˈfekt",
     "ukphone": "ɪˈfekt",
     "trans": [
-      "结果"
+      "n. 结果"
     ]
   },
   {
@@ -1010,7 +1010,7 @@
     "usphone": "əˈfekt",
     "ukphone": "əˈfekt",
     "trans": [
-      "影响"
+      "vt. 影响"
     ]
   },
   {
@@ -1018,7 +1018,7 @@
     "usphone": "ɪˈvæljueɪt",
     "ukphone": "ɪˈvæljueɪt",
     "trans": [
-      "评估"
+      "vt. 评估"
     ]
   },
   {
@@ -1026,7 +1026,7 @@
     "usphone": "səˈluːʃn",
     "ukphone": "səˈluːʃn",
     "trans": [
-      "解决办法"
+      "n. 解决办法"
     ]
   },
   {
@@ -1034,7 +1034,7 @@
     "usphone": "ˈdʒenəreɪt",
     "ukphone": "ˈdʒenəreɪt",
     "trans": [
-      "产生, 形成"
+      "vt. 产生, 形成"
     ]
   },
   {
@@ -1042,7 +1042,7 @@
     "usphone": "əˈnæləsɪs",
     "ukphone": "əˈnæləsɪs",
     "trans": [
-      "分析, 分析报告, 分析结果"
+      "n. 分析, 分析报告, 分析结果"
     ]
   },
   {
@@ -1050,7 +1050,7 @@
     "usphone": "plʌs",
     "ukphone": "plʌs",
     "trans": [
-      "优势"
+      "prep. 优势"
     ]
   },
   {
@@ -1058,7 +1058,7 @@
     "usphone": "ˈdaʊnsaɪd",
     "ukphone": "ˈdaʊnsaɪd",
     "trans": [
-      "缺点"
+      "n. 缺点"
     ]
   },
   {
@@ -1066,7 +1066,7 @@
     "usphone": "ˈbenɪfɪt",
     "ukphone": "ˈbenɪfɪt",
     "trans": [
-      "效益"
+      "n. 效益"
     ]
   },
   {
@@ -1074,7 +1074,7 @@
     "usphone": "ˈmaɪnəs",
     "ukphone": "ˈmaɪnəs",
     "trans": [
-      "减号"
+      "prep. 减号"
     ]
   },
   {
@@ -1082,7 +1082,7 @@
     "usphone": "ˈʌpsaɪd",
     "ukphone": "ˈʌpsaɪd",
     "trans": [
-      "优点"
+      "n. 优点"
     ]
   },
   {
@@ -1090,7 +1090,7 @@
     "usphone": "ədˈvæntɪdʒ",
     "ukphone": "ədˈvɑːntɪdʒ",
     "trans": [
-      "优点"
+      "n. 优点"
     ]
   },
   {
@@ -1098,7 +1098,7 @@
     "usphone": "ˈdrɔːbæk",
     "ukphone": "ˈdrɔːbæk",
     "trans": [
-      "缺陷"
+      "n. 缺陷"
     ]
   },
   {
@@ -1106,7 +1106,7 @@
     "usphone": "ˌʌnəkˈseptəbl",
     "ukphone": "ˌʌnəkˈseptəbl",
     "trans": [
-      "难以接受的, 不受欢迎的"
+      "adj. 难以接受的, 不受欢迎的"
     ]
   },
   {
@@ -1114,7 +1114,7 @@
     "usphone": "mɪs",
     "ukphone": "mɪs",
     "trans": [
-      "未出席, 错过, 未赶上"
+      "n. 未出席, 错过, 未赶上"
     ]
   },
   {
@@ -1122,7 +1122,7 @@
     "usphone": "ˌsɪmpəˈθetɪk",
     "ukphone": "ˌsɪmpəˈθetɪk",
     "trans": [
-      "同情的, 共鸣的"
+      "adj. 同情的, 共鸣的"
     ]
   },
   {
@@ -1130,7 +1130,7 @@
     "usphone": "streŋθ",
     "ukphone": "streŋθ",
     "trans": [
-      "优势, 长处"
+      "n. 优势, 长处"
     ]
   },
   {
@@ -1138,7 +1138,7 @@
     "usphone": "ˈwiːknəs",
     "ukphone": "ˈwiːknəs",
     "trans": [
-      "虚弱, 弱点, 薄弱, 软弱"
+      "n. 虚弱, 弱点, 薄弱, 软弱"
     ]
   },
   {
@@ -1146,7 +1146,7 @@
     "usphone": "θret",
     "ukphone": "θret",
     "trans": [
-      "威胁, 恐吓"
+      "n. 威胁, 恐吓"
     ]
   },
   {
@@ -1154,7 +1154,7 @@
     "usphone": "ˌɑːpərˈtuːnəti",
     "ukphone": "ˌɒpəˈtjuːnəti",
     "trans": [
-      "机会, 良机"
+      "n. 机会, 良机"
     ]
   },
   {
@@ -1162,7 +1162,7 @@
     "usphone": "səˈpɔːrtɪv",
     "ukphone": "səˈpɔːtɪv",
     "trans": [
-      "支持性的"
+      "adj. 支持性的"
     ]
   },
   {
@@ -1170,7 +1170,7 @@
     "usphone": "ˌsætɪsˈfækʃn",
     "ukphone": "ˌsætɪsˈfækʃn",
     "trans": [
-      "满意"
+      "n. 满意"
     ]
   },
   {
@@ -1178,7 +1178,7 @@
     "usphone": "ˈwʌndər",
     "ukphone": "ˈwʌndə(r)",
     "trans": [
-      "惊讶, 怀疑, 惊奇, 想知道"
+      "n. 惊讶, 怀疑, 惊奇, 想知道"
     ]
   },
   {
@@ -1186,7 +1186,7 @@
     "usphone": "dɪˈsɪʒn",
     "ukphone": "dɪˈsɪʒn",
     "trans": [
-      "决定"
+      "n. 决定"
     ]
   },
   {
@@ -1194,7 +1194,7 @@
     "usphone": "əˈɡenst",
     "ukphone": "əˈɡenst",
     "trans": [
-      "反对"
+      "prep. 反对"
     ]
   },
   {
@@ -1202,7 +1202,7 @@
     "usphone": "ˈriːəlaɪz",
     "ukphone": "ˈriːəlaɪz",
     "trans": [
-      "意识到"
+      "vt. 意识到"
     ]
   },
   {
@@ -1210,7 +1210,7 @@
     "usphone": "ˈætməsfɪr",
     "ukphone": "ˈætməsfɪə(r)",
     "trans": [
-      "大气, 大气层"
+      "n. 大气, 大气层"
     ]
   },
   {
@@ -1218,7 +1218,7 @@
     "usphone": "ˈsɜːrveɪ",
     "ukphone": "ˈsɜːveɪ",
     "trans": [
-      "问卷, 测量, 调查, 纵览, 视察"
+      "n. 问卷, 测量, 调查, 纵览, 视察"
     ]
   },
   {
@@ -1226,7 +1226,7 @@
     "usphone": "ˌproʊˈæktɪv",
     "ukphone": "ˌprəʊˈæktɪv",
     "trans": [
-      "积极主动的, 主动出击的, 先发制人的"
+      "adj. 积极主动的, 主动出击的, 先发制人的"
     ]
   },
   {
@@ -1234,7 +1234,7 @@
     "usphone": "roʊl",
     "ukphone": "rəʊl",
     "trans": [
-      "角色, 职责"
+      "n. 角色, 职责"
     ]
   },
   {
@@ -1242,7 +1242,7 @@
     "usphone": "səbˈmɪt",
     "ukphone": "səbˈmɪt",
     "trans": [
-      "提交, 递交"
+      "vi. 提交, 递交"
     ]
   },
   {
@@ -1250,7 +1250,7 @@
     "usphone": "ˈænjuəl",
     "ukphone": "ˈænjuəl",
     "trans": [
-      "年度的"
+      "adj. 年度的"
     ]
   },
   {
@@ -1258,7 +1258,7 @@
     "usphone": "əbˈdʒektɪv",
     "ukphone": "əbˈdʒektɪv",
     "trans": [
-      "目的, 目标"
+      "n. 目的, 目标"
     ]
   },
   {
@@ -1266,7 +1266,7 @@
     "usphone": "liːd",
     "ukphone": "liːd",
     "trans": [
-      "指挥, 领导, 率领"
+      "n. 指挥, 领导, 率领"
     ]
   },
   {
@@ -1274,7 +1274,7 @@
     "usphone": "dɪˈveləpmənt",
     "ukphone": "dɪˈveləpmənt",
     "trans": [
-      "研制, 开发"
+      "n. 研制, 开发"
     ]
   },
   {
@@ -1282,7 +1282,7 @@
     "usphone": "pleɪ",
     "ukphone": "pleɪ",
     "trans": [
-      "扮演 角色"
+      "n. 扮演 角色"
     ]
   },
   {
@@ -1290,7 +1290,7 @@
     "usphone": "ɪnˈvɑːlvd",
     "ukphone": "ɪnˈvɒlvd",
     "trans": [
-      "卷入的, 有关的"
+      "adj. 卷入的, 有关的"
     ]
   },
   {
@@ -1298,7 +1298,7 @@
     "usphone": "bɪˈkʌm",
     "ukphone": "bɪˈkʌm",
     "trans": [
-      "成为, 变成"
+      "vt. 成为, 变成"
     ]
   },
   {
@@ -1306,7 +1306,7 @@
     "usphone": "rɪˌspɑːnsəˈbɪləti",
     "ukphone": "rɪˌspɒnsəˈbɪləti",
     "trans": [
-      "责任, 负担, 职责"
+      "n. 责任, 负担, 职责"
     ]
   },
   {
@@ -1314,7 +1314,7 @@
     "usphone": "spəˈsɪfɪk",
     "ukphone": "spəˈsɪfɪk",
     "trans": [
-      "具体的"
+      "adj. 具体的"
     ]
   },
   {
@@ -1322,7 +1322,7 @@
     "usphone": "ˌriːəˈlɪstɪk",
     "ukphone": "ˌriːəˈlɪstɪk",
     "trans": [
-      "现实的, 实际可行的"
+      "adj. 现实的, 实际可行的"
     ]
   },
   {
@@ -1330,7 +1330,7 @@
     "usphone": "əˈteɪnəbl",
     "ukphone": "əˈteɪnəbl",
     "trans": [
-      "可得到的"
+      "adj. 可得到的"
     ]
   },
   {
@@ -1338,7 +1338,7 @@
     "usphone": "kənˈsɪstənt",
     "ukphone": "kənˈsɪstənt",
     "trans": [
-      "一致的;始终如一的"
+      "adj. 一致的;始终如一的"
     ]
   },
   {
@@ -1346,7 +1346,7 @@
     "usphone": "æmˈbɪʃəs",
     "ukphone": "æmˈbɪʃəs",
     "trans": [
-      "有野心的,有雄心的"
+      "adj. 有野心的,有雄心的"
     ]
   },
   {
@@ -1354,7 +1354,7 @@
     "usphone": "ɪnˈtend",
     "ukphone": "ɪnˈtend",
     "trans": [
-      "打算, 意图"
+      "vi. 打算, 意图"
     ]
   },
   {
@@ -1362,7 +1362,7 @@
     "usphone": "əˈtʃiːv",
     "ukphone": "əˈtʃiːv",
     "trans": [
-      "获得, 完成"
+      "vt. 获得, 完成"
     ]
   },
   {
@@ -1370,7 +1370,7 @@
     "usphone": "kəˈrɪr",
     "ukphone": "kəˈrɪə(r)",
     "trans": [
-      "职业生涯"
+      "n. 职业生涯"
     ]
   },
   {
@@ -1378,7 +1378,7 @@
     "usphone": "ɡoʊl",
     "ukphone": "ɡəʊl",
     "trans": [
-      "球门"
+      "n. 球门"
     ]
   },
   {
@@ -1386,7 +1386,7 @@
     "usphone": "set",
     "ukphone": "set",
     "trans": [
-      "安排"
+      "n. 安排"
     ]
   }
 ]

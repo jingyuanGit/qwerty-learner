@@ -962,7 +962,7 @@
   {
     "name": "solar system",
     "trans": [
-      "[天] 太阳系"
+      "n. [天] 太阳系"
     ],
     "usphone": "ˈsəʊlə sɪstəm",
     "ukphone": "ˈsəʊlə sɪstəm"
@@ -2700,7 +2700,7 @@
   {
     "name": "steam engine",
     "trans": [
-      "蒸汽机"
+      null
     ]
   },
   {
@@ -2834,7 +2834,7 @@
   {
     "name": "cable car",
     "trans": [
-      "（美）缆车"
+      "n. （美）缆车"
     ],
     "usphone": "ˈkeɪbl kɑː(r)",
     "ukphone": "ˈkeɪbl kɑː(r)"

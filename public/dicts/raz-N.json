@@ -426,7 +426,7 @@
   {
     "name": "swiftest",
     "trans": [
-      "最快速的"
+      null
     ],
     "usphone": "swif'test",
     "ukphone": "swif'test"
@@ -1354,7 +1354,7 @@
   {
     "name": "national park",
     "trans": [
-      "（美）国家公园"
+      "n. （美）国家公园"
     ],
     "usphone": "ˌnæʃnəl ˈpɑːk",
     "ukphone": "ˌnæʃnəl ˈpɑːk"
@@ -1440,7 +1440,7 @@
   {
     "name": "take over",
     "trans": [
-      "接管；接收"
+      null
     ],
     "usphone": "tek ˈovɚ",
     "ukphone": "tek ˈovɚ"
@@ -1796,7 +1796,7 @@
   {
     "name": "leap year",
     "trans": [
-      "闰年"
+      "n. 闰年"
     ]
   },
   {
@@ -2490,7 +2490,7 @@
   {
     "name": "musher",
     "trans": [
-      "赶狗拉雪橇的人"
+      null
     ],
     "usphone": "ˈmʌʃər",
     "ukphone": "ˈmʌʃər"
@@ -2740,7 +2740,7 @@
   {
     "name": "attracted",
     "trans": [
-      "吸引 的兴趣 被吸引的"
+      null
     ],
     "usphone": "ə'træktɪd",
     "ukphone": "ə'træktɪd"

@@ -2360,7 +2360,7 @@
   {
     "name": "pi",
     "trans": [
-      "abbr. 产品改进（Product Improve）"
+      null
     ],
     "usphone": "paɪ",
     "ukphone": "paɪ"
@@ -2912,7 +2912,7 @@
   {
     "name": "operator",
     "trans": [
-      "经营者；操作员；运营商；话务员；行家"
+      "n. 经营者；操作员；运营商；话务员；行家"
     ],
     "usphone": "ˈɒpəreɪtə(r)",
     "ukphone": "ˈɒpəreɪtə(r)"
@@ -3080,7 +3080,7 @@
   {
     "name": "sea level",
     "trans": [
-      "[海洋] 海平面"
+      "n. [海洋] 海平面"
     ],
     "usphone": "ˈsiː lev(ə)l",
     "ukphone": "ˈsiː lev(ə)l"
@@ -3280,7 +3280,7 @@
   {
     "name": "orphaned",
     "trans": [
-      "使…成孤儿（orphan的过去式）"
+      null
     ]
   },
   {

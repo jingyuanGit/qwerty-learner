@@ -1,506 +1,758 @@
 [
   {
     "name": "excitable portable preventable",
-    "trans": ["-able  able to be"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "cardiac hemophiliac maniac",
-    "trans": ["-ac   pertaining to"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "perspicacity sagacity velocity",
-    "trans": ["-acity (-ocity)  quality of"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "blockade cavalcade promenade",
-    "trans": ["-ade    act, action or process, product"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "passage pilgrimage voyage",
-    "trans": ["-age   action or process"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "workaholic shopaholic alcoholic",
-    "trans": ["-aholic (-oholic)  one with an obsession for"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "bacterial theatrical natural",
-    "trans": ["-al  relating to"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "neuralgia nostalgia",
-    "trans": ["-algia  pain"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "Italian urban African",
-    "trans": ["-an (-ian)  relating to, belonging to"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "brilliance defiance annoyance",
-    "trans": ["-ance  state or quality of"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "applicant immigrant servant",
-    "trans": ["-ant  a person who"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "brilliant defiant vigilant",
-    "trans": ["-ant  inclined to, tending to"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "lunar molecular solar",
-    "trans": ["-ar  of or relating to, being"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "beggar burglar liar",
-    "trans": ["-ar  a person who"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "coward sluggard wizard",
-    "trans": ["-ard  a person who does an action"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "disciplinarian vegetarian librarian",
-    "trans": ["-arian  a person who"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "terrarium aquarium solarium",
-    "trans": ["-arium (orium)  a place for"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "literary military budgetary",
-    "trans": ["-ary  of or relating to"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "affectionate desolate obstinate",
-    "trans": ["-ate  state or quality of (adj.)"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "activate evaporate medicate",
-    "trans": ["-ate  makes the word a verb (different pronunciation)"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "creation narration emancipation",
-    "trans": ["-ation  action or process"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "creative preservative talkative",
-    "trans": ["-ative  tending to (adj.)"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "homicide suicide genocide",
-    "trans": ["-cide  act of killing"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "bureaucracy aristocracy theocracy",
-    "trans": ["-cracy  rule, government, power"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "aristocrat bureaucrat technocrat",
-    "trans": ["-crat  someone who has power"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "molecule ridicule",
-    "trans": ["-cule  diminutive (making something small)"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "efficiency privacy belligerency",
-    "trans": ["-cy  state, condition or quality"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "bicycle recycle tricycle",
-    "trans": ["-cycle  circle, wheel"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "boredom freedom wisdom",
-    "trans": ["-dom  condition of, state, realm"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "orthodox paradox",
-    "trans": ["-dox   belief, praise"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "appendectomy hysterectomy",
-    "trans": ["-ectomy  surgical removal of"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "called hammered laughed",
-    "trans": ["-ed  past tense"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "nominee employee devotee",
-    "trans": ["-ee  receiver, performer"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "engineer volunteer",
-    "trans": ["-eer  associated with/engaged in"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "anemia hypoglycemia leukemia",
-    "trans": ["-emia  blood condition"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "awaken fasten strengthen",
-    "trans": ["-en  makes the word a verb"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "absence dependence negligence",
-    "trans": ["-ence  state or condition, action"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "clemency dependency efficiency",
-    "trans": ["-ency  condition or quality"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "competent correspondent absorbent",
-    "trans": ["-ent  inclined to performing/causing, or one who performs/causes"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "bigger faster happier",
-    "trans": ["-er  more"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "flutter ponder stutter",
-    "trans": ["-er  action or process"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "announcer barber teacher",
-    "trans": ["-er  a person who does an action"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "eastern northern western",
-    "trans": ["-ern  state or quality of"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "adolescence convalescence",
-    "trans": ["-escence  state or process"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "Chinese Congolese Vietnamese",
-    "trans": ["-ese  relating to a place"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "Kafkaesque grotesque burlesque",
-    "trans": ["-esque  in the style of"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "actress heiress lioness",
-    "trans": ["-ess  female"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "funniest hottest silliest",
-    "trans": ["-est  most"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "athletic energetic poetic",
-    "trans": ["-etic  relating to (makes the word an adj.)"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "cigarette diskette kitchenette",
-    "trans": ["-ette  diminutive (makes something smaller)"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "helpful thankful cheerful",
-    "trans": ["-ful  full of"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "amplify falsify terrify",
-    "trans": ["-fy  make, cause (makes the word a verb)"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "monogam polygamy",
-    "trans": ["-gam/gamy  marriage, union"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "hexagon polygonic pentagon",
-    "trans": ["-gon/gonic  angle"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "childhood neighborhood motherhood",
-    "trans": ["-hood  state, condition, or quality"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "celestial editorial martial",
-    "trans": ["-ial  relating to"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "Martian utopian pediatrician",
-    "trans": ["-ian  relating to"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "elephantiasis psoriasis",
-    "trans": ["-iasis  diseased condition"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "pediatric psychiatric",
-    "trans": ["-iatric  healing practice"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "audible plausible legible",
-    "trans": ["-ible  able to be"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "analytic/al comic/al organic",
-    "trans": ["-ic/ical  relating to, characterized by"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "agile docile volatile",
-    "trans": ["-ile  relating to, capable of"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "sloppily steadily zanily",
-    "trans": ["-ily  in what manner"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "canine feminine masculine",
-    "trans": ["-ine  relating to"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "bedding frosting roofing",
-    "trans": ["-ing  materials"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "dancing seeing writing",
-    "trans": ["-ing  action or process"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "celebration completion navigation",
-    "trans": ["-ion  action or process"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "ambitious cautious gracious",
-    "trans": ["-ious  having the qualities of, full of"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "apish brutish childish",
-    "trans": ["-ish  relating to, characteristic"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "altruism despotism heroism",
-    "trans": ["-ism  state or quality"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "artist linguist pianist",
-    "trans": ["-ist  a person, one who does an action"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "suburbanite luddite dynamite",
-    "trans": ["-ite  resident of, follower, product of"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "appendicitis tonsillitis frontrunneritis",
-    "trans": ["-itis  inflammation, preoccupation"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "abnormality civility necessity",
-    "trans": ["-ity  state, condition, or quality"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "attractive expensive repulsive",
-    "trans": ["-ive  inclined to; quality of; that which"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "colonization fertilization modernization",
-    "trans": ["-ization  act or process of making"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "antagonize authorize popularize",
-    "trans": ["-ize  cause, treat, become"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "fearless helpless homeless",
-    "trans": ["-less  without"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "booklet droplet inlet",
-    "trans": ["-let  version of"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "childlike homelike lifelike",
-    "trans": ["-like  resembling, characteristic"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "duckling underling",
-    "trans": ["-ling  younger or inferior"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "astrologer cardiologist chronologer",
-    "trans": ["-loger/logist  one who does"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "dialog monolog",
-    "trans": ["-log  speech"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "badly courageously happily",
-    "trans": ["-ly  in what manner"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "movement placement shipment",
-    "trans": ["-ment  action, result"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "kindness shyness weakness",
-    "trans": ["-ness  state or quality (makes a noun)"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "humanoid tabloid hemorrhoid",
-    "trans": ["-oid  resembling"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "anthropology archaeology biology",
-    "trans": ["-ology  study of, science of"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "carcinoma osteoma hematoma",
-    "trans": ["-oma  tumor, swelling"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "synonym antonym homonym",
-    "trans": ["-onym  name, word"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "myopia nyctalopia hyperopia",
-    "trans": ["-opia  eye defect"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "biopsy autopsy necropsy",
-    "trans": ["-opsy  examination"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "inventor legislator translator",
-    "trans": ["-or  a person who"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "armory dormitory laboratory",
-    "trans": ["-ory  relating to"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "diagnosis prognosis neurosis psychosis",
-    "trans": ["-osis  process, diseased condition"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "colostomy lobotomy craniotomy",
-    "trans": ["-ostomy/otomy  surgical"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "hazardous humorous wondrous",
-    "trans": ["-ous  full of"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "homeopath naturopath psychopath",
-    "trans": ["-path  one who engages in"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "sympathy apathy neuropathy",
-    "trans": ["-pathy  feeling, diseased"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "bibliophile audiophile pyrophile",
-    "trans": ["-phile  one who loves"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "acrophobia claustrophobia xenophobia",
-    "trans": ["-phobia  abnormal fear of"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "homophone telephone microphone",
-    "trans": ["-phone  sound"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "zoophyte cryptophyte epiphyte",
-    "trans": ["-phyte  plant, to grow"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "paraplegia quadriplegia hemiplegia",
-    "trans": ["-plegia  paralysis"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "paraplegic technoplegic quadriplegic",
-    "trans": ["-plegic  one who is paralyzed"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "apnea hyperpnea orthopnea",
-    "trans": ["-pnea  air, spirit"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "arthroscopy gastroscopy microscope",
-    "trans": ["-scopy/scope  visual exam"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "transcript describe manuscript",
-    "trans": ["-scribe/script  to write"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "dissect insect bisect",
-    "trans": ["-sect  to cut"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "authorship citizenship friendship",
-    "trans": ["-ship  state or condition of, skill of"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "confusion depression tension",
-    "trans": ["-sion  state or quality"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "cumbersome quarrelsome foursome",
-    "trans": ["-some  characterized by, group of"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "philosophy theosophy anthroposophic",
-    "trans": ["-sophy/sophic  wisdom, knowledge"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "depth length strength",
-    "trans": ["-th  state or quality"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "attention caution fascination",
-    "trans": ["-tion  state or quality"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "hysterectomy epitome tonsillotome",
-    "trans": ["-tome/tomy  to cut"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "atrophy hypertrophy dystrophy",
-    "trans": ["-trophy  nourishment, growth"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "fortitude gratitude magnitude",
-    "trans": ["-tude  state, condition or quality"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "ability honesty loyalty",
-    "trans": ["-ty  state, condition or quality"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "cellular circular muscular",
-    "trans": ["-ular  relating to or resembling"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "arduous tumultuous virtuous",
-    "trans": ["-uous  state or quality of"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "closure erasure failure",
-    "trans": ["-ure  action, condition"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "backward eastward homeward",
-    "trans": ["-ward  specifies direction"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "hardware software kitchenware",
-    "trans": ["-ware  things of the same type or material"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "clockwise lengthwise otherwise",
-    "trans": ["-wise  in what manner or direction"]
+    "trans": [
+      null
+    ]
   },
   {
     "name": "brainy fruity gooey",
-    "trans": ["-y  made up of, characterized"]
+    "trans": [
+      null
+    ]
   }
 ]

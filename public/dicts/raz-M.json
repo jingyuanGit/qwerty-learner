@@ -330,7 +330,7 @@
   {
     "name": "bar graph",
     "trans": [
-      "柱状图；[统计]条形图（等于 bar chart）"
+      null
     ],
     "usphone": "ˈbɑː ɡrɑːf",
     "ukphone": "ˈbɑː ɡrɑːf"
@@ -1086,7 +1086,7 @@
   {
     "name": "bred",
     "trans": [
-      "breed的过去式和过去分词"
+      null
     ],
     "usphone": "bred",
     "ukphone": "bred"
@@ -2876,7 +2876,7 @@
   {
     "name": "cable car",
     "trans": [
-      "（美）缆车"
+      "n. （美）缆车"
     ],
     "usphone": "ˈkeɪbl kɑː(r)",
     "ukphone": "ˈkeɪbl kɑː(r)"
@@ -3018,7 +3018,7 @@
   {
     "name": "solar system",
     "trans": [
-      "[天] 太阳系"
+      "n. [天] 太阳系"
     ],
     "usphone": "ˈsəʊlə sɪstəm",
     "ukphone": "ˈsəʊlə sɪstəm"

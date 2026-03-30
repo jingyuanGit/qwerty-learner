@@ -1,46 +1,224 @@
-import { initializeLocalSqliteSync, notifyLocalSqliteDataChanged } from './local-file-sync'
-import type { IChapterRecord, IReviewRecord, IRevisionDictRecord, IWordRecord, LetterMistakes } from './record'
-import { ChapterRecord, ReviewRecord, WordRecord } from './record'
+import type { IChapterRecord, IReviewRecord, IWordRecord, LetterMistakes } from './record'
+import { ChapterRecord, WordRecord } from './record'
 import { TypingContext, TypingStateActionType } from '@/pages/Typing/store'
 import type { TypingState } from '@/pages/Typing/store/type'
 import { currentChapterAtom, currentDictIdAtom, isReviewModeAtom } from '@/store'
-import type { Table } from 'dexie'
-import Dexie from 'dexie'
 import { useAtomValue } from 'jotai'
 import { useCallback, useContext } from 'react'
 
-class RecordDB extends Dexie {
-  wordRecords!: Table<IWordRecord, number>
-  chapterRecords!: Table<IChapterRecord, number>
-  reviewRecords!: Table<IReviewRecord, number>
+const API_PREFIX = '/api'
 
-  revisionDictRecords!: Table<IRevisionDictRecord, number>
-  revisionWordRecords!: Table<IWordRecord, number>
+async function requestJSON<T>(input: RequestInfo | URL, init?: RequestInit): Promise<T> {
+  const response = await fetch(input, init)
+  if (!response.ok) {
+    const text = await response.text()
+    throw new Error(text || `Request failed with status ${response.status}`)
+  }
+  return (await response.json()) as T
+}
 
-  constructor() {
-    super('RecordDB')
-    this.version(1).stores({
-      wordRecords: '++id,word,timeStamp,dict,chapter,errorCount,[dict+chapter]',
-      chapterRecords: '++id,timeStamp,dict,chapter,time,[dict+chapter]',
+function shallowMatch<T extends object>(item: T, matcher: Partial<T>) {
+  return Object.entries(matcher).every(([key, value]) => (item as Record<string, unknown>)[key] === value)
+}
+
+class QueryChain<T extends object> {
+  private predicates: Array<(item: T) => boolean>
+
+  constructor(
+    private readonly tableName: 'wordRecords' | 'chapterRecords' | 'reviewRecords',
+    private readonly loader: () => Promise<T[]>,
+    predicates: Array<(item: T) => boolean> = [],
+  ) {
+    this.predicates = predicates
+  }
+
+  private withPredicate(predicate: (item: T) => boolean) {
+    return new QueryChain<T>(this.tableName, this.loader, [...this.predicates, predicate])
+  }
+
+  equals(value: unknown) {
+    const field = (this as unknown as { currentField?: string }).currentField
+    if (!field) {
+      throw new Error('equals() can only be called after where(field)')
+    }
+    return this.withPredicate((item) => (item as Record<string, unknown>)[field] === value)
+  }
+
+  above(value: number) {
+    const field = (this as unknown as { currentField?: string }).currentField
+    if (!field) {
+      throw new Error('above() can only be called after where(field)')
+    }
+    return this.withPredicate((item) => Number((item as Record<string, unknown>)[field]) > value)
+  }
+
+  between(start: number, end: number) {
+    const field = (this as unknown as { currentField?: string }).currentField
+    if (!field) {
+      throw new Error('between() can only be called after where(field)')
+    }
+    return this.withPredicate((item) => {
+      const value = Number((item as Record<string, unknown>)[field])
+      return value >= start && value <= end
     })
-    this.version(2).stores({
-      wordRecords: '++id,word,timeStamp,dict,chapter,wrongCount,[dict+chapter]',
-      chapterRecords: '++id,timeStamp,dict,chapter,time,[dict+chapter]',
-    })
-    this.version(3).stores({
-      wordRecords: '++id,word,timeStamp,dict,chapter,wrongCount,[dict+chapter]',
-      chapterRecords: '++id,timeStamp,dict,chapter,time,[dict+chapter]',
-      reviewRecords: '++id,dict,createTime,isFinished',
-    })
+  }
+
+  and(predicate: (item: T) => boolean) {
+    return this.withPredicate(predicate)
+  }
+
+  filter(predicate: (item: T) => boolean) {
+    return this.withPredicate(predicate)
+  }
+
+  async toArray(): Promise<T[]> {
+    const rows = await this.loader()
+    return this.predicates.reduce((acc, predicate) => acc.filter(predicate), rows)
+  }
+
+  async delete() {
+    // Only the error-book delete path is needed now: where({ word, dict }).delete()
+    const rows = await this.toArray()
+    if (this.tableName !== 'wordRecords') {
+      throw new Error('delete() is only supported for word records')
+    }
+    let deleted = 0
+    for (const row of rows as Array<T & { word?: string; dict?: string }>) {
+      if (!row.word || !row.dict) continue
+      const result = await requestJSON<{ deletedCount: number }>(
+        `${API_PREFIX}/word-records?word=${encodeURIComponent(row.word)}&dict=${encodeURIComponent(row.dict)}`,
+        { method: 'DELETE' },
+      )
+      deleted += result.deletedCount
+    }
+    return deleted
   }
 }
 
-export const db = new RecordDB()
-void initializeLocalSqliteSync(db)
+type TableRecordMap = {
+  wordRecords: IWordRecord & { id?: number }
+  chapterRecords: IChapterRecord & { id?: number }
+  reviewRecords: IReviewRecord & { id?: number }
+}
 
-db.wordRecords.mapToClass(WordRecord)
-db.chapterRecords.mapToClass(ChapterRecord)
-db.reviewRecords.mapToClass(ReviewRecord)
+class TableAdapter<K extends keyof TableRecordMap> {
+  constructor(private readonly tableName: K) {}
+
+  mapToClass() {
+    return
+  }
+
+  private async getAllRows() {
+    switch (this.tableName) {
+      case 'wordRecords':
+        return await requestJSON<TableRecordMap[K][]>(`${API_PREFIX}/word-records`)
+      case 'chapterRecords':
+        return await requestJSON<TableRecordMap[K][]>(`${API_PREFIX}/chapter-records`)
+      case 'reviewRecords':
+        return await requestJSON<TableRecordMap[K][]>(`${API_PREFIX}/review-records`)
+      default:
+        return []
+    }
+  }
+
+  where(field: string): QueryChain<TableRecordMap[K]>
+  where(filterObj: Partial<TableRecordMap[K]>): QueryChain<TableRecordMap[K]>
+  where(input: string | Partial<TableRecordMap[K]>) {
+    if (typeof input === 'string') {
+      const chain = new QueryChain<TableRecordMap[K]>(this.tableName as 'wordRecords' | 'chapterRecords' | 'reviewRecords', () =>
+        this.getAllRows(),
+      ) as QueryChain<TableRecordMap[K]> & { currentField?: string }
+      chain.currentField = input
+      return chain
+    }
+    return new QueryChain<TableRecordMap[K]>(
+      this.tableName as 'wordRecords' | 'chapterRecords' | 'reviewRecords',
+      () => this.getAllRows(),
+      [(item) => shallowMatch(item as object, input as object)],
+    )
+  }
+
+  async add(record: TableRecordMap[K]) {
+    switch (this.tableName) {
+      case 'wordRecords': {
+        const result = await requestJSON<{ id: number }>(`${API_PREFIX}/word-records`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(record),
+        })
+        return result.id
+      }
+      case 'chapterRecords': {
+        const result = await requestJSON<{ id: number }>(`${API_PREFIX}/chapter-records`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(record),
+        })
+        return result.id
+      }
+      case 'reviewRecords': {
+        const result = await requestJSON<{ id: number }>(`${API_PREFIX}/review-records`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(record),
+        })
+        return result.id
+      }
+      default:
+        return -1
+    }
+  }
+
+  async put(record: TableRecordMap[K]) {
+    if (this.tableName !== 'reviewRecords') {
+      return this.add(record)
+    }
+    const result = await requestJSON<{ id: number }>(`${API_PREFIX}/review-records`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(record),
+    })
+    return result.id
+  }
+
+  async count() {
+    switch (this.tableName) {
+      case 'wordRecords': {
+        const result = await requestJSON<{ count: number }>(`${API_PREFIX}/word-records/count`)
+        return result.count
+      }
+      case 'chapterRecords': {
+        const result = await requestJSON<{ count: number }>(`${API_PREFIX}/chapter-records/count`)
+        return result.count
+      }
+      default: {
+        const rows = await this.getAllRows()
+        return rows.length
+      }
+    }
+  }
+
+  orderBy(field: keyof TableRecordMap[K]) {
+    return {
+      first: async () => {
+        const rows = await this.getAllRows()
+        const sorted = [...rows].sort((a, b) => Number(a[field] ?? 0) - Number(b[field] ?? 0))
+        return sorted[0]
+      },
+    }
+  }
+
+  async each(callback: (record: TableRecordMap[K]) => void) {
+    const rows = await this.getAllRows()
+    rows.forEach(callback)
+  }
+}
+
+export const db = {
+  wordRecords: new TableAdapter('wordRecords'),
+  chapterRecords: new TableAdapter('chapterRecords'),
+  reviewRecords: new TableAdapter('reviewRecords'),
+}
 
 export function useSaveChapterRecord() {
   const currentChapter = useAtomValue(currentChapterAtom)
@@ -66,9 +244,7 @@ export function useSaveChapterRecord() {
         words.length,
         wordRecordIds ?? [],
       )
-      db.chapterRecords.add(chapterRecord).then(() => {
-        notifyLocalSqliteDataChanged(db)
-      })
+      void db.chapterRecords.add(chapterRecord)
     },
     [currentChapter, dictID, isRevision],
   )
@@ -111,7 +287,6 @@ export function useSaveWordRecord() {
       let dbID = -1
       try {
         dbID = await db.wordRecords.add(wordRecord)
-        notifyLocalSqliteDataChanged(db)
       } catch (e) {
         console.error(e)
       }
@@ -130,9 +305,6 @@ export function useDeleteWordRecord() {
   const deleteWordRecord = useCallback(async (word: string, dict: string) => {
     try {
       const deletedCount = await db.wordRecords.where({ word, dict }).delete()
-      if (deletedCount > 0) {
-        notifyLocalSqliteDataChanged(db)
-      }
       return deletedCount
     } catch (error) {
       console.error(`删除单词记录时出错：`, error)

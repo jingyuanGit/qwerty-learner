@@ -792,7 +792,7 @@
   {
     "name": "many",
     "trans": [
-      "det. 许多 pron. 许多；许多人 adj. 许多的 n. 大多数人 n. (Many) （美、法、加、印）马尼（人名）"
+      "adj. det. 许多 pron. 许多；许多人 adj. 许多的 n. 大多数人 n. (Many) （美、法、加、印）马尼（人名）"
     ],
     "usphone": "ˈmeni",
     "ukphone": "ˈmeni"
@@ -4844,7 +4844,7 @@
   {
     "name": "dining room",
     "trans": [
-      "餐厅"
+      "n. 餐厅"
     ]
   },
   {
@@ -4866,7 +4866,7 @@
   {
     "name": "living room",
     "trans": [
-      "客厅，起居室"
+      "n. 客厅，起居室"
     ],
     "usphone": "'lɪvɪŋ ru:m",
     "ukphone": "'lɪvɪŋ ru:m"
@@ -5306,7 +5306,7 @@
   {
     "name": "berries",
     "trans": [
-      "浆果类"
+      null
     ],
     "usphone": "'beriz",
     "ukphone": "'beriz"
@@ -5314,7 +5314,7 @@
   {
     "name": "ice cream",
     "trans": [
-      "冰淇淋"
+      "n. 冰淇淋"
     ],
     "usphone": "ˈaɪs kriːm",
     "ukphone": "ˈaɪs kriːm"
@@ -6356,7 +6356,7 @@
   {
     "name": "another",
     "trans": [
-      "det. 又一，另一；另外的，不同的；类似 pron. 又一，另一；另外的，不同的；类似 adj. 不同的；另一个（人）；类似的"
+      "adj. det. 又一，另一；另外的，不同的；类似 pron. 又一，另一；另外的，不同的；类似 adj. 不同的；另一个（人）；类似的"
     ],
     "usphone": "əˈnʌðə(r)",
     "ukphone": "əˈnʌðə(r)"
@@ -6962,7 +6962,7 @@
   {
     "name": "shake hands",
     "trans": [
-      "握手"
+      null
     ],
     "usphone": ",ʃeik'hændz",
     "ukphone": ",ʃeik'hændz"
@@ -8798,7 +8798,7 @@
   {
     "name": "cut out",
     "trans": [
-      "切断；删去；停止；关掉"
+      null
     ],
     "usphone": "ˈkʌt aʊt",
     "ukphone": "ˈkʌt aʊt"
@@ -8806,7 +8806,7 @@
   {
     "name": "first",
     "trans": [
-      "det. 第一 num. 第一；第一个的；（列队中）最前面的；最好的 adj. 最重要的，最优秀的；以前从未发生过的；紧接着来到的；最有可能的；领先于所有其他人的；演唱（或演奏）高声部的 adv. 首先；首次；（列举时用）第一；宁可；以身体的某一部位在先 n. 空前的成就；（汽车、自行车的）第一档；（英国大学学位）最高成绩；（棒球）第一垒；（学院、学校的）一年级；（书的）第一版；（比赛中的）第一名；（英国）海军大臣；优等生 pron. 第一（个）；第一次 n. (First) （美）菲尔斯特（人名）"
+      "num. det. 第一 num. 第一；第一个的；（列队中）最前面的；最好的 adj. 最重要的，最优秀的；以前从未发生过的；紧接着来到的；最有可能的；领先于所有其他人的；演唱（或演奏）高声部的 adv. 首先；首次；（列举时用）第一；宁可；以身体的某一部位在先 n. 空前的成就；（汽车、自行车的）第一档；（英国大学学位）最高成绩；（棒球）第一垒；（学院、学校的）一年级；（书的）第一版；（比赛中的）第一名；（英国）海军大臣；优等生 pron. 第一（个）；第一次 n. (First) （美）菲尔斯特（人名）"
     ],
     "usphone": "fɜːst",
     "ukphone": "fɜːst"
@@ -9410,7 +9410,7 @@
   {
     "name": "sleeping bag",
     "trans": [
-      "睡袋"
+      "n. 睡袋"
     ],
     "usphone": "ˈsliːpɪŋ bæɡ",
     "ukphone": "ˈsliːpɪŋ bæɡ"
@@ -9538,7 +9538,7 @@
   {
     "name": "fall apart",
     "trans": [
-      "崩溃；土崩瓦解；破碎"
+      null
     ],
     "usphone": "fɔl əˈpɑrt",
     "ukphone": "fɔl əˈpɑrt"
@@ -9770,7 +9770,7 @@
   {
     "name": "collecting",
     "trans": [
-      "聚集 收集（collect的现在分词）"
+      "v. 聚集 收集（collect的现在分词）"
     ]
   },
   {
@@ -9836,7 +9836,7 @@
   {
     "name": "give up",
     "trans": [
-      "放弃；交出"
+      "vt. 放弃；交出"
     ],
     "usphone": "ɡɪv ʌp",
     "ukphone": "ɡɪv ʌp"
@@ -9994,7 +9994,7 @@
   {
     "name": "both",
     "trans": [
-      "det. 双方，两者 pron. 双方，两者 adv. 双方都，两者都；不仅……而且…… conj. 既……且……；并；两者皆 n. (Both) 博特（人名）"
+      "adj. det. 双方，两者 pron. 双方，两者 adv. 双方都，两者都；不仅……而且…… conj. 既……且……；并；两者皆 n. (Both) 博特（人名）"
     ],
     "usphone": "bəʊθ",
     "ukphone": "bəʊθ"
@@ -10034,7 +10034,7 @@
   {
     "name": "less than",
     "trans": [
-      "小于；少于；不到"
+      "adj. 小于；少于；不到"
     ],
     "usphone": "les ðæn",
     "ukphone": "les ðæn"
@@ -10138,7 +10138,7 @@
   {
     "name": "fire station",
     "trans": [
-      "消防站"
+      null
     ],
     "usphone": "ˈfaɪə steɪʃ(ə)n",
     "ukphone": "ˈfaɪə steɪʃ(ə)n"
@@ -10440,7 +10440,7 @@
   {
     "name": "bus stop",
     "trans": [
-      "公共汽车站"
+      "n. 公共汽车站"
     ],
     "usphone": "ˈbʌs stɒp",
     "ukphone": "ˈbʌs stɒp"
@@ -12038,7 +12038,7 @@
   {
     "name": "bilby",
     "trans": [
-      "兔耳袋狸"
+      null
     ],
     "usphone": "ˈbɪlbi",
     "ukphone": "ˈbɪlbi"
@@ -12110,7 +12110,7 @@
   {
     "name": "ice hockey",
     "trans": [
-      "冰球，冰上曲棍球"
+      "n. 冰球，冰上曲棍球"
     ],
     "usphone": "ˈaɪs hɒki",
     "ukphone": "ˈaɪs hɒki"
@@ -12268,7 +12268,7 @@
   {
     "name": "check in",
     "trans": [
-      "报到，记录；到达并登记"
+      "v. 报到，记录；到达并登记"
     ],
     "usphone": "ˈtʃek ɪn",
     "ukphone": "ˈtʃek ɪn"
@@ -13116,7 +13116,7 @@
   {
     "name": "roller coaster",
     "trans": [
-      "过山车；云霄飞车；情绪急转突变"
+      null
     ],
     "usphone": "ˈrəʊlə kəʊstə(r)",
     "ukphone": "ˈrəʊlə kəʊstə(r)"
@@ -13600,7 +13600,7 @@
   {
     "name": "thank you",
     "trans": [
-      "谢谢你"
+      "phr. 谢谢你"
     ],
     "usphone": "ˈθæŋk juː",
     "ukphone": "ˈθæŋk juː"
@@ -13728,7 +13728,7 @@
   {
     "name": "less",
     "trans": [
-      "det. 量更少；数量较少（或更少） adj. 等级较低的；次要的 adv. 范围较小地；更少地；远不是，根本不 prep. 减去，除去（作介词用） n. (Less) （美、加拿大）莱斯（人名）"
+      "adj. det. 量更少；数量较少（或更少） adj. 等级较低的；次要的 adv. 范围较小地；更少地；远不是，根本不 prep. 减去，除去（作介词用） n. (Less) （美、加拿大）莱斯（人名）"
     ],
     "usphone": "les",
     "ukphone": "les"
@@ -14604,7 +14604,7 @@
   {
     "name": "board game",
     "trans": [
-      "棋盘游戏"
+      "n. 棋盘游戏"
     ],
     "usphone": "ˈbɔːd ɡeɪm",
     "ukphone": "ˈbɔːd ɡeɪm"
@@ -14636,7 +14636,7 @@
   {
     "name": "science fiction",
     "trans": [
-      "科幻小说"
+      "n. 科幻小说"
     ],
     "usphone": "ˌsaɪəns ˈfɪkʃən",
     "ukphone": "ˌsaɪəns ˈfɪkʃən"
@@ -15362,7 +15362,7 @@
   {
     "name": "billy goat",
     "trans": [
-      "雄山羊"
+      null
     ],
     "usphone": "ˈbɪli ɡəʊt",
     "ukphone": "ˈbɪli ɡəʊt"
@@ -15520,7 +15520,7 @@
   {
     "name": "vice president",
     "trans": [
-      "副总统；副主席；副总裁"
+      null
     ],
     "usphone": "ˌvaɪs ˈprezɪdənt",
     "ukphone": "ˌvaɪs ˈprezɪdənt"
@@ -15624,7 +15624,7 @@
   {
     "name": "yard sale",
     "trans": [
-      "庭院旧货出售"
+      null
     ],
     "usphone": "ˈjɑːd seɪl",
     "ukphone": "ˈjɑːd seɪl"
@@ -16094,7 +16094,7 @@
   {
     "name": "national park",
     "trans": [
-      "（美）国家公园"
+      "n. （美）国家公园"
     ],
     "usphone": "ˌnæʃnəl ˈpɑːk",
     "ukphone": "ˌnæʃnəl ˈpɑːk"
@@ -16166,7 +16166,7 @@
   {
     "name": "take over",
     "trans": [
-      "接管；接收"
+      null
     ],
     "usphone": "tek ˈovɚ",
     "ukphone": "tek ˈovɚ"
@@ -16262,7 +16262,7 @@
   {
     "name": "leap year",
     "trans": [
-      "闰年"
+      "n. 闰年"
     ]
   },
   {
@@ -16428,7 +16428,7 @@
   {
     "name": "check out",
     "trans": [
-      "检验；结账离开；通过考核；盖章；登记并借出"
+      "v. 检验；结账离开；通过考核；盖章；登记并借出"
     ],
     "usphone": "tʃek aʊt",
     "ukphone": "tʃek aʊt"
@@ -16778,7 +16778,7 @@
   {
     "name": "water lily",
     "trans": [
-      "睡莲；荷花"
+      null
     ],
     "usphone": "ˈwɔːtə lɪli",
     "ukphone": "ˈwɔːtə lɪli"
@@ -16930,7 +16930,7 @@
   {
     "name": "hot spring",
     "trans": [
-      "温泉"
+      null
     ]
   },
   {
@@ -17120,7 +17120,7 @@
   {
     "name": "emu",
     "trans": [
-      "abbr. 电磁单位（electromagnetic unit） n. 鸸鹋（产于澳洲的一种体型大而不会飞的鸟） n. (Emu)人名；(日)阎武 (姓)"
+      null
     ],
     "usphone": "ˈiːmjuː",
     "ukphone": "ˈiːmjuː"
@@ -18898,7 +18898,7 @@
   {
     "name": "still life",
     "trans": [
-      "静物；静物写生"
+      null
     ],
     "usphone": "ˌstɪl ˈlaɪf",
     "ukphone": "ˌstɪl ˈlaɪf"
@@ -19794,7 +19794,7 @@
   {
     "name": "cable car",
     "trans": [
-      "（美）缆车"
+      "n. （美）缆车"
     ],
     "usphone": "ˈkeɪbl kɑː(r)",
     "ukphone": "ˈkeɪbl kɑː(r)"
@@ -20398,7 +20398,7 @@
   {
     "name": "barbecued",
     "trans": [
-      "户外烧烤（ barbecue的过去式和过去分词 ）"
+      null
     ]
   },
   {
@@ -21106,7 +21106,7 @@
   {
     "name": "musher",
     "trans": [
-      "赶狗拉雪橇的人"
+      null
     ],
     "usphone": "ˈmʌʃər",
     "ukphone": "ˈmʌʃər"
@@ -21314,7 +21314,7 @@
   {
     "name": "natural gas",
     "trans": [
-      "[油气] 天然气"
+      "n. [油气] 天然气"
     ],
     "usphone": "ˈnætʃrəl ˈɡæs",
     "ukphone": "ˈnætʃrəl ˈɡæs"
@@ -21616,7 +21616,7 @@
   {
     "name": "blood sugar",
     "trans": [
-      "[生化] 血糖"
+      null
     ],
     "usphone": "ˌblʌd ˈʃʊɡə(r)",
     "ukphone": "ˌblʌd ˈʃʊɡə(r)"
@@ -22138,7 +22138,7 @@
   {
     "name": "prime minister",
     "trans": [
-      "首相，总理"
+      null
     ],
     "usphone": "ˌpraɪm ˈmɪnɪstə(r)",
     "ukphone": "ˌpraɪm ˈmɪnɪstə(r)"
@@ -22750,7 +22750,7 @@
   {
     "name": "bar graph",
     "trans": [
-      "柱状图；[统计]条形图（等于 bar chart）"
+      null
     ],
     "usphone": "ˈbɑː ɡrɑːf",
     "ukphone": "ˈbɑː ɡrɑːf"
@@ -23090,7 +23090,7 @@
   {
     "name": "bred",
     "trans": [
-      "breed的过去式和过去分词"
+      null
     ],
     "usphone": "bred",
     "ukphone": "bred"
@@ -23880,7 +23880,7 @@
   {
     "name": "solar system",
     "trans": [
-      "[天] 太阳系"
+      "n. [天] 太阳系"
     ],
     "usphone": "ˈsəʊlə sɪstəm",
     "ukphone": "ˈsəʊlə sɪstəm"
@@ -24144,7 +24144,7 @@
   {
     "name": "swiftest",
     "trans": [
-      "最快速的"
+      null
     ],
     "usphone": "swif'test",
     "ukphone": "swif'test"
@@ -25128,7 +25128,7 @@
   {
     "name": "attracted",
     "trans": [
-      "吸引 的兴趣 被吸引的"
+      null
     ],
     "usphone": "ə'træktɪd",
     "ukphone": "ə'træktɪd"
@@ -26026,7 +26026,7 @@
   {
     "name": "spiciest",
     "trans": [
-      "辛辣的 香的（ spicy的最高级 ）"
+      null
     ]
   },
   {
@@ -26566,7 +26566,7 @@
   {
     "name": "operator",
     "trans": [
-      "经营者；操作员；运营商；话务员；行家"
+      "n. 经营者；操作员；运营商；话务员；行家"
     ],
     "usphone": "ˈɒpəreɪtə(r)",
     "ukphone": "ˈɒpəreɪtə(r)"
@@ -27850,7 +27850,7 @@
   {
     "name": "steam engine",
     "trans": [
-      "蒸汽机"
+      null
     ]
   },
   {
@@ -28086,7 +28086,7 @@
   {
     "name": "artisanal",
     "trans": [
-      "手工艺性的"
+      null
     ],
     "usphone": "'ɑːtɪzənəl",
     "ukphone": "'ɑːtɪzənəl"
@@ -29198,7 +29198,7 @@
   {
     "name": "global warming",
     "trans": [
-      "全球变暖"
+      "n. 全球变暖"
     ],
     "usphone": "ˌɡləʊbl ˈwɔːmɪŋ",
     "ukphone": "ˌɡləʊbl ˈwɔːmɪŋ"
@@ -30914,7 +30914,7 @@
   {
     "name": "pi",
     "trans": [
-      "abbr. 产品改进（Product Improve）"
+      null
     ],
     "usphone": "paɪ",
     "ukphone": "paɪ"
@@ -31356,7 +31356,7 @@
   {
     "name": "sea level",
     "trans": [
-      "[海洋] 海平面"
+      "n. [海洋] 海平面"
     ],
     "usphone": "ˈsiː lev(ə)l",
     "ukphone": "ˈsiː lev(ə)l"
@@ -31460,7 +31460,7 @@
   {
     "name": "orphaned",
     "trans": [
-      "使…成孤儿（orphan的过去式）"
+      null
     ]
   },
   {
@@ -32416,7 +32416,7 @@
   {
     "name": "search engine",
     "trans": [
-      "搜索引擎"
+      "n. 搜索引擎"
     ],
     "usphone": "ˈsɜːtʃ endʒɪn",
     "ukphone": "ˈsɜːtʃ endʒɪn"
@@ -32560,7 +32560,7 @@
   {
     "name": "space station",
     "trans": [
-      "空间站，太空站"
+      null
     ],
     "usphone": "ˈspeɪs steɪʃn",
     "ukphone": "ˈspeɪs steɪʃn"
@@ -33808,7 +33808,7 @@
   {
     "name": "app",
     "trans": [
-      "abbr. （计算机）应用程序 (application) n. (App) （美、德、巴）阿普（人名）"
+      "n. abbr. （计算机）应用程序 (application) n. (App) （美、德、巴）阿普（人名）"
     ],
     "usphone": "æp",
     "ukphone": "æp"
@@ -34808,7 +34808,7 @@
   {
     "name": "carbon dioxide",
     "trans": [
-      "[无化] 二氧化碳"
+      "n. [无化] 二氧化碳"
     ],
     "usphone": "ˌkɑːbən daɪˈɒksaɪd",
     "ukphone": "ˌkɑːbən daɪˈɒksaɪd"
@@ -35692,7 +35692,7 @@
   {
     "name": "researching",
     "trans": [
-      "研究 研究员"
+      null
     ]
   },
   {
@@ -36914,7 +36914,7 @@
   {
     "name": "mesmerizing",
     "trans": [
-      "施催眠术 迷惑（mesmerize的现在分词） 有吸引力的，有魅力的"
+      null
     ],
     "usphone": "ˈmezməraɪzɪŋ",
     "ukphone": "ˈmezməraɪzɪŋ"
@@ -36946,7 +36946,7 @@
   {
     "name": "irrigated",
     "trans": [
-      "[农工] 灌溉的"
+      null
     ]
   },
   {
@@ -36976,7 +36976,7 @@
   {
     "name": "Nobel Prize",
     "trans": [
-      "诺贝尔奖"
+      null
     ],
     "usphone": "ˌnəʊbel ˈpraɪz",
     "ukphone": "ˌnəʊbel ˈpraɪz"
@@ -37388,7 +37388,7 @@
   {
     "name": "World War II",
     "trans": [
-      "第二次世界大战"
+      null
     ],
     "usphone": "wɚld wɔr tu",
     "ukphone": "wɚld wɔr tu"
@@ -37910,7 +37910,7 @@
   {
     "name": "GPS",
     "trans": [
-      "abbr. 全球定位系统（Global Position System）；通用雷达（General Purpose Radar）；炮长主瞄准镜（Gunner's Primary Sight）"
+      null
     ],
     "usphone": "ˌdʒi pi ˈɛs",
     "ukphone": "ˌdʒi pi ˈɛs"
@@ -38452,7 +38452,7 @@
   {
     "name": "hardiest",
     "trans": [
-      "能吃苦耐劳的 坚强的（hardy的最高级）"
+      null
     ]
   },
   {
@@ -38482,7 +38482,7 @@
   {
     "name": "fossil fuel",
     "trans": [
-      "[能源] 矿物燃料，[能源] 化石燃料"
+      null
     ],
     "usphone": "ˈfɒs(ə)l fjuːəl",
     "ukphone": "ˈfɒs(ə)l fjuːəl"
@@ -38490,7 +38490,7 @@
   {
     "name": "greenhouse effect",
     "trans": [
-      "[地物] 温室效应"
+      null
     ]
   },
   {
@@ -38700,7 +38700,7 @@
   {
     "name": "dust storm",
     "trans": [
-      "尘暴"
+      "n. 尘暴"
     ],
     "usphone": "ˈdʌst stɔːm",
     "ukphone": "ˈdʌst stɔːm"
@@ -38916,7 +38916,7 @@
   {
     "name": "URL",
     "trans": [
-      "abbr. 全球资源定位器（Uniform Resource Locator）"
+      null
     ],
     "usphone": "ˌjuː ɑːr ˈel",
     "ukphone": "ˌjuː ɑːr ˈel"
@@ -40020,7 +40020,7 @@
   {
     "name": "simulacra",
     "trans": [
-      "模拟物"
+      null
     ],
     "usphone": ",sɪmjʊ'lækrɚ",
     "ukphone": ",sɪmjʊ'lækrɚ"
@@ -40260,7 +40260,7 @@
   {
     "name": "foremen",
     "trans": [
-      "[经管] 工长 工头"
+      null
     ],
     "usphone": "'fɔːmən",
     "ukphone": "'fɔːmən"
@@ -40306,7 +40306,7 @@
   {
     "name": "airs",
     "trans": [
-      "abbr. 自动信息检索系统（Automatic Information Retrieval System）；机载综合侦察系统（Airborne Integrated Reconnaissance System） n. (Airs)人名；(英)艾尔斯"
+      null
     ]
   },
   {
@@ -41116,7 +41116,7 @@
   {
     "name": "DNA",
     "trans": [
-      "abbr. 脱氧核糖核酸（deoxyribonucleic acid）；（美国）国防部核子局（Defense Nuclear Agency）"
+      null
     ],
     "usphone": "ˌdiː en ˈeɪ",
     "ukphone": "ˌdiː en ˈeɪ"
@@ -43862,7 +43862,7 @@
   {
     "name": "crenellated",
     "trans": [
-      "有雉堞的"
+      null
     ]
   },
   {
@@ -44212,7 +44212,7 @@
   {
     "name": "overcredulous",
     "trans": [
-      "太容易相信的"
+      null
     ],
     "usphone": ",əʊvə'kredjʊləs",
     "ukphone": ",əʊvə'kredjʊləs"
@@ -44954,7 +44954,7 @@
   {
     "name": "mass production",
     "trans": [
-      "[工经] 大量生产"
+      null
     ],
     "usphone": "ˌmæs prəˈdʌkʃən",
     "ukphone": "ˌmæs prəˈdʌkʃən"
@@ -45288,7 +45288,7 @@
   {
     "name": "quarreling",
     "trans": [
-      "争辩（quarrel的现在分词）"
+      null
     ]
   },
   {
@@ -45634,7 +45634,7 @@
   {
     "name": "revered",
     "trans": [
-      "敬"
+      "v. 敬"
     ]
   },
   {

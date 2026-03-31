@@ -3,7 +3,8 @@ const path = require('path')
 
 const dictDir = path.resolve(process.cwd(), 'public/dicts')
 
-const POS_PREFIX_RE = /^(adj|adv|n|v|vt|vi|aux|art|num|pron|prep|conj|int|phr|pl|modal)(?:\/(adj|adv|n|v|vt|vi|aux|art|num|pron|prep|conj|int|phr|pl|modal))?\.\s*/i
+const POS_PREFIX_RE =
+  /^(adj|adv|n|v|vt|vi|aux|art|num|pron|prep|conj|int|phr|pl|modal)(?:\/(adj|adv|n|v|vt|vi|aux|art|num|pron|prep|conj|int|phr|pl|modal))?\.\s*/i
 
 function isObject(value) {
   return value !== null && typeof value === 'object' && !Array.isArray(value)

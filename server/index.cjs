@@ -255,9 +255,7 @@ app.post('/api/sqlite/upload', upload.single('sqliteFile'), (req, res) => {
     importDb = new Database(tempFile, { readonly: true })
 
     const importedWordRows = importDb
-      .prepare(
-        'SELECT id, word, time_stamp, dict, chapter, timing_json, wrong_count, mistakes_json FROM word_records ORDER BY id ASC',
-      )
+      .prepare('SELECT id, word, time_stamp, dict, chapter, timing_json, wrong_count, mistakes_json FROM word_records ORDER BY id ASC')
       .all()
     const importedChapterRows = importDb
       .prepare(

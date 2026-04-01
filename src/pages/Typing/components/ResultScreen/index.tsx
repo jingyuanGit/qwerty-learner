@@ -19,7 +19,7 @@ import type { InfoPanelType } from '@/typings'
 import { recordOpenInfoPanelAction } from '@/utils'
 import { Transition } from '@headlessui/react'
 import { useAtom, useAtomValue, useSetAtom } from 'jotai'
-import { useCallback, useContext, useEffect, useMemo } from 'react'
+import { useCallback, useContext, useEffect, useMemo, useState } from 'react'
 import { useHotkeys } from 'react-hotkeys-hook'
 import { useNavigate } from 'react-router-dom'
 import IexportWords from '~icons/icon-park-outline/excel'
@@ -28,6 +28,23 @@ import IconXiaoHongShu from '~icons/my-icons/xiaohongshu'
 import IconGithub from '~icons/simple-icons/github'
 import IconWechat from '~icons/simple-icons/wechat'
 import IconX from '~icons/tabler/x'
+
+async function copyTextToClipboard(text: string) {
+  if (navigator.clipboard?.writeText) {
+    await navigator.clipboard.writeText(text)
+    return
+  }
+
+  const textarea = document.createElement('textarea')
+  textarea.value = text
+  textarea.setAttribute('readonly', 'true')
+  textarea.style.position = 'absolute'
+  textarea.style.left = '-9999px'
+  document.body.appendChild(textarea)
+  textarea.select()
+  document.execCommand('copy')
+  document.body.removeChild(textarea)
+}
 
 const ResultScreen = () => {
   // eslint-disable-next-line  @typescript-eslint/no-non-null-assertion
@@ -39,6 +56,7 @@ const ResultScreen = () => {
   const setInfoPanelState = useSetAtom(infoPanelStateAtom)
   const randomConfig = useAtomValue(randomConfigAtom)
   const navigate = useNavigate()
+  const [copyButtonText, setCopyButtonText] = useState('复制本章节单词')
 
   const setReviewModeInfo = useSetAtom(reviewModeInfoAtom)
   const isReviewMode = useAtomValue(isReviewModeAtom)
@@ -112,6 +130,13 @@ const ResultScreen = () => {
     return `${minuteString}:${secondString}`
   }, [state.timerData.time])
 
+  const chapterWordsText = useMemo(() => {
+    return [...state.chapterData.words]
+      .sort((a, b) => a.index - b.index)
+      .map((word) => word.name)
+      .join('\n')
+  }, [state.chapterData.words])
+
   const repeatButtonHandler = useCallback(async () => {
     if (isReviewMode) {
       return
@@ -164,6 +189,19 @@ const ResultScreen = () => {
       dispatch({ type: TypingStateActionType.REPEAT_CHAPTER, shouldShuffle: false })
     }
   }, [dispatch, isReviewMode, setCurrentChapter, setReviewModeInfo])
+
+  const copyWordsButtonHandler = useCallback(async () => {
+    try {
+      await copyTextToClipboard(chapterWordsText)
+      setCopyButtonText('已复制')
+    } catch {
+      setCopyButtonText('复制失败')
+    }
+
+    window.setTimeout(() => {
+      setCopyButtonText('复制本章节单词')
+    }, 1800)
+  }, [chapterWordsText])
 
   const onNavigateToGallery = useCallback(() => {
     setCurrentChapter(0)
@@ -290,6 +328,14 @@ const ResultScreen = () => {
             <div className="mt-10 flex w-full justify-center gap-5 px-5 text-xl">
               {!isReviewMode && (
                 <>
+                  <button
+                    className="my-btn-primary h-12 border-2 border-solid border-gray-300 bg-white text-base text-gray-700 dark:border-gray-700 dark:bg-gray-600 dark:text-white dark:hover:bg-gray-700"
+                    type="button"
+                    onClick={copyWordsButtonHandler}
+                    title="复制当前章节单词"
+                  >
+                    {copyButtonText}
+                  </button>
                   <Tooltip content="快捷键：shift + enter">
                     <button
                       className="my-btn-primary h-12 border-2 border-solid border-gray-300 bg-white text-base text-gray-700 dark:border-gray-700 dark:bg-gray-600 dark:text-white dark:hover:bg-gray-700"

@@ -786,7 +786,7 @@
   {
     "name": "fossil fuel",
     "trans": [
-      null
+      "[能源] 矿物燃料，[能源] 化石燃料"
     ],
     "usphone": "ˈfɒs(ə)l fjuːəl",
     "ukphone": "ˈfɒs(ə)l fjuːəl"
@@ -826,7 +826,7 @@
   {
     "name": "DNA",
     "trans": [
-      null
+      "abbr. 脱氧核糖核酸（deoxyribonucleic acid）；（美国）国防部核子局（Defense Nuclear Agency）"
     ],
     "usphone": "ˌdiː en ˈeɪ",
     "ukphone": "ˌdiː en ˈeɪ"
@@ -2004,7 +2004,7 @@
   {
     "name": "space station",
     "trans": [
-      null
+      "空间站，太空站"
     ],
     "usphone": "ˈspeɪs steɪʃn",
     "ukphone": "ˈspeɪs steɪʃn"
@@ -2044,7 +2044,7 @@
   {
     "name": "Nobel Prize",
     "trans": [
-      null
+      "诺贝尔奖"
     ],
     "usphone": "ˌnəʊbel ˈpraɪz",
     "ukphone": "ˌnəʊbel ˈpraɪz"
@@ -2898,7 +2898,7 @@
   {
     "name": "prime minister",
     "trans": [
-      null
+      "首相，总理"
     ],
     "usphone": "ˌpraɪm ˈmɪnɪstə(r)",
     "ukphone": "ˌpraɪm ˈmɪnɪstə(r)"
@@ -3558,7 +3558,7 @@
   {
     "name": "global warming",
     "trans": [
-      "n. 全球变暖"
+      "全球变暖"
     ],
     "usphone": "ˌɡləʊbl ˈwɔːmɪŋ",
     "ukphone": "ˌɡləʊbl ˈwɔːmɪŋ"

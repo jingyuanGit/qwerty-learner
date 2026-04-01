@@ -1,446 +1,446 @@
 [
-  {
+{
     "name": "play football",
     "trans": [
-      null
+        "踢足球"
     ],
     "usphone": "pleɪ ˈfʊtˌbɔːl",
     "ukphone": "pleɪ ˈfʊtˌbɔːl"
-  },
-  {
+},
+{
     "name": "fly a kite",
     "trans": [
-      null
+        "放风筝"
     ],
     "usphone": "flaɪ ə kaɪt",
     "ukphone": "flaɪ ə kaɪt"
-  },
-  {
+},
+{
     "name": "ride a bike",
     "trans": [
-      null
+        "骑自行车"
     ],
     "usphone": "raɪd ə baɪk",
     "ukphone": "raɪd ə baɪk"
-  },
-  {
+},
+{
     "name": "make a model plane",
     "trans": [
-      null
+        "做飞机模型"
     ],
     "usphone": "meɪk ə ˈmɑːdl pleɪn",
     "ukphone": "meɪk ə ˈmɒdl pleɪn"
-  },
-  {
+},
+{
     "name": "swim",
     "trans": [
-      "n. 游泳"
+        "游泳"
     ],
     "usphone": "swɪm",
     "ukphone": "swɪm"
-  },
-  {
+},
+{
     "name": "make a snowman",
     "trans": [
-      null
+        "堆雪人"
     ],
     "usphone": "meɪk ə ˈsnoʊˌmæn",
     "ukphone": "meɪk ə ˈsnəʊˌmæn"
-  },
-  {
+},
+{
     "name": "can't",
     "trans": [
-      "v. 不能",
-      "v. 不会"
+        "不能",
+        "不会"
     ],
     "usphone": "kænt",
     "ukphone": "kɑːnt"
-  },
-  {
+},
+{
     "name": "rainy",
     "trans": [
-      "adj. 下雨的"
+        "下雨的"
     ],
     "usphone": "ˈreɪni",
     "ukphone": "ˈreɪni"
-  },
-  {
+},
+{
     "name": "cloudy",
     "trans": [
-      "adj. 多云的"
+        "多云的"
     ],
     "usphone": "ˈklaʊdi",
     "ukphone": "ˈklaʊdi"
-  },
-  {
+},
+{
     "name": "snowy",
     "trans": [
-      "adj. 下雪的"
+        "下雪的"
     ],
     "usphone": "ˈsnoʊi",
     "ukphone": "ˈsnəʊi"
-  },
-  {
+},
+{
     "name": "windy",
     "trans": [
-      "adj. 刮风的"
+        "刮风的"
     ],
     "usphone": "ˈwɪndi",
     "ukphone": "ˈwɪndi"
-  },
-  {
+},
+{
     "name": "sunny",
     "trans": [
-      "adj. 晴朗的"
+        "晴朗的"
     ],
     "usphone": "ˈsʌni",
     "ukphone": "ˈsʌni"
-  },
-  {
+},
+{
     "name": "umbrella",
     "trans": [
-      "n. 雨伞"
+        "雨伞"
     ],
     "usphone": "ʌmˈbrɛlə",
     "ukphone": "ʌmˈbrɛlə"
-  },
-  {
+},
+{
     "name": "weather",
     "trans": [
-      "n. 天气"
+        "天气"
     ],
     "usphone": "ˈwɛðər",
     "ukphone": "ˈwɛðər"
-  },
-  {
+},
+{
     "name": "wow",
     "trans": [
-      "int. 哇"
+        "哇"
     ],
     "usphone": "waʊ",
     "ukphone": "waʊ"
-  },
-  {
+},
+{
     "name": "let's",
     "trans": [
-      null
+        "让我们……"
     ],
     "usphone": "lɛts",
     "ukphone": "lɛts"
-  },
-  {
+},
+{
     "name": "spring",
     "trans": [
-      "n. 春天"
+        "春天"
     ],
     "usphone": "sprɪŋ",
     "ukphone": "sprɪŋ"
-  },
-  {
+},
+{
     "name": "summer",
     "trans": [
-      "n. 夏天"
+        "夏天"
     ],
     "usphone": "ˈsʌmər",
     "ukphone": "ˈsʌmər"
-  },
-  {
+},
+{
     "name": "autumn",
     "trans": [
-      "n. 秋天"
+        "秋天"
     ],
     "usphone": "ˈɔːtəm",
     "ukphone": "ˈɔːtəm"
-  },
-  {
+},
+{
     "name": "winter",
     "trans": [
-      "n. 冬天"
+        "冬天"
     ],
     "usphone": "ˈwɪntər",
     "ukphone": "ˈwɪntər"
-  },
-  {
+},
+{
     "name": "hot",
     "trans": [
-      "adj. 炎热的"
+        "炎热的"
     ],
     "usphone": "hɑt",
     "ukphone": "hɒt"
-  },
-  {
+},
+{
     "name": "warm",
     "trans": [
-      "adj. 温暖的"
+        "温暖的"
     ],
     "usphone": "wɔrm",
     "ukphone": "wɔːm"
-  },
-  {
+},
+{
     "name": "cool",
     "trans": [
-      "adj. 凉爽的"
+        "凉爽的"
     ],
     "usphone": "kul",
     "ukphone": "kuːl"
-  },
-  {
+},
+{
     "name": "cold",
     "trans": [
-      "adj. 寒冷的"
+        "寒冷的"
     ],
     "usphone": "koʊld",
     "ukphone": "kəʊld"
-  },
-  {
+},
+{
     "name": "favourite",
     "trans": [
-      "n. 最喜欢的"
+        "最喜欢的"
     ],
     "usphone": "ˈfeɪvərɪt",
     "ukphone": "ˈfeɪvərɪt"
-  },
-  {
+},
+{
     "name": "season",
     "trans": [
-      "n. 季节"
+        "季节"
     ],
     "usphone": "ˈsiːzən",
     "ukphone": "ˈsiːzən"
-  },
-  {
+},
+{
     "name": "eleven",
     "trans": [
-      "num. 十一"
+        "十一"
     ],
     "usphone": "ɪˈlɛvən",
     "ukphone": "ɪˈlɛvən"
-  },
-  {
+},
+{
     "name": "twelve",
     "trans": [
-      "num. 十二"
+        "十二"
     ],
     "usphone": "twɛlv",
     "ukphone": "twɛlv"
-  },
-  {
+},
+{
     "name": "twenty",
     "trans": [
-      "num. 二十"
+        "二十"
     ],
     "usphone": "ˈtwɛnti",
     "ukphone": "ˈtwɛnti"
-  },
-  {
+},
+{
     "name": "thirty",
     "trans": [
-      "num. 三十"
+        "三十"
     ],
     "usphone": "ˈθɜːrti",
     "ukphone": "ˈθɜːti"
-  },
-  {
+},
+{
     "name": "forty",
     "trans": [
-      "n. 四十"
+        "四十"
     ],
     "usphone": "ˈfɔːrti",
     "ukphone": "ˈfɔːrti"
-  },
-  {
+},
+{
     "name": "fifty",
     "trans": [
-      "n. 五十"
+        "五十"
     ],
     "usphone": "ˈfɪfti",
     "ukphone": "ˈfɪfti"
-  },
-  {
+},
+{
     "name": "thirteen",
     "trans": [
-      "num. 十三"
+        "十三"
     ],
     "usphone": "ˈθɜːrˌtin",
     "ukphone": "ˈθɜːrˌtin"
-  },
-  {
+},
+{
     "name": "fourteen",
     "trans": [
-      "num. 十四"
+        "十四"
     ],
     "usphone": "ˈfɔrtˌtin",
     "ukphone": "ˈfɔːˌtin"
-  },
-  {
+},
+{
     "name": "fifteen",
     "trans": [
-      "num. 十五"
+        "十五"
     ],
     "usphone": "ˌfɪfˈtin",
     "ukphone": "ˌfɪfˈtin"
-  },
-  {
+},
+{
     "name": "time",
     "trans": [
-      "n. 时间"
+        "时间"
     ],
     "usphone": "taɪm",
     "ukphone": "taɪm"
-  },
-  {
+},
+{
     "name": "playtime",
     "trans": [
-      null,
-      null
+        "游戏时间",
+        "课间休息时间"
     ],
     "usphone": "pleɪtaɪm",
     "ukphone": "pleɪtaɪm"
-  },
-  {
+},
+{
     "name": "get up",
     "trans": [
-      "adv. 起床"
+        "起床"
     ],
     "usphone": "ɡɛt ʌp",
     "ukphone": "ɡɛt ʌp"
-  },
-  {
+},
+{
     "name": "eat breakfast",
     "trans": [
-      null
+        "吃早饭"
     ],
     "usphone": "it ˈbrɛkˌfəst",
     "ukphone": "iːt ˈbrɛkfəst"
-  },
-  {
+},
+{
     "name": "go to school",
     "trans": [
-      null
+        "上学"
     ],
     "usphone": "ɡoʊ tu skul",
     "ukphone": "ɡəʊ tuː skuːl"
-  },
-  {
+},
+{
     "name": "eat lunch",
     "trans": [
-      null
+        "吃午饭"
     ],
     "usphone": "it lʌntʃ",
     "ukphone": "iːt lʌntʃ"
-  },
-  {
+},
+{
     "name": "go home",
     "trans": [
-      null
+        "回家"
     ],
     "usphone": "ɡoʊ hoʊm",
     "ukphone": "ɡəʊ həʊm"
-  },
-  {
+},
+{
     "name": "eat dinner",
     "trans": [
-      null
+        "吃晚饭"
     ],
     "usphone": "it ˈdɪnər",
     "ukphone": "iːt ˈdɪnər"
-  },
-  {
+},
+{
     "name": "go to bed",
     "trans": [
-      "adv. 上床",
-      "adv. 睡觉"
+        "上床",
+        "睡觉"
     ],
     "usphone": "ɡoʊ tu bɛd",
     "ukphone": "ɡəʊ tu bɛd"
-  },
-  {
+},
+{
     "name": "when",
     "trans": [
-      "adv. 什么时候",
-      "adv. 何时"
+        "什么时候",
+        "何时"
     ],
     "usphone": "wɛn",
     "ukphone": "wɛn"
-  },
-  {
+},
+{
     "name": "every day",
     "trans": [
-      null
+        "每天"
     ],
     "usphone": "ˈɛvri deɪ",
     "ukphone": "ˈɛvri deɪ"
-  },
-  {
+},
+{
     "name": "at",
     "trans": [
-      "prep. 在……点钟"
+        "在……点钟"
     ],
     "usphone": "æt",
     "ukphone": "æt"
-  },
-  {
+},
+{
     "name": "Sunday",
     "trans": [
-      "n. 星期天"
+        "星期天"
     ],
     "usphone": "ˈsʌndeɪ",
     "ukphone": "ˈsʌndeɪ"
-  },
-  {
+},
+{
     "name": "Monday",
     "trans": [
-      "n. 星期一"
+        "星期一"
     ],
     "usphone": "ˈmʌndeɪ",
     "ukphone": "ˈmʌndeɪ"
-  },
-  {
+},
+{
     "name": "Tuesday",
     "trans": [
-      "n. 星期二"
+        "星期二"
     ],
     "usphone": "ˈtuzdeɪ",
     "ukphone": "ˈtjuːzdeɪ"
-  },
-  {
+},
+{
     "name": "Wednesday",
     "trans": [
-      "n. 星期三"
+        "星期三"
     ],
     "usphone": "ˈwɛnzdeɪ",
     "ukphone": "ˈwɛnzdeɪ"
-  },
-  {
+},
+{
     "name": "Thursday",
     "trans": [
-      "n. 星期四"
+        "星期四"
     ],
     "usphone": "ˈθɜrzdeɪ",
     "ukphone": "ˈθɜːrzdeɪ"
-  },
-  {
+},
+{
     "name": "Friday",
     "trans": [
-      "n. 星期五"
+        "星期五"
     ],
     "usphone": "ˈfraɪdeɪ",
     "ukphone": "ˈfraɪdeɪ"
-  },
-  {
+},
+{
     "name": "Saturday",
     "trans": [
-      "n. 星期六"
+        "星期六"
     ],
     "usphone": "ˈsætərdeɪ",
     "ukphone": "ˈsætərdeɪ"
-  },
-  {
+},
+{
     "name": "today",
     "trans": [
-      "n. 今天"
+        "今天"
     ],
     "usphone": "təˈdeɪ",
     "ukphone": "təˈdeɪ"
-  }
+}
 ]

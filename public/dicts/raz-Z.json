@@ -948,7 +948,7 @@
   {
     "name": "fossil fuel",
     "trans": [
-      null
+      "[能源] 矿物燃料，[能源] 化石燃料"
     ],
     "usphone": "ˈfɒs(ə)l fjuːəl",
     "ukphone": "ˈfɒs(ə)l fjuːəl"
@@ -956,7 +956,7 @@
   {
     "name": "global warming",
     "trans": [
-      "n. 全球变暖"
+      "全球变暖"
     ],
     "usphone": "ˌɡləʊbl ˈwɔːmɪŋ",
     "ukphone": "ˌɡləʊbl ˈwɔːmɪŋ"
@@ -1036,7 +1036,7 @@
   {
     "name": "DNA",
     "trans": [
-      null
+      "abbr. 脱氧核糖核酸（deoxyribonucleic acid）；（美国）国防部核子局（Defense Nuclear Agency）"
     ],
     "usphone": "ˌdiː en ˈeɪ",
     "ukphone": "ˌdiː en ˈeɪ"
@@ -1800,7 +1800,7 @@
   {
     "name": "prime minister",
     "trans": [
-      null
+      "首相，总理"
     ],
     "usphone": "ˌpraɪm ˈmɪnɪstə(r)",
     "ukphone": "ˌpraɪm ˈmɪnɪstə(r)"
@@ -2608,7 +2608,7 @@
   {
     "name": "GPS",
     "trans": [
-      null
+      "abbr. 全球定位系统（Global Position System）；通用雷达（General Purpose Radar）；炮长主瞄准镜（Gunner's Primary Sight）"
     ],
     "usphone": "ˌdʒi pi ˈɛs",
     "ukphone": "ˌdʒi pi ˈɛs"

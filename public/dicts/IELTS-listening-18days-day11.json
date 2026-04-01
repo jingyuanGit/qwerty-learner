@@ -1,328 +1,210 @@
 [
-  {
-    "name": "evidence",
-    "trans": [
-      "n. 证据"
-    ]
-  },
-  {
-    "name": "alternative",
-    "trans": [
-      "n. 可供选择的"
-    ]
-  },
-  {
-    "name": "intention",
-    "trans": [
-      "n. 意图"
-    ]
-  },
-  {
-    "name": "relevant",
-    "trans": [
-      "adj. 相关的"
-    ]
-  },
-  {
-    "name": "outline",
-    "trans": [
-      "n. 轮廓",
-      "n. 大纲"
-    ]
-  },
-  {
-    "name": "extinct",
-    "trans": [
-      "adj. 灭绝的"
-    ]
-  },
-  {
-    "name": "wing",
-    "trans": [
-      "n. 翅膀"
-    ]
-  },
-  {
-    "name": "nest",
-    "trans": [
-      "n. 巢",
-      "n. 窝"
-    ]
-  },
-  {
-    "name": "interference",
-    "trans": [
-      "n. 干预",
-      "n. 干涉"
-    ]
-  },
-  {
-    "name": "standard",
-    "trans": [
-      "n. 标准"
-    ]
-  },
-  {
-    "name": "subtopic",
-    "trans": [
-      "n. 副主题"
-    ]
-  },
-  {
-    "name": "therapy",
-    "trans": [
-      "n. 治疗",
-      "n. 疗法"
-    ]
-  },
-  {
-    "name": "morality",
-    "trans": [
-      "n. 道德"
-    ]
-  },
-  {
-    "name": "participation",
-    "trans": [
-      "n. 参加",
-      "n. 参与"
-    ]
-  },
-  {
-    "name": "faculty",
-    "trans": [
-      "n. 科",
-      "n. 系",
-      "n. 能力"
-    ]
-  },
-  {
-    "name": "fit",
-    "trans": [
-      "vt. 健康的"
-    ]
-  },
-  {
-    "name": "useful",
-    "trans": [
-      "adj. 有用的"
-    ]
-  },
-  {
-    "name": "confuse",
-    "trans": [
-      "vt. 使混乱"
-    ]
-  },
-  {
-    "name": "inconvenient",
-    "trans": [
-      "adj. 不便的"
-    ]
-  },
-  {
-    "name": "valuable",
-    "trans": [
-      "adj. 有价值的"
-    ]
-  },
-  {
-    "name": "advisor",
-    "trans": [
-      "n. 顾问"
-    ]
-  },
-  {
-    "name": "forget",
-    "trans": [
-      "vt. 忘记"
-    ]
-  },
-  {
-    "name": "lecturer",
-    "trans": [
-      "n. 讲师"
-    ]
-  },
-  {
-    "name": "content",
-    "trans": [
-      "n. 内容"
-    ]
-  },
-  {
-    "name": "practical",
-    "trans": [
-      "adj. 实际的"
-    ]
-  },
-  {
-    "name": "improvement",
-    "trans": [
-      "n. 改进"
-    ]
-  },
-  {
-    "name": "repetitive",
-    "trans": [
-      "adj. 重复性的"
-    ]
-  },
-  {
-    "name": "village",
-    "trans": [
-      "n. 村庄"
-    ]
-  },
-  {
-    "name": "mission",
-    "trans": [
-      "n. 使命"
-    ]
-  },
-  {
-    "name": "qualification",
-    "trans": [
-      "n. 资格"
-    ]
-  },
-  {
-    "name": "curriculum",
-    "trans": [
-      "n. 课程"
-    ]
-  },
-  {
-    "name": "training",
-    "trans": [
-      "n. 训练"
-    ]
-  },
-  {
-    "name": "colleague",
-    "trans": [
-      "n. 同事"
-    ]
-  },
-  {
-    "name": "description",
-    "trans": [
-      "n. 描述"
-    ]
-  },
-  {
-    "name": "administration",
-    "trans": [
-      "n. 管理"
-    ]
-  },
-  {
-    "name": "farming",
-    "trans": [
-      "n. 农业",
-      "n. 耕作"
-    ]
-  },
-  {
-    "name": "damage",
-    "trans": [
-      "n. 损害",
-      "n. 损毁"
-    ]
-  },
-  {
-    "name": "checklist",
-    "trans": [
-      "n. 清单",
-      "n. 检查表"
-    ]
-  },
-  {
-    "name": "figures",
-    "trans": [
-      "n. 价格",
-      "n. 金额"
-    ]
-  },
-  {
-    "name": "presentation",
-    "trans": [
-      "n. 陈述",
-      "n. 展示"
-    ]
-  },
-  {
-    "name": "professor",
-    "trans": [
-      "n. 教授",
-      "n. 教师"
-    ]
-  },
-  {
-    "name": "seminar",
-    "trans": [
-      "n. 讨论会"
-    ]
-  },
-  {
-    "name": "chemistry",
-    "trans": [
-      "n. 化学"
-    ]
-  },
-  {
-    "name": "trade",
-    "trans": [
-      "n. 贸易",
-      "n. 交易"
-    ]
-  },
-  {
-    "name": "payment",
-    "trans": [
-      "n. 支付"
-    ]
-  },
-  {
-    "name": "portable",
-    "trans": [
-      "adj. 便携的"
-    ]
-  },
-  {
-    "name": "comedy",
-    "trans": [
-      "n. 喜剧"
-    ]
-  },
-  {
-    "name": "pattern",
-    "trans": [
-      "n. 模式"
-    ]
-  },
-  {
-    "name": "fresh",
-    "trans": [
-      "adj. 新鲜的"
-    ]
-  },
-  {
-    "name": "application",
-    "trans": [
-      "n. 申请"
-    ]
-  },
-  {
-    "name": "employee",
-    "trans": [
-      "n. 雇员"
-    ]
-  },
-  {
-    "name": "evaporate",
-    "trans": [
-      "vt. 蒸发"
-    ]
-  }
+    {
+        "name": "evidence",
+        "trans": ["证据"]
+    },
+    {
+        "name": "alternative",
+        "trans": ["可供选择的"]
+    },
+    {
+        "name": "intention",
+        "trans": ["意图"]
+    },
+    {
+        "name": "relevant",
+        "trans": ["相关的"]
+    },
+    {
+        "name": "outline",
+        "trans": ["轮廓", "大纲"]
+    },
+    {
+        "name": "extinct",
+        "trans": ["灭绝的"]
+    },
+    {
+        "name": "wing",
+        "trans": ["翅膀"]
+    },
+    {
+        "name": "nest",
+        "trans": ["巢", "窝"]
+    },
+    {
+        "name": "interference",
+        "trans": ["干预", "干涉"]
+    },
+    {
+        "name": "standard",
+        "trans": ["标准"]
+    },
+    {
+        "name": "subtopic",
+        "trans": ["副主题"]
+    },
+    {
+        "name": "therapy",
+        "trans": ["治疗", "疗法"]
+    },
+    {
+        "name": "morality",
+        "trans": ["道德"]
+    },
+    {
+        "name": "participation",
+        "trans": ["参加", "参与"]
+    },
+    {
+        "name": "faculty",
+        "trans": ["科", "系", "能力"]
+    },
+    {
+        "name": "fit",
+        "trans": ["健康的"]
+    },
+    {
+        "name": "useful",
+        "trans": ["有用的"]
+    },
+    {
+        "name": "confuse",
+        "trans": ["使混乱"]
+    },
+    {
+        "name": "inconvenient",
+        "trans": ["不便的"]
+    },
+    {
+        "name": "valuable",
+        "trans": ["有价值的"]
+    },
+    {
+        "name": "advisor",
+        "trans": ["顾问"]
+    },
+    {
+        "name": "forget",
+        "trans": ["忘记"]
+    },
+    {
+        "name": "lecturer",
+        "trans": ["讲师"]
+    },
+    {
+        "name": "content",
+        "trans": ["内容"]
+    },
+    {
+        "name": "practical",
+        "trans": ["实际的"]
+    },
+    {
+        "name": "improvement",
+        "trans": ["改进"]
+    },
+    {
+        "name": "repetitive",
+        "trans": ["重复性的"]
+    },
+    {
+        "name": "village",
+        "trans": ["村庄"]
+    },
+    {
+        "name": "mission",
+        "trans": ["使命"]
+    },
+    {
+        "name": "qualification",
+        "trans": ["资格"]
+    },
+    {
+        "name": "curriculum",
+        "trans": ["课程"]
+    },
+    {
+        "name": "training",
+        "trans": ["训练"]
+    },
+    {
+        "name": "colleague",
+        "trans": ["同事"]
+    },
+    {
+        "name": "description",
+        "trans": ["描述"]
+    },
+    {
+        "name": "administration",
+        "trans": ["管理"]
+    },
+    {
+        "name": "farming",
+        "trans": ["农业", "耕作"]
+    },
+    {
+        "name": "damage",
+        "trans": ["损害", "损毁"]
+    },
+    {
+        "name": "checklist",
+        "trans": ["清单", "检查表"]
+    },
+    {
+        "name": "figures",
+        "trans": ["价格", "金额"]
+    },
+    {
+        "name": "presentation",
+        "trans": ["陈述", "展示"]
+    },
+    {
+        "name": "professor",
+        "trans": ["教授", "教师"]
+    },
+    {
+        "name": "seminar",
+        "trans": ["讨论会"]
+    },
+    {
+        "name": "chemistry",
+        "trans": ["化学"]
+    },
+    {
+        "name": "trade",
+        "trans": ["贸易", "交易"]
+    },
+    {
+        "name": "payment",
+        "trans": ["支付"]
+    },
+    {
+        "name": "portable",
+        "trans": ["便携的"]
+    },
+    {
+        "name": "comedy",
+        "trans": ["喜剧"]
+    },
+    {
+        "name": "pattern",
+        "trans": ["模式"]
+    },
+    {
+        "name": "fresh",
+        "trans": ["新鲜的"]
+    },
+    {
+        "name": "application",
+        "trans": ["申请"]
+    },
+    {
+        "name": "employee",
+        "trans": ["雇员"]
+    },
+    {
+        "name": "evaporate",
+        "trans": ["蒸发"]
+    }
 ]

@@ -1,702 +1,702 @@
 [
-  {
-    "name": "ohayougozaimasu",
-    "trans": [
-      null
-    ],
-    "notation": "おはようございます"
-  },
-  {
-    "name": "konnichiha",
-    "trans": [
-      null
-    ],
-    "notation": "こんにちは"
-  },
-  {
-    "name": "konbanha",
-    "trans": [
-      null
-    ],
-    "notation": "こんばんは"
-  },
-  {
-    "name": "oyasuminasai",
-    "trans": [
-      null
-    ],
-    "notation": "おやすみなさい"
-  },
-  {
-    "name": "arigatougozaimasu",
-    "trans": [
-      null
-    ],
-    "notation": "ありがとうございます"
-  },
-  {
-    "name": "sumimasen",
-    "trans": [
-      null
-    ],
-    "notation": "すみません"
-  },
-  {
-    "name": "gomennasai",
-    "trans": [
-      null
-    ],
-    "notation": "ごめんなさい"
-  },
-  {
-    "name": "hai",
-    "trans": [
-      null
-    ],
-    "notation": "はい"
-  },
-  {
-    "name": "iie",
-    "trans": [
-      null
-    ],
-    "notation": "いいえ"
-  },
-  {
-    "name": "watashi",
-    "trans": [
-      null
-    ],
-    "notation": "わたし"
-  },
-  {
-    "name": "anata",
-    "trans": [
-      null
-    ],
-    "notation": "あなた"
-  },
-  {
-    "name": "okaasan",
-    "trans": [
-      null
-    ],
-    "notation": "お母(かあ)さん"
-  },
-  {
-    "name": "otousan",
-    "trans": [
-      null
-    ],
-    "notation": "お父(とう)さん"
-  },
-  {
-    "name": "ojiisan",
-    "trans": [
-      null
-    ],
-    "notation": "お爺(じい)さん"
-  },
-  {
-    "name": "obaasan",
-    "trans": [
-      null
-    ],
-    "notation": "お婆(ばあ)さん"
-  },
-  {
-    "name": "ojisan",
-    "trans": [
-      null
-    ],
-    "notation": "おじさん"
-  },
-  {
-    "name": "obasan",
-    "trans": [
-      null
-    ],
-    "notation": "おばさん"
-  },
-  {
-    "name": "oniisan",
-    "trans": [
-      null
-    ],
-    "notation": "お兄(にい)さん"
-  },
-  {
-    "name": "oneesan",
-    "trans": [
-      null
-    ],
-    "notation": "お姉(ねえ)さん"
-  },
-  {
-    "name": "otouto",
-    "trans": [
-      null
-    ],
-    "notation": "弟(おとうと)"
-  },
-  {
-    "name": "imouto",
-    "trans": [
-      null
-    ],
-    "notation": "妹(いもうと)"
-  },
-  {
-    "name": "ichi",
-    "trans": [
-      null
-    ],
-    "notation": "一(いち)"
-  },
-  {
-    "name": "ni",
-    "trans": [
-      null
-    ],
-    "notation": "二(に)"
-  },
-  {
-    "name": "san",
-    "trans": [
-      null
-    ],
-    "notation": "三(さん)"
-  },
-  {
-    "name": "yon",
-    "trans": [
-      null
-    ],
-    "notation": "四(よん)"
-  },
-  {
-    "name": "go",
-    "trans": [
-      "vi. Five"
-    ],
-    "notation": "五(ご)"
-  },
-  {
-    "name": "roku",
-    "trans": [
-      null
-    ],
-    "notation": "六(ろく)"
-  },
-  {
-    "name": "nana",
-    "trans": [
-      null
-    ],
-    "notation": "七(なな)"
-  },
-  {
-    "name": "hachi",
-    "trans": [
-      null
-    ],
-    "notation": "八(はち)"
-  },
-  {
-    "name": "kyuu",
-    "trans": [
-      null
-    ],
-    "notation": "九(きゅう)"
-  },
-  {
-    "name": "juu",
-    "trans": [
-      null
-    ],
-    "notation": "十(じゅう)"
-  },
-  {
-    "name": "ichigatsu",
-    "trans": [
-      null
-    ],
-    "notation": "一月(いちがつ)"
-  },
-  {
-    "name": "nigatsu",
-    "trans": [
-      null
-    ],
-    "notation": "二月(にがつ)"
-  },
-  {
-    "name": "sangatsu",
-    "trans": [
-      null
-    ],
-    "notation": "三月(さんがつ)"
-  },
-  {
-    "name": "shigatsu",
-    "trans": [
-      null
-    ],
-    "notation": "四月(しがつ)"
-  },
-  {
-    "name": "gogatsu",
-    "trans": [
-      null
-    ],
-    "notation": "五月(ごがつ)"
-  },
-  {
-    "name": "rokugatsu",
-    "trans": [
-      null
-    ],
-    "notation": "六月(ろくがつ)"
-  },
-  {
-    "name": "shichigatsu",
-    "trans": [
-      null
-    ],
-    "notation": "七月(しちがつ)"
-  },
-  {
-    "name": "hachigatsu",
-    "trans": [
-      null
-    ],
-    "notation": "八月(はちがつ)"
-  },
-  {
-    "name": "kugatsu",
-    "trans": [
-      null
-    ],
-    "notation": "九月(くがつ)"
-  },
-  {
-    "name": "juugatsu",
-    "trans": [
-      null
-    ],
-    "notation": "十月(じゅうがつ)"
-  },
-  {
-    "name": "juuichigatsu",
-    "trans": [
-      null
-    ],
-    "notation": "十一月(じゅういちがつ)"
-  },
-  {
-    "name": "juunigatsu",
-    "trans": [
-      null
-    ],
-    "notation": "十二月(じゅうにがつ)"
-  },
-  {
-    "name": "getsuyoubi",
-    "trans": [
-      null
-    ],
-    "notation": "月曜日(げつようび)"
-  },
-  {
-    "name": "kayoubi",
-    "trans": [
-      null
-    ],
-    "notation": "火曜日(かようび)"
-  },
-  {
-    "name": "suiyoubi",
-    "trans": [
-      null
-    ],
-    "notation": "水曜日(すいようび)"
-  },
-  {
-    "name": "mokuyoubi",
-    "trans": [
-      null
-    ],
-    "notation": "木曜日(もくようび)"
-  },
-  {
-    "name": "kinyoubi",
-    "trans": [
-      null
-    ],
-    "notation": "金曜日(きんようび)"
-  },
-  {
-    "name": "doyoubi",
-    "trans": [
-      null
-    ],
-    "notation": "土曜日(どようび)"
-  },
-  {
-    "name": "nichiyoubi",
-    "trans": [
-      null
-    ],
-    "notation": "日曜日(にちようび)"
-  },
-  {
-    "name": "kinou",
-    "trans": [
-      null
-    ],
-    "notation": "昨日(きのう)"
-  },
-  {
-    "name": "kyou",
-    "trans": [
-      null
-    ],
-    "notation": "今日(きょう)"
-  },
-  {
-    "name": "ashita",
-    "trans": [
-      null
-    ],
-    "notation": "明日(あした)"
-  },
-  {
-    "name": "asa",
-    "trans": [
-      null
-    ],
-    "notation": "朝(あさ)"
-  },
-  {
-    "name": "hiru",
-    "trans": [
-      null
-    ],
-    "notation": "昼(ひる)"
-  },
-  {
-    "name": "yuugata",
-    "trans": [
-      null
-    ],
-    "notation": "夕方(ゆうがた)"
-  },
-  {
-    "name": "yoru",
-    "trans": [
-      null
-    ],
-    "notation": "夜(よる)"
-  },
-  {
-    "name": "tanoshii",
-    "trans": [
-      null
-    ],
-    "notation": "楽(たの)しい"
-  },
-  {
-    "name": "kanashii",
-    "trans": [
-      null
-    ],
-    "notation": "悲(かな)しい"
-  },
-  {
-    "name": "takai",
-    "trans": [
-      null
-    ],
-    "notation": "高(たか)い"
-  },
-  {
-    "name": "hikui",
-    "trans": [
-      null
-    ],
-    "notation": "低(ひく)い"
-  },
-  {
-    "name": "yasui",
-    "trans": [
-      null
-    ],
-    "notation": "安(やす)い"
-  },
-  {
-    "name": "hayai",
-    "trans": [
-      null
-    ],
-    "notation": "早(はや)い"
-  },
-  {
-    "name": "osoi",
-    "trans": [
-      null
-    ],
-    "notation": "遅(おそ)い"
-  },
-  {
-    "name": "isogashii",
-    "trans": [
-      null
-    ],
-    "notation": "忙(いそが)しい"
-  },
-  {
-    "name": "oishii",
-    "trans": [
-      null
-    ],
-    "notation": "美味(おい)しい"
-  },
-  {
-    "name": "mazui",
-    "trans": [
-      null
-    ],
-    "notation": "不味(まず)い"
-  },
-  {
-    "name": "amai",
-    "trans": [
-      null
-    ],
-    "notation": "甘(あま)い"
-  },
-  {
-    "name": "shoppai",
-    "trans": [
-      null
-    ],
-    "notation": "塩(しょ)っぱい"
-  },
-  {
-    "name": "suppai",
-    "trans": [
-      null
-    ],
-    "notation": "酸(す)っぱい"
-  },
-  {
-    "name": "nigai",
-    "trans": [
-      null
-    ],
-    "notation": "苦(にが)い"
-  },
-  {
-    "name": "tsurai",
-    "trans": [
-      null
-    ],
-    "notation": "辛(つら)い"
-  },
-  {
-    "name": "atsui",
-    "trans": [
-      null
-    ],
-    "notation": "熱(あつ)い"
-  },
-  {
-    "name": "atatakai",
-    "trans": [
-      null
-    ],
-    "notation": "暖(あたた)かい"
-  },
-  {
-    "name": "tsumetai",
-    "trans": [
-      null
-    ],
-    "notation": "冷(つめ)たい"
-  },
-  {
-    "name": "akarui",
-    "trans": [
-      null
-    ],
-    "notation": "明(あか)るい"
-  },
-  {
-    "name": "kurai",
-    "trans": [
-      null
-    ],
-    "notation": "暗(くら)い"
-  },
-  {
-    "name": "suru",
-    "trans": [
-      null
-    ],
-    "notation": "する"
-  },
-  {
-    "name": "miru",
-    "trans": [
-      null
-    ],
-    "notation": "見(み)る"
-  },
-  {
-    "name": "kiku",
-    "trans": [
-      null
-    ],
-    "notation": "聞(き)く"
-  },
-  {
-    "name": "hanasu",
-    "trans": [
-      null
-    ],
-    "notation": "話(はな)す"
-  },
-  {
-    "name": "iu",
-    "trans": [
-      null
-    ],
-    "notation": "言(い)う"
-  },
-  {
-    "name": "kaku",
-    "trans": [
-      null
-    ],
-    "notation": "書(か)く"
-  },
-  {
-    "name": "taberu",
-    "trans": [
-      null
-    ],
-    "notation": "食(た)べる"
-  },
-  {
-    "name": "nomu",
-    "trans": [
-      null
-    ],
-    "notation": "飲(の)む"
-  },
-  {
-    "name": "aruku",
-    "trans": [
-      null
-    ],
-    "notation": "歩(ある)く"
-  },
-  {
-    "name": "hashiru",
-    "trans": [
-      null
-    ],
-    "notation": "走(はし)る"
-  },
-  {
-    "name": "suwaru",
-    "trans": [
-      null
-    ],
-    "notation": "座(すわ)る"
-  },
-  {
-    "name": "tatsu",
-    "trans": [
-      null
-    ],
-    "notation": "立(た)つ"
-  },
-  {
-    "name": "tabemono",
-    "trans": [
-      null
-    ],
-    "notation": "食(た)べ物(もの)"
-  },
-  {
-    "name": "nomimono",
-    "trans": [
-      null
-    ],
-    "notation": "飲(の)み物(もの)"
-  },
-  {
-    "name": "gohan",
-    "trans": [
-      null
-    ],
-    "notation": "ご飯(はん)"
-  },
-  {
-    "name": "mizu",
-    "trans": [
-      null
-    ],
-    "notation": "水(みず)"
-  },
-  {
-    "name": "oyu",
-    "trans": [
-      null
-    ],
-    "notation": "お湯(ゆ)"
-  },
-  {
-    "name": "niku",
-    "trans": [
-      null
-    ],
-    "notation": "肉(にく)"
-  },
-  {
-    "name": "yasai",
-    "trans": [
-      null
-    ],
-    "notation": "野菜(やさい)"
-  },
-  {
-    "name": "sakana",
-    "trans": [
-      null
-    ],
-    "notation": "魚(さかな)"
-  },
-  {
-    "name": "raamen",
-    "trans": [
-      null
-    ],
-    "notation": "ラーメン"
-  },
-  {
-    "name": "sushi",
-    "trans": [
-      "n. Sushi"
-    ],
-    "notation": "寿司(すし)"
-  },
-  {
-    "name": "onigiri",
-    "trans": [
-      null
-    ],
-    "notation": "おにぎり"
-  }
+    {
+        "name": "ohayougozaimasu",
+        "trans": [
+            "Good morning"
+        ],
+        "notation": "おはようございます"
+    },
+    {
+        "name": "konnichiha",
+        "trans": [
+            "Hello/ good afternoon"
+        ],
+        "notation": "こんにちは"
+    },
+    {
+        "name": "konbanha",
+        "trans": [
+            "Good evening"
+        ],
+        "notation": "こんばんは"
+    },
+    {
+        "name": "oyasuminasai",
+        "trans": [
+            "Goodnight"
+        ],
+        "notation": "おやすみなさい"
+    },
+    {
+        "name": "arigatougozaimasu",
+        "trans": [
+            "Thank you"
+        ],
+        "notation": "ありがとうございます"
+    },
+    {
+        "name": "sumimasen",
+        "trans": [
+            "Excuse me/ sorry"
+        ],
+        "notation": "すみません"
+    },
+    {
+        "name": "gomennasai",
+        "trans": [
+            "Sorry"
+        ],
+        "notation": "ごめんなさい"
+    },
+    {
+        "name": "hai",
+        "trans": [
+            "Yes"
+        ],
+        "notation": "はい"
+    },
+    {
+        "name": "iie",
+        "trans": [
+            "No"
+        ],
+        "notation": "いいえ"
+    },
+    {
+        "name": "watashi",
+        "trans": [
+            "I/me"
+        ],
+        "notation": "わたし"
+    },
+    {
+        "name": "anata",
+        "trans": [
+            "You"
+        ],
+        "notation": "あなた"
+    },
+    {
+        "name": "okaasan",
+        "trans": [
+            "Mother"
+        ],
+        "notation": "お母(かあ)さん"
+    },
+    {
+        "name": "otousan",
+        "trans": [
+            "Father"
+        ],
+        "notation": "お父(とう)さん"
+    },
+    {
+        "name": "ojiisan",
+        "trans": [
+            "Grandfather"
+        ],
+        "notation": "お爺(じい)さん"
+    },
+    {
+        "name": "obaasan",
+        "trans": [
+            "Grandmother"
+        ],
+        "notation": "お婆(ばあ)さん"
+    },
+    {
+        "name": "ojisan",
+        "trans": [
+            "Uncle"
+        ],
+        "notation": "おじさん"
+    },
+    {
+        "name": "obasan",
+        "trans": [
+            "Aunt"
+        ],
+        "notation": "おばさん"
+    },
+    {
+        "name": "oniisan",
+        "trans": [
+            "Older brother"
+        ],
+        "notation": "お兄(にい)さん"
+    },
+    {
+        "name": "oneesan",
+        "trans": [
+            "Older sister"
+        ],
+        "notation": "お姉(ねえ)さん"
+    },
+    {
+        "name": "otouto",
+        "trans": [
+            "Younger brother"
+        ],
+        "notation": "弟(おとうと)"
+    },
+    {
+        "name": "imouto",
+        "trans": [
+            "Younger sister"
+        ],
+        "notation": "妹(いもうと)"
+    },
+    {
+        "name": "ichi",
+        "trans": [
+            "One"
+        ],
+        "notation": "一(いち)"
+    },
+    {
+        "name": "ni",
+        "trans": [
+            "Two"
+        ],
+        "notation": "二(に)"
+    },
+    {
+        "name": "san",
+        "trans": [
+            "Three"
+        ],
+        "notation": "三(さん)"
+    },
+    {
+        "name": "yon",
+        "trans": [
+            "Four"
+        ],
+        "notation": "四(よん)"
+    },
+    {
+        "name": "go",
+        "trans": [
+            "Five"
+        ],
+        "notation": "五(ご)"
+    },
+    {
+        "name": "roku",
+        "trans": [
+            "Six"
+        ],
+        "notation": "六(ろく)"
+    },
+    {
+        "name": "nana",
+        "trans": [
+            "Seven"
+        ],
+        "notation": "七(なな)"
+    },
+    {
+        "name": "hachi",
+        "trans": [
+            "Eight"
+        ],
+        "notation": "八(はち)"
+    },
+    {
+        "name": "kyuu",
+        "trans": [
+            "Nine"
+        ],
+        "notation": "九(きゅう)"
+    },
+    {
+        "name": "juu",
+        "trans": [
+            "Ten"
+        ],
+        "notation": "十(じゅう)"
+    },
+    {
+        "name": "ichigatsu",
+        "trans": [
+            "January"
+        ],
+        "notation": "一月(いちがつ)"
+    },
+    {
+        "name": "nigatsu",
+        "trans": [
+            "February"
+        ],
+        "notation": "二月(にがつ)"
+    },
+    {
+        "name": "sangatsu",
+        "trans": [
+            "March"
+        ],
+        "notation": "三月(さんがつ)"
+    },
+    {
+        "name": "shigatsu",
+        "trans": [
+            "April"
+        ],
+        "notation": "四月(しがつ)"
+    },
+    {
+        "name": "gogatsu",
+        "trans": [
+            "May"
+        ],
+        "notation": "五月(ごがつ)"
+    },
+    {
+        "name": "rokugatsu",
+        "trans": [
+            "June"
+        ],
+        "notation": "六月(ろくがつ)"
+    },
+    {
+        "name": "shichigatsu",
+        "trans": [
+            "July"
+        ],
+        "notation": "七月(しちがつ)"
+    },
+    {
+        "name": "hachigatsu",
+        "trans": [
+            "August"
+        ],
+        "notation": "八月(はちがつ)"
+    },
+    {
+        "name": "kugatsu",
+        "trans": [
+            "September"
+        ],
+        "notation": "九月(くがつ)"
+    },
+    {
+        "name": "juugatsu",
+        "trans": [
+            "October"
+        ],
+        "notation": "十月(じゅうがつ)"
+    },
+    {
+        "name": "juuichigatsu",
+        "trans": [
+            "November"
+        ],
+        "notation": "十一月(じゅういちがつ)"
+    },
+    {
+        "name": "juunigatsu",
+        "trans": [
+            "December"
+        ],
+        "notation": "十二月(じゅうにがつ)"
+    },
+    {
+        "name": "getsuyoubi",
+        "trans": [
+            "Monday"
+        ],
+        "notation": "月曜日(げつようび)"
+    },
+    {
+        "name": "kayoubi",
+        "trans": [
+            "Tuesday"
+        ],
+        "notation": "火曜日(かようび)"
+    },
+    {
+        "name": "suiyoubi",
+        "trans": [
+            "Wednesday"
+        ],
+        "notation": "水曜日(すいようび)"
+    },
+    {
+        "name": "mokuyoubi",
+        "trans": [
+            "Thursday"
+        ],
+        "notation": "木曜日(もくようび)"
+    },
+    {
+        "name": "kinyoubi",
+        "trans": [
+            "Friday"
+        ],
+        "notation": "金曜日(きんようび)"
+    },
+    {
+        "name": "doyoubi",
+        "trans": [
+            "Saturday"
+        ],
+        "notation": "土曜日(どようび)"
+    },
+    {
+        "name": "nichiyoubi",
+        "trans": [
+            "Sunday"
+        ],
+        "notation": "日曜日(にちようび)"
+    },
+    {
+        "name": "kinou",
+        "trans": [
+            "Yesterday"
+        ],
+        "notation": "昨日(きのう)"
+    },
+    {
+        "name": "kyou",
+        "trans": [
+            "Today"
+        ],
+        "notation": "今日(きょう)"
+    },
+    {
+        "name": "ashita",
+        "trans": [
+            "Tomorrow"
+        ],
+        "notation": "明日(あした)"
+    },
+    {
+        "name": "asa",
+        "trans": [
+            "Morning"
+        ],
+        "notation": "朝(あさ)"
+    },
+    {
+        "name": "hiru",
+        "trans": [
+            "Noon"
+        ],
+        "notation": "昼(ひる)"
+    },
+    {
+        "name": "yuugata",
+        "trans": [
+            "Evening"
+        ],
+        "notation": "夕方(ゆうがた)"
+    },
+    {
+        "name": "yoru",
+        "trans": [
+            "Night"
+        ],
+        "notation": "夜(よる)"
+    },
+    {
+        "name": "tanoshii",
+        "trans": [
+            "Happy"
+        ],
+        "notation": "楽(たの)しい"
+    },
+    {
+        "name": "kanashii",
+        "trans": [
+            "Sad"
+        ],
+        "notation": "悲(かな)しい"
+    },
+    {
+        "name": "takai",
+        "trans": [
+            "High/expensive"
+        ],
+        "notation": "高(たか)い"
+    },
+    {
+        "name": "hikui",
+        "trans": [
+            "Low"
+        ],
+        "notation": "低(ひく)い"
+    },
+    {
+        "name": "yasui",
+        "trans": [
+            "Cheap"
+        ],
+        "notation": "安(やす)い"
+    },
+    {
+        "name": "hayai",
+        "trans": [
+            "Fast/early"
+        ],
+        "notation": "早(はや)い"
+    },
+    {
+        "name": "osoi",
+        "trans": [
+            "Slow"
+        ],
+        "notation": "遅(おそ)い"
+    },
+    {
+        "name": "isogashii",
+        "trans": [
+            "Busy"
+        ],
+        "notation": "忙(いそが)しい"
+    },
+    {
+        "name": "oishii",
+        "trans": [
+            "Delicious"
+        ],
+        "notation": "美味(おい)しい"
+    },
+    {
+        "name": "mazui",
+        "trans": [
+            "Awful"
+        ],
+        "notation": "不味(まず)い"
+    },
+    {
+        "name": "amai",
+        "trans": [
+            "Sweet"
+        ],
+        "notation": "甘(あま)い"
+    },
+    {
+        "name": "shoppai",
+        "trans": [
+            "Salty"
+        ],
+        "notation": "塩(しょ)っぱい"
+    },
+    {
+        "name": "suppai",
+        "trans": [
+            "Sour"
+        ],
+        "notation": "酸(す)っぱい"
+    },
+    {
+        "name": "nigai",
+        "trans": [
+            "Bitter"
+        ],
+        "notation": "苦(にが)い"
+    },
+    {
+        "name": "tsurai",
+        "trans": [
+            "Hot/ spicy"
+        ],
+        "notation": "辛(つら)い"
+    },
+    {
+        "name": "atsui",
+        "trans": [
+            "Hot"
+        ],
+        "notation": "熱(あつ)い"
+    },
+    {
+        "name": "atatakai",
+        "trans": [
+            "Warm"
+        ],
+        "notation": "暖(あたた)かい"
+    },
+    {
+        "name": "tsumetai",
+        "trans": [
+            "Cold"
+        ],
+        "notation": "冷(つめ)たい"
+    },
+    {
+        "name": "akarui",
+        "trans": [
+            "Bright"
+        ],
+        "notation": "明(あか)るい"
+    },
+    {
+        "name": "kurai",
+        "trans": [
+            "Dark"
+        ],
+        "notation": "暗(くら)い"
+    },
+    {
+        "name": "suru",
+        "trans": [
+            "To do"
+        ],
+        "notation": "する"
+    },
+    {
+        "name": "miru",
+        "trans": [
+            "To see"
+        ],
+        "notation": "見(み)る"
+    },
+    {
+        "name": "kiku",
+        "trans": [
+            "To listen"
+        ],
+        "notation": "聞(き)く"
+    },
+    {
+        "name": "hanasu",
+        "trans": [
+            "To talk/speak"
+        ],
+        "notation": "話(はな)す"
+    },
+    {
+        "name": "iu",
+        "trans": [
+            "To say"
+        ],
+        "notation": "言(い)う"
+    },
+    {
+        "name": "kaku",
+        "trans": [
+            "To write"
+        ],
+        "notation": "書(か)く"
+    },
+    {
+        "name": "taberu",
+        "trans": [
+            "To eat"
+        ],
+        "notation": "食(た)べる"
+    },
+    {
+        "name": "nomu",
+        "trans": [
+            "To drink"
+        ],
+        "notation": "飲(の)む"
+    },
+    {
+        "name": "aruku",
+        "trans": [
+            "To walk"
+        ],
+        "notation": "歩(ある)く"
+    },
+    {
+        "name": "hashiru",
+        "trans": [
+            "To run"
+        ],
+        "notation": "走(はし)る"
+    },
+    {
+        "name": "suwaru",
+        "trans": [
+            "To sit"
+        ],
+        "notation": "座(すわ)る"
+    },
+    {
+        "name": "tatsu",
+        "trans": [
+            "To stand"
+        ],
+        "notation": "立(た)つ"
+    },
+    {
+        "name": "tabemono",
+        "trans": [
+            "Food"
+        ],
+        "notation": "食(た)べ物(もの)"
+    },
+    {
+        "name": "nomimono",
+        "trans": [
+            "Drinks"
+        ],
+        "notation": "飲(の)み物(もの)"
+    },
+    {
+        "name": "gohan",
+        "trans": [
+            "Rice/meal"
+        ],
+        "notation": "ご飯(はん)"
+    },
+    {
+        "name": "mizu",
+        "trans": [
+            "Water/cold water"
+        ],
+        "notation": "水(みず)"
+    },
+    {
+        "name": "oyu",
+        "trans": [
+            "Hot water"
+        ],
+        "notation": "お湯(ゆ)"
+    },
+    {
+        "name": "niku",
+        "trans": [
+            "Meat"
+        ],
+        "notation": "肉(にく)"
+    },
+    {
+        "name": "yasai",
+        "trans": [
+            "Vegetable"
+        ],
+        "notation": "野菜(やさい)"
+    },
+    {
+        "name": "sakana",
+        "trans": [
+            "Fish"
+        ],
+        "notation": "魚(さかな)"
+    },
+    {
+        "name": "raamen",
+        "trans": [
+            "Ramen"
+        ],
+        "notation": "ラーメン"
+    },
+    {
+        "name": "sushi",
+        "trans": [
+            "Sushi"
+        ],
+        "notation": "寿司(すし)"
+    },
+    {
+        "name": "onigiri",
+        "trans": [
+            "Onigiri"
+        ],
+        "notation": "おにぎり"
+    }
 ]

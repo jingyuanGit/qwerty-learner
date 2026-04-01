@@ -1,362 +1,362 @@
 [
-  {
+{
     "name": "chair",
     "trans": [
-      "n. 椅子"
+        "椅子"
     ],
     "usphone": "tʃɛr",
     "ukphone": "tʃɛə"
-  },
-  {
+},
+{
     "name": "desk",
     "trans": [
-      "n. 书桌，写字台"
+        "书桌，写字台"
     ],
     "usphone": "dɛsk",
     "ukphone": "dɛsk"
-  },
-  {
+},
+{
     "name": "blackboard",
     "trans": [
-      "n. 黑板"
+        "黑板"
     ],
     "usphone": "ˈblækˌbɔrd",
     "ukphone": "ˈblakˌbɔːd"
-  },
-  {
+},
+{
     "name": "on",
     "trans": [
-      "prep. 在⋯⋯上"
+        "在⋯⋯上"
     ],
     "usphone": "ɑn",
     "ukphone": "ɒn"
-  },
-  {
+},
+{
     "name": "under",
     "trans": [
-      "prep. 在⋯⋯下面 ；在⋯⋯下方"
+        "在⋯⋯下面 ；在⋯⋯下方"
     ],
     "usphone": "ˈʌndər",
     "ukphone": "ˈʌndə"
-  },
-  {
+},
+{
     "name": "in",
     "trans": [
-      "prep. 在⋯⋯里面"
+        "在⋯⋯里面"
     ],
     "usphone": "ɪn",
     "ukphone": "ɪn"
-  },
-  {
+},
+{
     "name": "where",
     "trans": [
-      "adv. 在哪里"
+        "在哪里"
     ],
     "usphone": "wɛr",
     "ukphone": "wɛə"
-  },
-  {
+},
+{
     "name": "the",
     "trans": [
-      "art. 放在名词前，特指人、事或物"
+        "放在名词前，特指人、事或物"
     ],
     "usphone": "ðə",
     "ukphone": "ðiː"
-  },
-  {
+},
+{
     "name": "light",
     "trans": [
-      "n. 灯"
+        "灯"
     ],
     "usphone": "laɪt",
     "ukphone": "laɪt"
-  },
-  {
+},
+{
     "name": "bed",
     "trans": [
-      "n. 床"
+        "床"
     ],
     "usphone": "bɛd",
     "ukphone": "bɛd"
-  },
-  {
+},
+{
     "name": "door",
     "trans": [
-      "n. 门 ；出入口"
+        "门 ；出入口"
     ],
     "usphone": "dɔr",
     "ukphone": "dɔː"
-  },
-  {
+},
+{
     "name": "box",
     "trans": [
-      "n. 箱子 ；盒子"
+        "箱子 ；盒子"
     ],
     "usphone": "bɑks",
     "ukphone": "bɒks"
-  },
-  {
+},
+{
     "name": "near",
     "trans": [
-      "adv. 靠近，接近"
+        "靠近，接近"
     ],
     "usphone": "nɪr",
     "ukphone": "nɪə"
-  },
-  {
+},
+{
     "name": "behind",
     "trans": [
-      "prep. 在⋯⋯背后"
+        "在⋯⋯背后"
     ],
     "usphone": "bɪˈhaɪnd",
     "ukphone": "bɪˈhaɪnd"
-  },
-  {
+},
+{
     "name": "plane",
     "trans": [
-      "n. 飞机"
+        "飞机"
     ],
     "usphone": "pleɪn",
     "ukphone": "pleɪn"
-  },
-  {
+},
+{
     "name": "ball",
     "trans": [
-      "n. 球"
+        "球"
     ],
     "usphone": "bɔl",
     "ukphone": "bɔːl"
-  },
-  {
+},
+{
     "name": "doll",
     "trans": [
-      "n. 玩偶，玩具娃娃"
+        "玩偶，玩具娃娃"
     ],
     "usphone": "dɑl",
     "ukphone": "dɒl"
-  },
-  {
+},
+{
     "name": "train",
     "trans": [
-      "n. 列车，火车"
+        "列车，火车"
     ],
     "usphone": "treɪn",
     "ukphone": "treɪn"
-  },
-  {
+},
+{
     "name": "car",
     "trans": [
-      "n. 小汽车，轿车"
+        "小汽车，轿车"
     ],
     "usphone": "kɑr",
     "ukphone": "kɑːr"
-  },
-  {
+},
+{
     "name": "bear",
     "trans": [
-      "n. 玩具熊 ；熊"
+        "玩具熊 ；熊"
     ],
     "usphone": "bɛr",
     "ukphone": "bɛə"
-  },
-  {
+},
+{
     "name": "can",
     "trans": [
-      "aux. 可以 ；能够"
+        "可以 ；能够"
     ],
     "usphone": "kæn",
     "ukphone": "kæn"
-  },
-  {
+},
+{
     "name": "sure",
     "trans": [
-      "adj. 当然"
+        "当然"
     ],
     "usphone": "ʃʊr",
     "ukphone": "ʃɔːr"
-  },
-  {
+},
+{
     "name": "sorry",
     "trans": [
-      "adj. 对不起，抱歉"
+        "对不起，抱歉"
     ],
     "usphone": "ˈsɔri",
     "ukphone": "ˈsɒri"
-  },
-  {
+},
+{
     "name": "rice",
     "trans": [
-      "n. 米饭 ；米"
+        "米饭 ；米"
     ],
     "usphone": "raɪs",
     "ukphone": "raɪs"
-  },
-  {
+},
+{
     "name": "noodles",
     "trans": [
-      "n. 面条"
+        "面条"
     ],
     "usphone": "ˈnudəlz",
     "ukphone": "ˈnuːdlz"
-  },
-  {
+},
+{
     "name": "vegetable",
     "trans": [
-      "n. 蔬菜"
+        "蔬菜"
     ],
     "usphone": "ˈvɛdʒtəbəl",
     "ukphone": "ˈvɛdʒtəbl"
-  },
-  {
+},
+{
     "name": "fish",
     "trans": [
-      "n. 鱼肉 ；鱼"
+        "鱼肉 ；鱼"
     ],
     "usphone": "fɪʃ",
     "ukphone": "fɪʃ"
-  },
-  {
+},
+{
     "name": "chicken",
     "trans": [
-      "n. 鸡肉 ；鸡"
+        "鸡肉 ；鸡"
     ],
     "usphone": "ˈtʃɪkən",
     "ukphone": "ˈtʃɪkɪn"
-  },
-  {
+},
+{
     "name": "egg",
     "trans": [
-      "n. 鸡蛋"
+        "鸡蛋"
     ],
     "usphone": "ɛɡ",
     "ukphone": "ɛɡ"
-  },
-  {
+},
+{
     "name": "hungry",
     "trans": [
-      "adj. 饥饿的"
+        "饥饿的"
     ],
     "usphone": "ˈhʌŋɡri",
     "ukphone": "ˈhʌŋɡri"
-  },
-  {
+},
+{
     "name": "want",
     "trans": [
-      "vt. 要 ；想要"
+        "要 ；想要"
     ],
     "usphone": "wɑnt",
     "ukphone": "wɒnt"
-  },
-  {
+},
+{
     "name": "and",
     "trans": [
-      "conj. 和"
+        "和"
     ],
     "usphone": "ænd",
     "ukphone": "ənd"
-  },
-  {
+},
+{
     "name": "juice",
     "trans": [
-      "n. 果汁 ；蔬菜汁"
+        "果汁 ；蔬菜汁"
     ],
     "usphone": "dʒus",
     "ukphone": "dʒuːs"
-  },
-  {
+},
+{
     "name": "tea",
     "trans": [
-      "n. 茶 ；茶叶"
+        "茶 ；茶叶"
     ],
     "usphone": "ti",
     "ukphone": "tiː"
-  },
-  {
+},
+{
     "name": "milk",
     "trans": [
-      "n. 奶 ；牛奶"
+        "奶 ；牛奶"
     ],
     "usphone": "mɪlk",
     "ukphone": "mɪlk"
-  },
-  {
+},
+{
     "name": "water",
     "trans": [
-      "n. 水"
+        "水"
     ],
     "usphone": "ˈwɔtər",
     "ukphone": "ˈwɔːtə"
-  },
-  {
+},
+{
     "name": "thirsty",
     "trans": [
-      "adj. 口渴的"
+        "口渴的"
     ],
     "usphone": "ˈθɜrsti",
     "ukphone": "ˈθɜːsti"
-  },
-  {
+},
+{
     "name": "thanks",
     "trans": [
-      "n. 感谢"
+        "感谢"
     ],
     "usphone": "θæŋks",
     "ukphone": "θæŋks"
-  },
-  {
+},
+{
     "name": "shirt",
     "trans": [
-      "n. 衬衫"
+        "衬衫"
     ],
     "usphone": "ʃɜrt",
     "ukphone": "ʃɜːt"
-  },
-  {
+},
+{
     "name": "T-shirt",
     "trans": [
-      "n. T 恤衫；短袖圆领汗衫"
+        "T 恤衫；短袖圆领汗衫"
     ],
     "usphone": "ˈtiˌʃɜrt",
     "ukphone": "ˈtiːˌʃɜːt"
-  },
-  {
+},
+{
     "name": "skirt",
     "trans": [
-      "n. 裙子"
+        "裙子"
     ],
     "usphone": "skɜrt",
     "ukphone": "skɜːt"
-  },
-  {
+},
+{
     "name": "dress",
     "trans": [
-      "n. 连衣裙 ；套裙"
+        "连衣裙 ；套裙"
     ],
     "usphone": "drɛs",
     "ukphone": "drɛs"
-  },
-  {
+},
+{
     "name": "socks",
     "trans": [
-      "n. 短袜"
+        "短袜"
     ],
     "usphone": "sɑks",
     "ukphone": "sɒks"
-  },
-  {
+},
+{
     "name": "shorts",
     "trans": [
-      "n. 短裤"
+        "短裤"
     ],
     "usphone": "ʃɔrts",
     "ukphone": "ʃɔːts"
-  },
-  {
+},
+{
     "name": "your",
     "trans": [
-      "pron. 你的 ；你们的"
+        "你的 ；你们的"
     ],
     "usphone": "jʊr",
     "ukphone": "jɔːr"
-  }
+}
 ]

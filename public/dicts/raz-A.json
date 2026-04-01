@@ -602,7 +602,7 @@
   {
     "name": "many",
     "trans": [
-      "adj. det. 许多 pron. 许多；许多人 adj. 许多的 n. 大多数人 n. (Many) （美、法、加、印）马尼（人名）"
+      "det. 许多 pron. 许多；许多人 adj. 许多的 n. 大多数人 n. (Many) （美、法、加、印）马尼（人名）"
     ],
     "usphone": "ˈmeni",
     "ukphone": "ˈmeni"
@@ -2434,7 +2434,7 @@
   {
     "name": "dining room",
     "trans": [
-      "n. 餐厅"
+      "餐厅"
     ]
   },
   {
@@ -2456,7 +2456,7 @@
   {
     "name": "living room",
     "trans": [
-      "n. 客厅，起居室"
+      "客厅，起居室"
     ],
     "usphone": "'lɪvɪŋ ru:m",
     "ukphone": "'lɪvɪŋ ru:m"
@@ -3112,7 +3112,7 @@
   {
     "name": "berries",
     "trans": [
-      null
+      "浆果类"
     ],
     "usphone": "'beriz",
     "ukphone": "'beriz"
@@ -3136,7 +3136,7 @@
   {
     "name": "ice cream",
     "trans": [
-      "n. 冰淇淋"
+      "冰淇淋"
     ],
     "usphone": "ˈaɪs kriːm",
     "ukphone": "ˈaɪs kriːm"

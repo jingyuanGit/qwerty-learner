@@ -974,7 +974,7 @@
   {
     "name": "another",
     "trans": [
-      "adj. det. 又一，另一；另外的，不同的；类似 pron. 又一，另一；另外的，不同的；类似 adj. 不同的；另一个（人）；类似的"
+      "det. 又一，另一；另外的，不同的；类似 pron. 又一，另一；另外的，不同的；类似 adj. 不同的；另一个（人）；类似的"
     ],
     "usphone": "əˈnʌðə(r)",
     "ukphone": "əˈnʌðə(r)"
@@ -1524,7 +1524,7 @@
   {
     "name": "many",
     "trans": [
-      "adj. det. 许多 pron. 许多；许多人 adj. 许多的 n. 大多数人 n. (Many) （美、法、加、印）马尼（人名）"
+      "det. 许多 pron. 许多；许多人 adj. 许多的 n. 大多数人 n. (Many) （美、法、加、印）马尼（人名）"
     ],
     "usphone": "ˈmeni",
     "ukphone": "ˈmeni"
@@ -2252,7 +2252,7 @@
   {
     "name": "shake hands",
     "trans": [
-      null
+      "握手"
     ],
     "usphone": ",ʃeik'hændz",
     "ukphone": ",ʃeik'hændz"

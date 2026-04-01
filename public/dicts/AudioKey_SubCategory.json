@@ -1,2618 +1,1746 @@
 [
   {
     "name": "blow",
-    "trans": [
-      "n. 吹"
-    ]
+    "trans": ["吹"]
   },
   {
     "name": "burst",
-    "trans": [
-      "n. 爆发"
-    ]
+    "trans": ["爆发"]
   },
   {
     "name": "hiss",
-    "trans": [
-      "vi. 嘶嘶声"
-    ]
+    "trans": ["嘶嘶声"]
   },
   {
     "name": "misc",
-    "trans": [
-      null
-    ]
+    "trans": ["其它"]
   },
   {
     "name": "suction",
-    "trans": [
-      "n. 抽吸"
-    ]
+    "trans": ["抽吸"]
   },
   {
     "name": "door",
-    "trans": [
-      "n. 门"
-    ]
+    "trans": ["门"]
   },
   {
     "name": "helicopter",
-    "trans": [
-      "n. 直升机"
-    ]
+    "trans": ["直升机"]
   },
   {
     "name": "interior",
-    "trans": [
-      "n. 航空舱"
-    ]
+    "trans": ["航空舱"]
   },
   {
     "name": "jet",
-    "trans": [
-      "n. 喷气式飞机"
-    ]
+    "trans": ["喷气式飞机"]
   },
   {
     "name": "mechanism",
-    "trans": [
-      "n. 机械"
-    ]
+    "trans": ["机械"]
   },
   {
     "name": "military",
-    "trans": [
-      "adj. 军用"
-    ]
+    "trans": ["军用"]
   },
   {
     "name": "prop",
-    "trans": [
-      "n. 螺旋桨飞机"
-    ]
+    "trans": ["螺旋桨飞机"]
   },
   {
     "name": "radio controlled",
-    "trans": [
-      null
-    ]
+    "trans": ["塔台"]
   },
   {
     "name": "rocket",
-    "trans": [
-      "n. 火箭"
-    ]
+    "trans": ["火箭"]
   },
   {
     "name": "bell",
-    "trans": [
-      "n. 警铃"
-    ]
+    "trans": ["警铃"]
   },
   {
     "name": "buzzer",
-    "trans": [
-      "n. 蜂鸣器"
-    ]
+    "trans": ["蜂鸣器"]
   },
   {
     "name": "clock",
-    "trans": [
-      "n. 钟表"
-    ]
+    "trans": ["钟表"]
   },
   {
     "name": "electronic",
-    "trans": [
-      "adj. 电器"
-    ]
+    "trans": ["电器"]
   },
   {
     "name": "siren",
-    "trans": [
-      "n. 警报"
-    ]
+    "trans": ["警报"]
   },
   {
     "name": "air",
-    "trans": [
-      "n. 空气"
-    ]
+    "trans": ["空气"]
   },
   {
     "name": "alpine",
-    "trans": [
-      "adj. 高山"
-    ]
+    "trans": ["高山"]
   },
   {
     "name": "amusement",
-    "trans": [
-      "n. 娱乐"
-    ]
+    "trans": ["娱乐"]
   },
   {
     "name": "birdsong",
-    "trans": [
-      null
-    ]
+    "trans": ["鸟鸣"]
   },
   {
     "name": "celebration",
-    "trans": [
-      "n. 庆典"
-    ]
+    "trans": ["庆典"]
   },
   {
     "name": "construction",
-    "trans": [
-      "n. 施工"
-    ]
+    "trans": ["施工"]
   },
   {
     "name": "desert",
-    "trans": [
-      "n. 沙漠"
-    ]
+    "trans": ["沙漠"]
   },
   {
     "name": "designed",
-    "trans": [
-      "v. 设计"
-    ]
+    "trans": ["设计"]
   },
   {
     "name": "emergency",
-    "trans": [
-      "n. 紧急"
-    ]
+    "trans": ["紧急"]
   },
   {
     "name": "fantasy",
-    "trans": [
-      "n. 奇幻"
-    ]
+    "trans": ["奇幻"]
   },
   {
     "name": "farm",
-    "trans": [
-      "n. 农场"
-    ]
+    "trans": ["农场"]
   },
   {
     "name": "forest",
-    "trans": [
-      "n. 森林"
-    ]
+    "trans": ["森林"]
   },
   {
     "name": "grassland",
-    "trans": [
-      "n. 草地"
-    ]
+    "trans": ["草地"]
   },
   {
     "name": "historical",
-    "trans": [
-      "adj. 历史年代"
-    ]
+    "trans": ["历史年代"]
   },
   {
     "name": "hitech",
-    "trans": [
-      null
-    ]
+    "trans": ["高科技"]
   },
   {
     "name": "hospital",
-    "trans": [
-      "n. 医院"
-    ]
+    "trans": ["医院"]
   },
   {
     "name": "industrial",
-    "trans": [
-      "adj. 工业"
-    ]
+    "trans": ["工业"]
   },
   {
     "name": "insect",
-    "trans": [
-      "n. 昆虫"
-    ]
+    "trans": ["昆虫"]
   },
   {
     "name": "lakeside",
-    "trans": [
-      "n. 湖岸"
-    ]
+    "trans": ["湖岸"]
   },
   {
     "name": "market",
-    "trans": [
-      "n. 市场"
-    ]
+    "trans": ["市场"]
   },
   {
     "name": "nautical",
-    "trans": [
-      "adj. 航海"
-    ]
+    "trans": ["航海"]
   },
   {
     "name": "office",
-    "trans": [
-      "n. 办公室"
-    ]
+    "trans": ["办公室"]
   },
   {
     "name": "park",
-    "trans": [
-      "n. 公园"
-    ]
+    "trans": ["公园"]
   },
   {
     "name": "prison",
-    "trans": [
-      "n. 监狱"
-    ]
+    "trans": ["监狱"]
   },
   {
     "name": "protest",
-    "trans": [
-      "n. 游行"
-    ]
+    "trans": ["游行"]
   },
   {
     "name": "public place",
-    "trans": [
-      null
-    ]
+    "trans": ["公共场所"]
   },
   {
     "name": "religious",
-    "trans": [
-      "adj. 宗教场所"
-    ]
+    "trans": ["宗教场所"]
   },
   {
     "name": "residential",
-    "trans": [
-      "adj. 住宅区"
-    ]
+    "trans": ["住宅区"]
   },
   {
     "name": "restaurant & bar",
-    "trans": [
-      null
-    ]
+    "trans": ["餐馆"]
   },
   {
     "name": "room tone",
-    "trans": [
-      null
-    ]
+    "trans": ["房间底噪"]
   },
   {
     "name": "rural",
-    "trans": [
-      "adj. 农村"
-    ]
+    "trans": ["农村"]
   },
   {
     "name": "school",
-    "trans": [
-      "n. 校园"
-    ]
+    "trans": ["校园"]
   },
   {
     "name": "scifi",
-    "trans": [
-      null
-    ]
+    "trans": ["科幻"]
   },
   {
     "name": "seaside",
-    "trans": [
-      "n. 海边"
-    ]
+    "trans": ["海边"]
   },
   {
     "name": "sport",
-    "trans": [
-      "n. 运动场"
-    ]
+    "trans": ["运动场"]
   },
   {
     "name": "suburban",
-    "trans": [
-      "adj. 郊区"
-    ]
+    "trans": ["郊区"]
   },
   {
     "name": "swamp",
-    "trans": [
-      "n. 沼泽地"
-    ]
+    "trans": ["沼泽地"]
   },
   {
     "name": "town",
-    "trans": [
-      "n. 小镇"
-    ]
+    "trans": ["小镇"]
   },
   {
     "name": "traffic",
-    "trans": [
-      "n. 交通"
-    ]
+    "trans": ["交通"]
   },
   {
     "name": "transportation",
-    "trans": [
-      "n. 交通工具"
-    ]
+    "trans": ["交通工具"]
   },
   {
     "name": "tropical",
-    "trans": [
-      "adj. 热带"
-    ]
+    "trans": ["热带"]
   },
   {
     "name": "tundra",
-    "trans": [
-      "n. 冻土"
-    ]
+    "trans": ["冻土"]
   },
   {
     "name": "underground",
-    "trans": [
-      "n. 地下"
-    ]
+    "trans": ["地下"]
   },
   {
     "name": "underwater",
-    "trans": [
-      "adj. 水下"
-    ]
+    "trans": ["水下"]
   },
   {
     "name": "urban",
-    "trans": [
-      "adj. 城市"
-    ]
+    "trans": ["城市"]
   },
   {
     "name": "warfare",
-    "trans": [
-      "n. 战争"
-    ]
+    "trans": ["战争"]
   },
   {
     "name": "amphibian",
-    "trans": [
-      "n. 两栖动物"
-    ]
+    "trans": ["两栖动物"]
   },
   {
     "name": "aquatic",
-    "trans": [
-      "adj. 水生动物"
-    ]
+    "trans": ["水生动物"]
   },
   {
     "name": "bat",
-    "trans": [
-      "n. 蝙蝠"
-    ]
+    "trans": ["蝙蝠"]
   },
   {
     "name": "cat domestic",
-    "trans": [
-      null
-    ]
+    "trans": ["家猫"]
   },
   {
     "name": "cat wild",
-    "trans": [
-      null
-    ]
+    "trans": ["猫科动物"]
   },
   {
     "name": "dog",
-    "trans": [
-      "n. 狗"
-    ]
+    "trans": ["狗"]
   },
   {
     "name": "dog wild",
-    "trans": [
-      null
-    ]
+    "trans": ["犬科动物"]
   },
   {
     "name": "horse",
-    "trans": [
-      "n. 马"
-    ]
+    "trans": ["马"]
   },
   {
     "name": "primate",
-    "trans": [
-      "n. 灵长类"
-    ]
+    "trans": ["灵长类"]
   },
   {
     "name": "reptile",
-    "trans": [
-      "n. 爬行动物"
-    ]
+    "trans": ["爬行动物"]
   },
   {
     "name": "rodent",
-    "trans": [
-      "n. 啮齿动物"
-    ]
+    "trans": ["啮齿动物"]
   },
   {
     "name": "wild",
-    "trans": [
-      "adj. 野生动物"
-    ]
+    "trans": ["野生动物"]
   },
   {
     "name": "adr",
-    "trans": [
-      null
-    ]
+    "trans": ["ADR"]
   },
   {
     "name": "asset",
-    "trans": [
-      "n. 资源"
-    ]
+    "trans": ["资源"]
   },
   {
     "name": "bounce",
-    "trans": [
-      "n. 导出"
-    ]
+    "trans": ["导出"]
   },
   {
     "name": "impulse response",
-    "trans": [
-      null
-    ]
+    "trans": ["卷积混响素材"]
   },
   {
     "name": "loop group",
-    "trans": [
-      null
-    ]
+    "trans": ["循环群组"]
   },
   {
     "name": "mix",
-    "trans": [
-      "v. 混音"
-    ]
+    "trans": ["混音"]
   },
   {
     "name": "pfx",
-    "trans": [
-      null
-    ]
+    "trans": ["现场音效"]
   },
   {
     "name": "production",
-    "trans": [
-      "n. 现场对白"
-    ]
+    "trans": ["现场对白"]
   },
   {
     "name": "raw",
-    "trans": [
-      "n. 原始素材"
-    ]
+    "trans": ["原始素材"]
   },
   {
     "name": "reference",
-    "trans": [
-      "n. 参考素材"
-    ]
+    "trans": ["参考素材"]
   },
   {
     "name": "scene",
-    "trans": [
-      "n. 场景素材"
-    ]
+    "trans": ["场景素材"]
   },
   {
     "name": "test tone",
-    "trans": [
-      null
-    ]
+    "trans": ["测试音"]
   },
   {
     "name": "trademarked",
-    "trans": [
-      null
-    ]
+    "trans": ["商标音"]
   },
   {
     "name": "work in progress",
-    "trans": [
-      null
-    ]
+    "trans": ["过程中素材"]
   },
   {
     "name": "wtf",
-    "trans": [
-      null
-    ]
+    "trans": ["未确认素材"]
   },
   {
     "name": "appliance",
-    "trans": [
-      "n. 电器"
-    ]
+    "trans": ["电器"]
   },
   {
     "name": "general",
-    "trans": [
-      "adj. 通用"
-    ]
+    "trans": ["通用"]
   },
   {
     "name": "lofi",
-    "trans": [
-      null
-    ]
+    "trans": ["低保真"]
   },
   {
     "name": "medical",
-    "trans": [
-      "adj. 医疗器械"
-    ]
+    "trans": ["医疗器械"]
   },
   {
     "name": "timer",
-    "trans": [
-      "n. 计时器"
-    ]
+    "trans": ["计时器"]
   },
   {
     "name": "vehicle",
-    "trans": [
-      "n. 车辆"
-    ]
+    "trans": ["车辆"]
   },
   {
     "name": "animal",
-    "trans": [
-      "n. 动物"
-    ]
+    "trans": ["动物"]
   },
   {
     "name": "doorbell",
-    "trans": [
-      "n. 门铃"
-    ]
+    "trans": ["门铃"]
   },
   {
     "name": "gong",
-    "trans": [
-      "n. 锣"
-    ]
+    "trans": ["锣"]
   },
   {
     "name": "handbell",
-    "trans": [
-      null
-    ]
+    "trans": ["手铃"]
   },
   {
     "name": "large",
-    "trans": [
-      "adj. 大钟"
-    ]
+    "trans": ["大钟"]
   },
   {
     "name": "bird of prey",
-    "trans": [
-      null
-    ]
+    "trans": ["猛禽"]
   },
   {
     "name": "crow",
-    "trans": [
-      "n. 乌鸦"
-    ]
+    "trans": ["乌鸦"]
   },
   {
     "name": "fowl",
-    "trans": [
-      "n. 家禽"
-    ]
+    "trans": ["家禽"]
   },
   {
     "name": "sea",
-    "trans": [
-      "n. 海鸟"
-    ]
+    "trans": ["海鸟"]
   },
   {
     "name": "songbird",
-    "trans": [
-      "n. 鸣鸟"
-    ]
+    "trans": ["鸣鸟"]
   },
   {
     "name": "tropical",
-    "trans": [
-      "adj. 热带"
-    ]
+    "trans": ["热带"]
   },
   {
     "name": "wading",
-    "trans": [
-      null
-    ]
+    "trans": ["水鸟"]
   },
   {
     "name": "air boat",
-    "trans": [
-      null
-    ]
+    "trans": ["汽艇"]
   },
   {
     "name": "bow wash",
-    "trans": [
-      null
-    ]
+    "trans": ["船浪"]
   },
   {
     "name": "electric",
-    "trans": [
-      "adj. 电动船"
-    ]
+    "trans": ["电动船"]
   },
   {
     "name": "fishing",
-    "trans": [
-      "n. 捕鱼"
-    ]
+    "trans": ["捕鱼"]
   },
   {
     "name": "horn",
-    "trans": [
-      "n. 船笛"
-    ]
+    "trans": ["船笛"]
   },
   {
     "name": "motorboat",
-    "trans": [
-      null
-    ]
+    "trans": ["摩托艇"]
   },
   {
     "name": "racing",
-    "trans": [
-      "n. 赛艇"
-    ]
+    "trans": ["赛艇"]
   },
   {
     "name": "rowboat",
-    "trans": [
-      null
-    ]
+    "trans": ["划艇"]
   },
   {
     "name": "sailboat",
-    "trans": [
-      "n. 帆船"
-    ]
+    "trans": ["帆船"]
   },
   {
     "name": "ship",
-    "trans": [
-      "n. 大船"
-    ]
+    "trans": ["大船"]
   },
   {
     "name": "steam",
-    "trans": [
-      "n. 蒸汽船"
-    ]
+    "trans": ["蒸汽船"]
   },
   {
     "name": "submarine",
-    "trans": [
-      "n. 潜艇"
-    ]
+    "trans": ["潜艇"]
   },
   {
     "name": "by",
-    "trans": [
-      "prep. 飞过"
-    ]
+    "trans": ["飞过"]
   },
   {
     "name": "impact",
-    "trans": [
-      "n. 击中"
-    ]
+    "trans": ["击中"]
   },
   {
     "name": "ricochet",
-    "trans": [
-      "n. 弹跳"
-    ]
+    "trans": ["弹跳"]
   },
   {
     "name": "shell",
-    "trans": [
-      "n. 弹壳"
-    ]
+    "trans": ["弹壳"]
   },
   {
     "name": "boing",
-    "trans": [
-      null
-    ]
+    "trans": ["弹簧音"]
   },
   {
     "name": "clang",
-    "trans": [
-      "n. 咣当"
-    ]
+    "trans": ["咣当"]
   },
   {
     "name": "creak",
-    "trans": [
-      "vi. 嘎吱"
-    ]
+    "trans": ["嘎吱"]
   },
   {
     "name": "horn",
-    "trans": [
-      "n. 号"
-    ]
+    "trans": ["号"]
   },
   {
     "name": "impact",
-    "trans": [
-      "n. 打击"
-    ]
+    "trans": ["打击"]
   },
   {
     "name": "machine",
-    "trans": [
-      "n. 机器"
-    ]
+    "trans": ["机器"]
   },
   {
     "name": "musical",
-    "trans": [
-      "adj. 音乐性"
-    ]
+    "trans": ["音乐性"]
   },
   {
     "name": "pluck",
-    "trans": [
-      "n. 弹拨"
-    ]
+    "trans": ["弹拨"]
   },
   {
     "name": "pop",
-    "trans": [
-      "n. 道具"
-    ]
+    "trans": ["道具"]
   },
   {
     "name": "shake",
-    "trans": [
-      "n. 摇晃"
-    ]
+    "trans": ["摇晃"]
   },
   {
     "name": "splat",
-    "trans": [
-      "n. 啪嗒"
-    ]
+    "trans": ["啪嗒"]
   },
   {
     "name": "squeak",
-    "trans": [
-      "vi. 摩擦"
-    ]
+    "trans": ["摩擦"]
   },
   {
     "name": "stretch",
-    "trans": [
-      "vt. 伸缩"
-    ]
+    "trans": ["伸缩"]
   },
   {
     "name": "swish",
-    "trans": [
-      "vt. 嗖嗖"
-    ]
+    "trans": ["嗖嗖"]
   },
   {
     "name": "twang",
-    "trans": [
-      null
-    ]
+    "trans": ["弹拨声"]
   },
   {
     "name": "vehicle",
-    "trans": [
-      "n. 载具"
-    ]
+    "trans": ["载具"]
   },
   {
     "name": "vocal",
-    "trans": [
-      "adj. 语音"
-    ]
+    "trans": ["语音"]
   },
   {
     "name": "warble",
-    "trans": [
-      "v. 颤音"
-    ]
+    "trans": ["颤音"]
   },
   {
     "name": "whistle",
-    "trans": [
-      "n. 哨子"
-    ]
+    "trans": ["哨子"]
   },
   {
     "name": "zip",
-    "trans": [
-      "n. 拉链"
-    ]
+    "trans": ["拉链"]
   },
   {
     "name": "break",
-    "trans": [
-      "vi. 打破"
-    ]
+    "trans": ["打破"]
   },
   {
     "name": "crash & debris",
-    "trans": [
-      null
-    ]
+    "trans": ["碎片"]
   },
   {
     "name": "friction",
-    "trans": [
-      "n. 挤压"
-    ]
+    "trans": ["挤压"]
   },
   {
     "name": "handle",
-    "trans": [
-      "n. 抓取"
-    ]
+    "trans": ["抓取"]
   },
   {
     "name": "movement",
-    "trans": [
-      "n. 移动"
-    ]
+    "trans": ["移动"]
   },
   {
     "name": "tonal",
-    "trans": [
-      "adj. 音乐性"
-    ]
+    "trans": ["音乐性"]
   },
   {
     "name": "break",
-    "trans": [
-      "vi. 断裂"
-    ]
+    "trans": ["断裂"]
   },
   {
     "name": "hitech",
-    "trans": [
-      null
-    ]
+    "trans": ["高科技"]
   },
   {
     "name": "acid",
-    "trans": [
-      "n. 腐蚀"
-    ]
+    "trans": ["腐蚀"]
   },
   {
     "name": "reaction",
-    "trans": [
-      "n. 反应"
-    ]
+    "trans": ["反应"]
   },
   {
     "name": "chime",
-    "trans": [
-      "n. 风铃"
-    ]
+    "trans": ["风铃"]
   },
   {
     "name": "mechanics",
-    "trans": [
-      "n. 机械"
-    ]
+    "trans": ["机械"]
   },
   {
     "name": "tick",
-    "trans": [
-      "n. 嘀嗒"
-    ]
+    "trans": ["嘀嗒"]
   },
   {
     "name": "flap",
-    "trans": [
-      "n. 抖动"
-    ]
+    "trans": ["抖动"]
   },
   {
     "name": "rip",
-    "trans": [
-      "n. 撕扯"
-    ]
+    "trans": ["撕扯"]
   },
   {
     "name": "audio visual",
-    "trans": [
-      null
-    ]
+    "trans": ["影视设备"]
   },
   {
     "name": "camera",
-    "trans": [
-      "n. 照相机"
-    ]
+    "trans": ["照相机"]
   },
   {
     "name": "cellphone",
-    "trans": [
-      "n. 手机"
-    ]
+    "trans": ["手机"]
   },
   {
     "name": "microphone",
-    "trans": [
-      "n. 麦克风"
-    ]
+    "trans": ["麦克风"]
   },
   {
     "name": "phonograph",
-    "trans": [
-      "n. 留声机"
-    ]
+    "trans": ["留声机"]
   },
   {
     "name": "radio",
-    "trans": [
-      "n. 收音机"
-    ]
+    "trans": ["收音机"]
   },
   {
     "name": "static",
-    "trans": [
-      "adj. 干扰"
-    ]
+    "trans": ["干扰"]
   },
   {
     "name": "telemetry",
-    "trans": [
-      "n. 无线电"
-    ]
+    "trans": ["无线电"]
   },
   {
     "name": "telephone",
-    "trans": [
-      "n. 电话"
-    ]
+    "trans": ["电话"]
   },
   {
     "name": "television",
-    "trans": [
-      "n. 电视机"
-    ]
+    "trans": ["电视机"]
   },
   {
     "name": "transceiver",
-    "trans": [
-      null
-    ]
+    "trans": ["信号收发机"]
   },
   {
     "name": "typewriter",
-    "trans": [
-      "n. 打字机"
-    ]
+    "trans": ["打字机"]
   },
   {
     "name": "hard drive",
-    "trans": [
-      null
-    ]
+    "trans": ["硬盘"]
   },
   {
     "name": "keyboard & mouse",
-    "trans": [
-      null
-    ]
+    "trans": ["键鼠"]
   },
   {
     "name": "aquatic",
-    "trans": [
-      "adj. 水生"
-    ]
+    "trans": ["水生"]
   },
   {
     "name": "avian",
-    "trans": [
-      "adj. 奇幻禽类"
-    ]
+    "trans": ["奇幻禽类"]
   },
   {
     "name": "beast",
-    "trans": [
-      "n. 野兽"
-    ]
+    "trans": ["野兽"]
   },
   {
     "name": "blob",
-    "trans": [
-      "n. 黏体生物"
-    ]
+    "trans": ["黏体生物"]
   },
   {
     "name": "dinosaur",
-    "trans": [
-      "n. 恐龙"
-    ]
+    "trans": ["恐龙"]
   },
   {
     "name": "dragon",
-    "trans": [
-      "n. 龙"
-    ]
+    "trans": ["龙"]
   },
   {
     "name": "elemental",
-    "trans": [
-      "adj. 精灵生物"
-    ]
+    "trans": ["精灵生物"]
   },
   {
     "name": "ethereal",
-    "trans": [
-      "adj. 鬼魂"
-    ]
+    "trans": ["鬼魂"]
   },
   {
     "name": "humanoid",
-    "trans": [
-      "adj. 类人动物"
-    ]
+    "trans": ["类人动物"]
   },
   {
     "name": "insectoid",
-    "trans": [
-      null
-    ]
+    "trans": ["巨型昆虫"]
   },
   {
     "name": "monster",
-    "trans": [
-      "n. 怪兽"
-    ]
+    "trans": ["怪兽"]
   },
   {
     "name": "reptilian",
-    "trans": [
-      "adj. 巨型爬行生物"
-    ]
+    "trans": ["巨型爬行生物"]
   },
   {
     "name": "small",
-    "trans": [
-      "adj. 小型神话生物"
-    ]
+    "trans": ["小型神话生物"]
   },
   {
     "name": "source",
-    "trans": [
-      "n. 人声包"
-    ]
+    "trans": ["人声包"]
   },
   {
     "name": "angry",
-    "trans": [
-      "adj. 愤怒"
-    ]
+    "trans": ["愤怒"]
   },
   {
     "name": "applause",
-    "trans": [
-      "n. 喝彩"
-    ]
+    "trans": ["喝彩"]
   },
   {
     "name": "battle",
-    "trans": [
-      "n. 打斗"
-    ]
+    "trans": ["打斗"]
   },
   {
     "name": "celebration",
-    "trans": [
-      "n. 庆祝"
-    ]
+    "trans": ["庆祝"]
   },
   {
     "name": "cheering",
-    "trans": [
-      null
-    ]
+    "trans": ["欢呼"]
   },
   {
     "name": "children",
-    "trans": [
-      "n. 儿童"
-    ]
+    "trans": ["儿童"]
   },
   {
     "name": "conversation",
-    "trans": [
-      "n. 谈话"
-    ]
+    "trans": ["谈话"]
   },
   {
     "name": "laughter",
-    "trans": [
-      "n. 笑"
-    ]
+    "trans": ["笑"]
   },
   {
     "name": "loop group",
-    "trans": [
-      null
-    ]
+    "trans": ["循环群杂"]
   },
   {
     "name": "panic",
-    "trans": [
-      "n. 恐惧"
-    ]
+    "trans": ["恐惧"]
   },
   {
     "name": "quiet",
-    "trans": [
-      "adj. 安静"
-    ]
+    "trans": ["安静"]
   },
   {
     "name": "reaction",
-    "trans": [
-      "n. 反应"
-    ]
+    "trans": ["反应"]
   },
   {
     "name": "singing",
-    "trans": [
-      "n. 歌唱"
-    ]
+    "trans": ["歌唱"]
   },
   {
     "name": "walla",
-    "trans": [
-      null
-    ]
+    "trans": ["群杂"]
   },
   {
     "name": "bass dive",
-    "trans": [
-      null
-    ]
+    "trans": ["低频下潜"]
   },
   {
     "name": "boom",
-    "trans": [
-      "n. 低频轰鸣"
-    ]
+    "trans": ["低频轰鸣"]
   },
   {
     "name": "braam",
-    "trans": [
-      null
-    ]
+    "trans": ["低频号角"]
   },
   {
     "name": "distortion",
-    "trans": [
-      "n. 失真"
-    ]
+    "trans": ["失真"]
   },
   {
     "name": "drone",
-    "trans": [
-      "n. 低音氛围"
-    ]
+    "trans": ["低音氛围"]
   },
   {
     "name": "eerie",
-    "trans": [
-      "adj. 毛骨悚然"
-    ]
+    "trans": ["毛骨悚然"]
   },
   {
     "name": "ethereal",
-    "trans": [
-      "adj. 鬼魅飘渺"
-    ]
+    "trans": ["鬼魅飘渺"]
   },
   {
     "name": "granular",
-    "trans": [
-      "adj. 粒状"
-    ]
+    "trans": ["粒状"]
   },
   {
     "name": "morph",
-    "trans": [
-      "n. 合成器"
-    ]
+    "trans": ["合成器"]
   },
   {
     "name": "riser",
-    "trans": [
-      "n. 渐强"
-    ]
+    "trans": ["渐强"]
   },
   {
     "name": "rumble",
-    "trans": [
-      "vt. 次声波"
-    ]
+    "trans": ["次声波"]
   },
   {
     "name": "rhythmic",
-    "trans": [
-      "adj. 节奏性"
-    ]
+    "trans": ["节奏性"]
   },
   {
     "name": "stinger",
-    "trans": [
-      "n. 重音强调"
-    ]
+    "trans": ["重音强调"]
   },
   {
     "name": "synthetic",
-    "trans": [
-      "adj. 电子合成"
-    ]
+    "trans": ["电子合成"]
   },
   {
     "name": "vocal",
-    "trans": [
-      "adj. 人声"
-    ]
+    "trans": ["人声"]
   },
   {
     "name": "whoosh",
-    "trans": [
-      "vi. 呼声"
-    ]
+    "trans": ["呼声"]
   },
   {
     "name": "collapse",
-    "trans": [
-      "n. 倒塌"
-    ]
+    "trans": ["倒塌"]
   },
   {
     "name": "dust",
-    "trans": [
-      "n. 灰尘"
-    ]
+    "trans": ["灰尘"]
   },
   {
     "name": "antique",
-    "trans": [
-      "n. 古董"
-    ]
+    "trans": ["古董"]
   },
   {
     "name": "cabinet",
-    "trans": [
-      "n. 箱柜"
-    ]
+    "trans": ["箱柜"]
   },
   {
     "name": "composite",
-    "trans": [
-      "adj. 特殊材料"
-    ]
+    "trans": ["特殊材料"]
   },
   {
     "name": "dungeon",
-    "trans": [
-      "n. 传统大门"
-    ]
+    "trans": ["传统大门"]
   },
   {
     "name": "gate",
-    "trans": [
-      "n. 大门"
-    ]
+    "trans": ["大门"]
   },
   {
     "name": "glass",
-    "trans": [
-      "n. 玻璃门"
-    ]
+    "trans": ["玻璃门"]
   },
   {
     "name": "hardware",
-    "trans": [
-      "n. 锁具"
-    ]
+    "trans": ["锁具"]
   },
   {
     "name": "hydraulic & pneumatic",
-    "trans": [
-      null
-    ]
+    "trans": ["液压与气动"]
   },
   {
     "name": "knock",
-    "trans": [
-      "vi. 敲门"
-    ]
+    "trans": ["敲门"]
   },
   {
     "name": "metal",
-    "trans": [
-      "n. 金属门"
-    ]
+    "trans": ["金属门"]
   },
   {
     "name": "plastic",
-    "trans": [
-      "n. 塑料门"
-    ]
+    "trans": ["塑料门"]
   },
   {
     "name": "prison",
-    "trans": [
-      "n. 牢门"
-    ]
+    "trans": ["牢门"]
   },
   {
     "name": "revolving",
-    "trans": [
-      "adj. 旋转门"
-    ]
+    "trans": ["旋转门"]
   },
   {
     "name": "sliding",
-    "trans": [
-      "adj. 滑动门"
-    ]
+    "trans": ["滑动门"]
   },
   {
     "name": "stone",
-    "trans": [
-      "n. 石门"
-    ]
+    "trans": ["石门"]
   },
   {
     "name": "swinging",
-    "trans": [
-      "adj. 双开门"
-    ]
+    "trans": ["双开门"]
   },
   {
     "name": "wood",
-    "trans": [
-      "n. 木门"
-    ]
+    "trans": ["木门"]
   },
   {
     "name": "arc",
-    "trans": [
-      "n. 电弧"
-    ]
+    "trans": ["电弧"]
   },
   {
     "name": "buzz & hum",
-    "trans": [
-      null
-    ]
+    "trans": ["电流噪声"]
   },
   {
     "name": "electromagnetic",
-    "trans": [
-      "adj. 电磁"
-    ]
+    "trans": ["电磁"]
   },
   {
     "name": "sparks",
-    "trans": [
-      null
-    ]
+    "trans": ["电火花"]
   },
   {
     "name": "zap",
-    "trans": [
-      "vt. 漏电"
-    ]
+    "trans": ["漏电"]
   },
   {
     "name": "bridle & tack",
-    "trans": [
-      null
-    ]
+    "trans": ["挽具"]
   },
   {
     "name": "recreational",
-    "trans": [
-      "adj. 户外装备"
-    ]
+    "trans": ["户外装备"]
   },
   {
     "name": "tactical",
-    "trans": [
-      "adj. 军事装备"
-    ]
+    "trans": ["军事装备"]
   },
   {
     "name": "real",
-    "trans": [
-      "adj. 真实"
-    ]
+    "trans": ["真实"]
   },
   {
     "name": "bodyfall",
-    "trans": [
-      null
-    ]
+    "trans": ["跌倒"]
   },
   {
     "name": "cloth",
-    "trans": [
-      "n. 衣服"
-    ]
+    "trans": ["衣服"]
   },
   {
     "name": "grab",
-    "trans": [
-      "vt. 抓握"
-    ]
+    "trans": ["抓握"]
   },
   {
     "name": "burning",
-    "trans": [
-      "adj. 燃烧"
-    ]
+    "trans": ["燃烧"]
   },
   {
     "name": "crackle",
-    "trans": [
-      "vi. 爆裂"
-    ]
+    "trans": ["爆裂"]
   },
   {
     "name": "gas",
-    "trans": [
-      "n. 气体"
-    ]
+    "trans": ["气体"]
   },
   {
     "name": "ignite",
-    "trans": [
-      "vt. 点火"
-    ]
+    "trans": ["点火"]
   },
   {
     "name": "sizzle",
-    "trans": [
-      "vi. 滋滋声"
-    ]
+    "trans": ["滋滋声"]
   },
   {
     "name": "torch",
-    "trans": [
-      "n. 火炬"
-    ]
+    "trans": ["火炬"]
   },
   {
     "name": "turbulent",
-    "trans": [
-      "adj. 汹涌火势"
-    ]
+    "trans": ["汹涌火势"]
   },
   {
     "name": "commercial",
-    "trans": [
-      "adj. 商业表演"
-    ]
+    "trans": ["商业表演"]
   },
   {
     "name": "recreational",
-    "trans": [
-      "adj. 自娱"
-    ]
+    "trans": ["自娱"]
   },
   {
     "name": "feet",
-    "trans": [
-      "n. 脚步"
-    ]
+    "trans": ["脚步"]
   },
   {
     "name": "hands",
-    "trans": [
-      "n. 手"
-    ]
+    "trans": ["手"]
   },
   {
     "name": "prop",
-    "trans": [
-      "n. 道具"
-    ]
+    "trans": ["道具"]
   },
   {
     "name": "cooking",
-    "trans": [
-      "n. 烹饪"
-    ]
+    "trans": ["烹饪"]
   },
   {
     "name": "drinking",
-    "trans": [
-      "n. 喝"
-    ]
+    "trans": ["喝"]
   },
   {
     "name": "eating",
-    "trans": [
-      "n. 吃东西"
-    ]
+    "trans": ["吃东西"]
   },
   {
     "name": "glassware",
-    "trans": [
-      "n. 玻璃器皿"
-    ]
+    "trans": ["玻璃器皿"]
   },
   {
     "name": "ingredients",
-    "trans": [
-      "n. 食材"
-    ]
+    "trans": ["食材"]
   },
   {
     "name": "kitchenware",
-    "trans": [
-      "n. 厨具"
-    ]
+    "trans": ["厨具"]
   },
   {
     "name": "pour",
-    "trans": [
-      "vt. 泼洒"
-    ]
+    "trans": ["泼洒"]
   },
   {
     "name": "tableware",
-    "trans": [
-      null
-    ]
+    "trans": ["餐具"]
   },
   {
     "name": "creature",
-    "trans": [
-      "n. 怪物"
-    ]
+    "trans": ["怪物"]
   },
   {
     "name": "human",
-    "trans": [
-      "adj. 人类"
-    ]
+    "trans": ["人类"]
   },
   {
     "name": "arcade",
-    "trans": [
-      "n. 街机游戏"
-    ]
+    "trans": ["街机游戏"]
   },
   {
     "name": "board",
-    "trans": [
-      "n. 桌游"
-    ]
+    "trans": ["桌游"]
   },
   {
     "name": "casino",
-    "trans": [
-      "n. 赌场"
-    ]
+    "trans": ["赌场"]
   },
   {
     "name": "video",
-    "trans": [
-      "n. 单机"
-    ]
+    "trans": ["单机"]
   },
   {
     "name": "fumarole",
-    "trans": [
-      null
-    ]
+    "trans": ["热浆"]
   },
   {
     "name": "geyser",
-    "trans": [
-      "n. 间歇泉"
-    ]
+    "trans": ["间歇泉"]
   },
   {
     "name": "lava",
-    "trans": [
-      "n. 岩浆"
-    ]
+    "trans": ["岩浆"]
   },
   {
     "name": "mud pots",
-    "trans": [
-      null
-    ]
+    "trans": ["泥浆"]
   },
   {
     "name": "blood",
-    "trans": [
-      "n. 血流"
-    ]
+    "trans": ["血流"]
   },
   {
     "name": "bone",
-    "trans": [
-      "n. 骨头"
-    ]
+    "trans": ["骨头"]
   },
   {
     "name": "burn",
-    "trans": [
-      "n. 燃烧"
-    ]
+    "trans": ["燃烧"]
   },
   {
     "name": "flesh",
-    "trans": [
-      "n. 血肉"
-    ]
+    "trans": ["血肉"]
   },
   {
     "name": "ooze",
-    "trans": [
-      "vt. 渗血"
-    ]
+    "trans": ["渗血"]
   },
   {
     "name": "splat",
-    "trans": [
-      "n. 洒溅"
-    ]
+    "trans": ["洒溅"]
   },
   {
     "name": "squish",
-    "trans": [
-      "v. 血浆"
-    ]
+    "trans": ["血浆"]
   },
   {
     "name": "stab",
-    "trans": [
-      "n. 捅"
-    ]
+    "trans": ["捅"]
   },
   {
     "name": "antique",
-    "trans": [
-      "n. 古董枪"
-    ]
+    "trans": ["古董枪"]
   },
   {
     "name": "artillery",
-    "trans": [
-      "n. 火炮"
-    ]
+    "trans": ["火炮"]
   },
   {
     "name": "automatic",
-    "trans": [
-      "adj. 自动化武器"
-    ]
+    "trans": ["自动化武器"]
   },
   {
     "name": "cannon",
-    "trans": [
-      "n. 加农炮"
-    ]
+    "trans": ["加农炮"]
   },
   {
     "name": "handle",
-    "trans": [
-      "n. 操作"
-    ]
+    "trans": ["操作"]
   },
   {
     "name": "mechanism",
-    "trans": [
-      "n. 机枪"
-    ]
+    "trans": ["机枪"]
   },
   {
     "name": "pistol",
-    "trans": [
-      "n. 手枪"
-    ]
+    "trans": ["手枪"]
   },
   {
     "name": "rifle",
-    "trans": [
-      "n. 步枪"
-    ]
+    "trans": ["步枪"]
   },
   {
     "name": "shotgun",
-    "trans": [
-      "n. 霰弹枪"
-    ]
+    "trans": ["霰弹枪"]
   },
   {
     "name": "suppressed",
-    "trans": [
-      null
-    ]
+    "trans": ["消音枪"]
   },
   {
     "name": "air powered",
-    "trans": [
-      null
-    ]
+    "trans": ["气压式"]
   },
   {
     "name": "traditional",
-    "trans": [
-      "adj. 传统"
-    ]
+    "trans": ["传统"]
   },
   {
     "name": "breath",
-    "trans": [
-      "n. 呼吸"
-    ]
+    "trans": ["呼吸"]
   },
   {
     "name": "burp",
-    "trans": [
-      "n. 打嗝"
-    ]
+    "trans": ["打嗝"]
   },
   {
     "name": "cough",
-    "trans": [
-      "n. 咳嗽"
-    ]
+    "trans": ["咳嗽"]
   },
   {
     "name": "heartbeat",
-    "trans": [
-      "n. 心跳"
-    ]
+    "trans": ["心跳"]
   },
   {
     "name": "kiss",
-    "trans": [
-      "n. 接吻"
-    ]
+    "trans": ["接吻"]
   },
   {
     "name": "pee",
-    "trans": [
-      "vi. 尿"
-    ]
+    "trans": ["尿"]
   },
   {
     "name": "skin",
-    "trans": [
-      "n. 皮肤"
-    ]
+    "trans": ["皮肤"]
   },
   {
     "name": "sneeze",
-    "trans": [
-      "vi. 打喷嚏"
-    ]
+    "trans": ["打喷嚏"]
   },
   {
     "name": "sniff",
-    "trans": [
-      "vi. 闻"
-    ]
+    "trans": ["闻"]
   },
   {
     "name": "snore",
-    "trans": [
-      "v. 打鼾"
-    ]
+    "trans": ["打鼾"]
   },
   {
     "name": "spit",
-    "trans": [
-      "n. 吐"
-    ]
+    "trans": ["吐"]
   },
   {
     "name": "vomit",
-    "trans": [
-      "n. 呕吐"
-    ]
+    "trans": ["呕吐"]
   },
   {
     "name": "beam",
-    "trans": [
-      "n. 光束"
-    ]
+    "trans": ["光束"]
   },
   {
     "name": "gun",
-    "trans": [
-      "n. 武器"
-    ]
+    "trans": ["武器"]
   },
   {
     "name": "bubbles",
-    "trans": [
-      null
-    ]
+    "trans": ["气泡"]
   },
   {
     "name": "suction",
-    "trans": [
-      "n. 抽吸"
-    ]
+    "trans": ["抽吸"]
   },
   {
     "name": "elevator",
-    "trans": [
-      "n. 电梯"
-    ]
+    "trans": ["电梯"]
   },
   {
     "name": "escalator",
-    "trans": [
-      "n. 自动扶梯"
-    ]
+    "trans": ["自动扶梯"]
   },
   {
     "name": "fan",
-    "trans": [
-      "n. 风扇"
-    ]
+    "trans": ["风扇"]
   },
   {
     "name": "garden",
-    "trans": [
-      "n. 花园"
-    ]
+    "trans": ["花园"]
   },
   {
     "name": "gym",
-    "trans": [
-      "n. 健身房"
-    ]
+    "trans": ["健身房"]
   },
   {
     "name": "hvac",
-    "trans": [
-      null
-    ]
+    "trans": ["空调"]
   },
   {
     "name": "pump",
-    "trans": [
-      "n. 泵"
-    ]
+    "trans": ["泵"]
   },
   {
     "name": "angelic",
-    "trans": [
-      "adj. 天使"
-    ]
+    "trans": ["天使"]
   },
   {
     "name": "elemental",
-    "trans": [
-      "adj. 元素"
-    ]
+    "trans": ["元素"]
   },
   {
     "name": "evil",
-    "trans": [
-      "n. 邪恶"
-    ]
+    "trans": ["邪恶"]
   },
   {
     "name": "poof",
-    "trans": [
-      null
-    ]
+    "trans": ["嘭"]
   },
   {
     "name": "shimmer",
-    "trans": [
-      "n. 闪耀"
-    ]
+    "trans": ["闪耀"]
   },
   {
     "name": "spell",
-    "trans": [
-      "vt. 咒语"
-    ]
+    "trans": ["咒语"]
   },
   {
     "name": "click",
-    "trans": [
-      "n. 咔哒"
-    ]
+    "trans": ["咔哒"]
   },
   {
     "name": "gears",
-    "trans": [
-      null
-    ]
+    "trans": ["齿轮"]
   },
   {
     "name": "latch",
-    "trans": [
-      "n. 插销"
-    ]
+    "trans": ["插销"]
   },
   {
     "name": "lever",
-    "trans": [
-      "n. 操纵杆"
-    ]
+    "trans": ["操纵杆"]
   },
   {
     "name": "lock",
-    "trans": [
-      "n. 锁"
-    ]
+    "trans": ["锁"]
   },
   {
     "name": "pulley",
-    "trans": [
-      "n. 滑轮"
-    ]
+    "trans": ["滑轮"]
   },
   {
     "name": "ratchet",
-    "trans": [
-      "n. 棘轮"
-    ]
+    "trans": ["棘轮"]
   },
   {
     "name": "relay",
-    "trans": [
-      "n. 传动"
-    ]
+    "trans": ["传动"]
   },
   {
     "name": "roller",
-    "trans": [
-      "n. 滚筒"
-    ]
+    "trans": ["滚筒"]
   },
   {
     "name": "switch",
-    "trans": [
-      "n. 开关"
-    ]
+    "trans": ["开关"]
   },
   {
     "name": "combustion",
-    "trans": [
-      "n. 内燃机"
-    ]
+    "trans": ["内燃机"]
   },
   {
     "name": "servo",
-    "trans": [
-      null
-    ]
+    "trans": ["伺服电机"]
   },
   {
     "name": "turbine",
-    "trans": [
-      "n. 涡轮"
-    ]
+    "trans": ["涡轮"]
   },
   {
     "name": "activity",
-    "trans": [
-      "n. 活动"
-    ]
+    "trans": ["活动"]
   },
   {
     "name": "presence",
-    "trans": [
-      "n. 状态"
-    ]
+    "trans": ["状态"]
   },
   {
     "name": "bells",
-    "trans": [
-      null
-    ]
+    "trans": ["钟铃"]
   },
   {
     "name": "brass",
-    "trans": [
-      "n. 铜管"
-    ]
+    "trans": ["铜管"]
   },
   {
     "name": "chime",
-    "trans": [
-      "n. 排铃"
-    ]
+    "trans": ["排铃"]
   },
   {
     "name": "choral",
-    "trans": [
-      "adj. 合唱"
-    ]
+    "trans": ["合唱"]
   },
   {
     "name": "experimental",
-    "trans": [
-      "adj. 实验"
-    ]
+    "trans": ["实验"]
   },
   {
     "name": "instrument",
-    "trans": [
-      "n. 器乐"
-    ]
+    "trans": ["器乐"]
   },
   {
     "name": "keyed",
-    "trans": [
-      "v. 键控"
-    ]
+    "trans": ["键控"]
   },
   {
     "name": "loop",
-    "trans": [
-      "n. 循环"
-    ]
+    "trans": ["循环"]
   },
   {
     "name": "percussion",
-    "trans": [
-      "n. 打击"
-    ]
+    "trans": ["打击"]
   },
   {
     "name": "percussion tuned",
-    "trans": [
-      null
-    ]
+    "trans": ["打击乐"]
   },
   {
     "name": "performance",
-    "trans": [
-      "n. 表演"
-    ]
+    "trans": ["表演"]
   },
   {
     "name": "plucked",
-    "trans": [
-      null
-    ]
+    "trans": ["拨弦乐"]
   },
   {
     "name": "sample",
-    "trans": [
-      "n. 采样"
-    ]
+    "trans": ["采样"]
   },
   {
     "name": "shaken",
-    "trans": [
-      null
-    ]
+    "trans": ["摇动"]
   },
   {
     "name": "song & phrase",
-    "trans": [
-      null
-    ]
+    "trans": ["乐句"]
   },
   {
     "name": "stinger",
-    "trans": [
-      "n. 重击音"
-    ]
+    "trans": ["重击音"]
   },
   {
     "name": "stringed",
-    "trans": [
-      null
-    ]
+    "trans": ["弦乐"]
   },
   {
     "name": "synthesized",
-    "trans": [
-      null
-    ]
+    "trans": ["合成器"]
   },
   {
     "name": "toy",
-    "trans": [
-      "n. 玩具"
-    ]
+    "trans": ["玩具"]
   },
   {
     "name": "woodwind",
-    "trans": [
-      null
-    ]
+    "trans": ["木管"]
   },
   {
     "name": "avalanche",
-    "trans": [
-      "n. 雪崩"
-    ]
+    "trans": ["雪崩"]
   },
   {
     "name": "earthquake",
-    "trans": [
-      "n. 地震"
-    ]
+    "trans": ["地震"]
   },
   {
     "name": "tornado",
-    "trans": [
-      "n. 龙卷风"
-    ]
+    "trans": ["龙卷风"]
   },
   {
     "name": "tsunami",
-    "trans": [
-      "n. 热带风暴"
-    ]
+    "trans": ["热带风暴"]
   },
   {
     "name": "typhoon",
-    "trans": [
-      "n. 台风"
-    ]
+    "trans": ["台风"]
   },
   {
     "name": "volcano",
-    "trans": [
-      "n. 火山喷发"
-    ]
+    "trans": ["火山喷发"]
   },
   {
     "name": "bag",
-    "trans": [
-      "n. 袋子"
-    ]
+    "trans": ["袋子"]
   },
   {
     "name": "book",
-    "trans": [
-      "n. 书籍"
-    ]
+    "trans": ["书籍"]
   },
   {
     "name": "coin",
-    "trans": [
-      "n. 硬币"
-    ]
+    "trans": ["硬币"]
   },
   {
     "name": "container",
-    "trans": [
-      "n. 箱盒"
-    ]
+    "trans": ["箱盒"]
   },
   {
     "name": "fashion",
-    "trans": [
-      "n. 花园"
-    ]
+    "trans": ["花园"]
   },
   {
     "name": "furniture",
-    "trans": [
-      "n. 健身房"
-    ]
+    "trans": ["健身房"]
   },
   {
     "name": "household",
-    "trans": [
-      "n. 家用品"
-    ]
+    "trans": ["家用品"]
   },
   {
     "name": "jewelry",
-    "trans": [
-      "n. 珠宝首饰"
-    ]
+    "trans": ["珠宝首饰"]
   },
   {
     "name": "keys",
-    "trans": [
-      null
-    ]
+    "trans": ["钥匙"]
   },
   {
     "name": "luggage",
-    "trans": [
-      "n. 行李"
-    ]
+    "trans": ["行李"]
   },
   {
     "name": "packaging",
-    "trans": [
-      "n. 包装品"
-    ]
+    "trans": ["包装品"]
   },
   {
     "name": "tape",
-    "trans": [
-      "n. 胶带制品"
-    ]
+    "trans": ["胶带制品"]
   },
   {
     "name": "umbrella",
-    "trans": [
-      "n. 伞"
-    ]
+    "trans": ["伞"]
   },
   {
     "name": "wheeled",
-    "trans": [
-      null
-    ]
+    "trans": ["有轮制品"]
   },
   {
     "name": "writing",
-    "trans": [
-      "n. 书写用品"
-    ]
+    "trans": ["书写用品"]
   },
   {
     "name": "zipper",
-    "trans": [
-      "n. 拉链"
-    ]
+    "trans": ["拉链"]
   },
   {
     "name": "flutter",
-    "trans": [
-      "v. 抖动"
-    ]
+    "trans": ["抖动"]
   },
   {
     "name": "friction",
-    "trans": [
-      "n. 碰撞"
-    ]
+    "trans": ["碰撞"]
   },
   {
     "name": "handle",
-    "trans": [
-      "n. 手持噪音"
-    ]
+    "trans": ["手持噪音"]
   },
   {
     "name": "impact",
-    "trans": [
-      "n. 摩擦"
-    ]
+    "trans": ["摩擦"]
   },
   {
     "name": "concrete",
-    "trans": [
-      "n. 水泥"
-    ]
+    "trans": ["水泥"]
   },
   {
     "name": "general",
-    "trans": [
-      "adj. 通用"
-    ]
+    "trans": ["通用"]
   },
   {
     "name": "vegetation",
-    "trans": [
-      "n. 植物"
-    ]
+    "trans": ["植物"]
   },
   {
     "name": "water",
-    "trans": [
-      "n. 水"
-    ]
+    "trans": ["水"]
   },
   {
     "name": "alien",
-    "trans": [
-      "adj. 外星人"
-    ]
+    "trans": ["外星人"]
   },
   {
     "name": "baby",
-    "trans": [
-      "n. 婴儿"
-    ]
+    "trans": ["婴儿"]
   },
   {
     "name": "cheer",
-    "trans": [
-      "n. 欢呼"
-    ]
+    "trans": ["欢呼"]
   },
   {
     "name": "child",
-    "trans": [
-      "n. 儿童"
-    ]
+    "trans": ["儿童"]
   },
   {
     "name": "crying",
-    "trans": [
-      "adj. 哭泣"
-    ]
+    "trans": ["哭泣"]
   },
   {
     "name": "efforts",
-    "trans": [
-      null
-    ]
+    "trans": ["呼喝"]
   },
   {
     "name": "female",
-    "trans": [
-      "n. 女性"
-    ]
+    "trans": ["女性"]
   },
   {
     "name": "futzed",
-    "trans": [
-      null
-    ]
+    "trans": ["音响化"]
   },
   {
     "name": "historical",
-    "trans": [
-      "adj. 历史感"
-    ]
+    "trans": ["历史感"]
   },
   {
     "name": "laugh",
-    "trans": [
-      "v. 笑"
-    ]
+    "trans": ["笑"]
   },
   {
     "name": "male",
-    "trans": [
-      "adj. 男性"
-    ]
+    "trans": ["男性"]
   },
   {
     "name": "scream",
-    "trans": [
-      "n. 尖叫"
-    ]
+    "trans": ["尖叫"]
   },
   {
     "name": "whisper",
-    "trans": [
-      "n. 窃语"
-    ]
+    "trans": ["窃语"]
   },
   {
     "name": "drain",
-    "trans": [
-      "n. 排水"
-    ]
+    "trans": ["排水"]
   },
   {
     "name": "drip",
-    "trans": [
-      "n. 滴"
-    ]
+    "trans": ["滴"]
   },
   {
     "name": "fizz",
-    "trans": [
-      "v. 气泡"
-    ]
+    "trans": ["气泡"]
   },
   {
     "name": "flow",
-    "trans": [
-      "n. 水流"
-    ]
+    "trans": ["水流"]
   },
   {
     "name": "fountain",
-    "trans": [
-      "n. 喷泉"
-    ]
+    "trans": ["喷泉"]
   },
   {
     "name": "lap",
-    "trans": [
-      "n. 拍浪"
-    ]
+    "trans": ["拍浪"]
   },
   {
     "name": "plumbing",
-    "trans": [
-      "n. 水管道"
-    ]
+    "trans": ["水管道"]
   },
   {
     "name": "spray",
-    "trans": [
-      "n. 水花"
-    ]
+    "trans": ["水花"]
   },
   {
     "name": "steam",
-    "trans": [
-      "n. 蒸汽"
-    ]
+    "trans": ["蒸汽"]
   },
   {
     "name": "surf",
-    "trans": [
-      "vi. 浪花拍岸"
-    ]
+    "trans": ["浪花拍岸"]
   },
   {
     "name": "waterfall",
-    "trans": [
-      "n. 瀑布"
-    ]
+    "trans": ["瀑布"]
   },
   {
     "name": "wave",
-    "trans": [
-      "n. 波浪"
-    ]
+    "trans": ["波浪"]
   },
   {
     "name": "armor",
-    "trans": [
-      "n. 护甲"
-    ]
+    "trans": ["护甲"]
   },
   {
     "name": "arrow",
-    "trans": [
-      "n. 箭"
-    ]
+    "trans": ["箭"]
   },
   {
     "name": "axe",
-    "trans": [
-      "n. 斧"
-    ]
+    "trans": ["斧"]
   },
   {
     "name": "blunt",
-    "trans": [
-      "adj. 钝器"
-    ]
+    "trans": ["钝器"]
   },
   {
     "name": "bow",
-    "trans": [
-      "n. 弓"
-    ]
+    "trans": ["弓"]
   },
   {
     "name": "knife",
-    "trans": [
-      "n. 刀"
-    ]
+    "trans": ["刀"]
   },
   {
     "name": "polearm",
-    "trans": [
-      null
-    ]
+    "trans": ["矛"]
   },
   {
     "name": "siege",
-    "trans": [
-      "n. 投石机"
-    ]
+    "trans": ["投石机"]
   },
   {
     "name": "sword",
-    "trans": [
-      "n. 剑"
-    ]
+    "trans": ["剑"]
   },
   {
     "name": "whip",
-    "trans": [
-      "n. 鞭"
-    ]
+    "trans": ["鞭"]
   },
   {
     "name": "hail",
-    "trans": [
-      "n. 冰雹"
-    ]
+    "trans": ["冰雹"]
   },
   {
     "name": "storm",
-    "trans": [
-      "n. 风暴"
-    ]
+    "trans": ["风暴"]
   },
   {
     "name": "thunder",
-    "trans": [
-      "n. 雷"
-    ]
+    "trans": ["雷"]
   },
   {
     "name": "gust",
-    "trans": [
-      "n. 阵风"
-    ]
+    "trans": ["阵风"]
   },
   {
     "name": "covering",
-    "trans": [
-      "adj. 遮挡物"
-    ]
+    "trans": ["遮挡物"]
   },
   {
     "name": "hardware",
-    "trans": [
-      "n. 窗具"
-    ]
+    "trans": ["窗具"]
   },
   {
     "name": "knock",
-    "trans": [
-      "vi. 敲窗"
-    ]
+    "trans": ["敲窗"]
   }
 ]

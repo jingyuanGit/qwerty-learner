@@ -2,73 +2,73 @@
   {
     "name": "alter table",
     "trans": [
-      null
+      "alter table 用来更新现存表的模式。可以用 create table 来创建一个新表。"
     ]
   },
   {
     "name": "commit",
     "trans": [
-      "vt. commit 用来将事务写入数据库。"
+      "commit 用来将事务写入数据库。"
     ]
   },
   {
     "name": "create index",
     "trans": [
-      null
+      "create index 用来为一列或多列创建索引。"
     ]
   },
   {
     "name": "create table",
     "trans": [
-      null
+      "create table 用来创建新的数据库表。可以用 alter table 来更新一个现存表的模式。"
     ]
   },
   {
     "name": "create view",
     "trans": [
-      null
+      "create view 用来创建一个或多个表的视图。"
     ]
   },
   {
     "name": "delete",
     "trans": [
-      "vt. delete 用来从表中删除一行或多行。"
+      "delete 用来从表中删除一行或多行。"
     ]
   },
   {
     "name": "drop",
     "trans": [
-      "n. drop 用来永久性地删除数据库对象（表、视图和索引等）"
+      "drop 用来永久性地删除数据库对象（表、视图和索引等）"
     ]
   },
   {
     "name": "insert",
     "trans": [
-      "vt. insert 用来对表添加一个新行。"
+      "insert 用来对表添加一个新行。"
     ]
   },
   {
     "name": "insert select",
     "trans": [
-      null
+      "insert select 用来将 select 的结果插入到表中。"
     ]
   },
   {
     "name": "rollback",
     "trans": [
-      null
+      "rollback 用来撤销事务块。"
     ]
   },
   {
     "name": "select",
     "trans": [
-      "n. select 用来从一个或多个表（或视图）中检索数据。"
+      "select 用来从一个或多个表（或视图）中检索数据。"
     ]
   },
   {
     "name": "update",
     "trans": [
-      "n. update 用来对表中的一行或多行进行更新。"
+      "update 用来对表中的一行或多行进行更新。"
     ]
   }
 ]

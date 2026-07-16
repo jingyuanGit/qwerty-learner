@@ -14,10 +14,18 @@ import { DonateCard } from '@/components/DonateCard'
 import Header from '@/components/Header'
 import Tooltip from '@/components/Tooltip'
 import { idDictionaryMap } from '@/resources/dictionary'
-import { currentChapterAtom, currentDictIdAtom, isReviewModeAtom, randomConfigAtom, reviewModeInfoAtom } from '@/store'
+import {
+  currentChapterAtom,
+  currentDictIdAtom,
+  isObsidianSyncEnabledAtom,
+  isReviewModeAtom,
+  randomConfigAtom,
+  reviewModeInfoAtom,
+} from '@/store'
 import { IsDesktop, isLegal } from '@/utils'
 import { useSaveChapterRecord } from '@/utils/db'
 import { useMixPanelChapterLogUploader } from '@/utils/mixpanel'
+import { syncChapterToObsidian } from '@/utils/obsidian'
 import { useAtom, useAtomValue, useSetAtom } from 'jotai'
 import type React from 'react'
 import { useCallback, useEffect, useState } from 'react'
@@ -33,6 +41,7 @@ const App: React.FC = () => {
   const randomConfig = useAtomValue(randomConfigAtom)
   const chapterLogUploader = useMixPanelChapterLogUploader(state)
   const saveChapterRecord = useSaveChapterRecord()
+  const isObsidianSyncEnabled = useAtomValue(isObsidianSyncEnabledAtom)
 
   const reviewModeInfo = useAtomValue(reviewModeInfoAtom)
   const isReviewMode = useAtomValue(isReviewModeAtom)
@@ -108,6 +117,11 @@ const App: React.FC = () => {
     if (state.isFinished && !state.isSavingRecord) {
       chapterLogUploader()
       saveChapterRecord(state)
+      if (isObsidianSyncEnabled) {
+        void syncChapterToObsidian({
+          words: state.chapterData.words.map((word) => ({ name: word.name, trans: word.trans })),
+        })
+      }
     }
 
     // eslint-disable-next-line react-hooks/exhaustive-deps

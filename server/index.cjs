@@ -9,6 +9,7 @@ const PORT = Number(process.env.PORT || 3001)
 const PROJECT_ROOT = process.cwd()
 const SQLITE_PATH = path.resolve(PROJECT_ROOT, 'progress.sqlite')
 const BUILD_DIR = path.resolve(PROJECT_ROOT, 'build')
+const OBSIDIAN_PROGRESS_PATH = process.env.OBSIDIAN_PROGRESS_PATH || ''
 
 app.use(express.json({ limit: '5mb' }))
 
@@ -27,6 +28,26 @@ function toJSON(value, fallback) {
   } catch {
     return fallback
   }
+}
+
+function appendLinesToObsidian(lines) {
+  if (!OBSIDIAN_PROGRESS_PATH) {
+    console.log('[obsidian-sync] OBSIDIAN_PROGRESS_PATH 未配置，跳过同步')
+    return
+  }
+  if (lines.length === 0) return
+  ensureDir(OBSIDIAN_PROGRESS_PATH)
+  const todayHeading = `## ${new Date().toISOString().slice(0, 10)}`
+  let needsHeading = true
+  if (fs.existsSync(OBSIDIAN_PROGRESS_PATH)) {
+    const content = fs.readFileSync(OBSIDIAN_PROGRESS_PATH, 'utf-8')
+    const headings = content.match(/## \d{4}-\d{2}-\d{2}/g)
+    if (headings && headings[headings.length - 1] === todayHeading) {
+      needsHeading = false
+    }
+  }
+  const chunk = (needsHeading ? `\n${todayHeading}\n` : '') + lines.join('\n') + '\n'
+  fs.appendFileSync(OBSIDIAN_PROGRESS_PATH, chunk, 'utf-8')
 }
 
 ensureDir(SQLITE_PATH)
@@ -207,6 +228,24 @@ app.post('/api/chapter-records', (req, res) => {
 app.get('/api/chapter-records/count', (_req, res) => {
   const row = chapterCountStmt.get()
   res.json({ count: row.count })
+})
+
+app.post('/api/obsidian/sync', (req, res) => {
+  try {
+    if (!OBSIDIAN_PROGRESS_PATH) {
+      res.json({ skipped: true })
+      return
+    }
+    const words = Array.isArray(req.body.words) ? req.body.words : []
+    const lines = words
+      .filter((w) => w && w.name)
+      .map((w) => `- ${w.name} ${Array.isArray(w.trans) ? w.trans.join('；') : ''}`.trimEnd())
+    appendLinesToObsidian(lines)
+    res.json({ success: true })
+  } catch (error) {
+    console.error('[obsidian-sync] 写入失败:', error)
+    res.status(500).json({ success: false })
+  }
 })
 
 app.get('/api/review-records', (_req, res) => {

@@ -113,5 +113,7 @@ export const dismissStartCardDateAtom = atomWithStorage<Date | null>(DISMISS_STA
 // Enhanced version promotion popup state
 export const hasSeenEnhancedPromotionAtom = atomWithStorage('hasSeenEnhancedPromotion', false)
 
+export const isObsidianSyncEnabledAtom = atomWithStorage('isObsidianSyncEnabled', false)
+
 // for dev test
 //   dismissStartCardDateAtom = atom<Date | null>(new Date())

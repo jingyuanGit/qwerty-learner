@@ -1,6 +1,22 @@
 {
   "permissions": {
-    "allow": ["WebSearch"],
+    "allow": [
+      "WebSearch",
+      "Bash(git push *)",
+      "Bash(yarn start *)",
+      "Read(//tmp/**)",
+      "Bash(curl -s http://localhost:3001/api/health)",
+      "Bash(lsof -ti:3001)",
+      "Bash(xargs -r kill)",
+      "Read(//Users/chenjingyuan/Documents/jy-note/学习/英语/**)",
+      "Bash(export OBSIDIAN_PROGRESS_PATH=\"/Users/chenjingyuan/Documents/jy-note/学习/英语/progress.md\")",
+      "Bash(nohup env OBSIDIAN_PROGRESS_PATH=/Users/chenjingyuan/Documents/jy-note/学习/英语/progress.md yarn start)",
+      "Bash(nohup env OBSIDIAN_PROGRESS_PATH=\"/Users/chenjingyuan/Documents/jy-note/学习/英语/progress.md\" yarn start)",
+      "Bash(curl -s http://localhost:3001/ -o /dev/null -w \"http_status=%{http_code}\\\\n\")",
+      "Bash(npx tsc *)",
+      "Bash(npx eslint *)",
+      "Bash(lsof -ti:3098,3099)"
+    ],
     "deny": [],
     "ask": []
   }

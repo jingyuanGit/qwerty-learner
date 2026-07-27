@@ -237,9 +237,7 @@ app.post('/api/obsidian/sync', (req, res) => {
       return
     }
     const words = Array.isArray(req.body.words) ? req.body.words : []
-    const lines = words
-      .filter((w) => w && w.name)
-      .map((w) => `- ${w.name} ${Array.isArray(w.trans) ? w.trans.join('；') : ''}`.trimEnd())
+    const lines = words.filter((w) => w && w.name).map((w) => `- ${w.name} ${Array.isArray(w.trans) ? w.trans.join('；') : ''}`.trimEnd())
     appendLinesToObsidian(lines)
     res.json({ success: true })
   } catch (error) {
